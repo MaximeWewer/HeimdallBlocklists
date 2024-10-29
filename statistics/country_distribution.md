@@ -61,8 +61,8 @@
 | Bolivia | 860 | 0.13% |
 | Tunisia | 788 | 0.12% |
 | Ethiopia | 785 | 0.12% |
-| Iraq | 768 | 0.12% |
 | Austria | 768 | 0.12% |
+| Iraq | 768 | 0.12% |
 | Cabo Verde | 702 | 0.11% |
 | Moldova | 694 | 0.11% |
 | Lithuania | 676 | 0.10% |
@@ -87,8 +87,8 @@
 | Azerbaijan | 330 | 0.05% |
 | Costa Rica | 321 | 0.05% |
 | North Macedonia | 302 | 0.05% |
-| Kuwait | 299 | 0.05% |
 | Nepal | 299 | 0.05% |
+| Kuwait | 299 | 0.05% |
 | New Zealand | 293 | 0.04% |
 | Mongolia | 287 | 0.04% |
 | Cyprus | 283 | 0.04% |
@@ -99,5 +99,5 @@
 | Estonia | 222 | 0.03% |
 | Croatia | 208 | 0.03% |
 | Gambia | 205 | 0.03% |
-| Bosnia and Herzegovina | 182 | 0.03% |
 | Lebanon | 182 | 0.03% |
+| Bosnia and Herzegovina | 182 | 0.03% |

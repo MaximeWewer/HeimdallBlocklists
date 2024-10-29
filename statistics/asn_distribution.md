@@ -92,12 +92,12 @@
 | ALGAR TELECOM SA | 851 | 0.13% |
 | LG DACOM Corporation | 844 | 0.13% |
 | IONOS SE | 838 | 0.13% |
-| Orange | 836 | 0.13% |
 | LG POWERCOMM | 836 | 0.13% |
+| Orange | 836 | 0.13% |
 | MT-MPLS | 834 | 0.13% |
 | HURRICANE | 817 | 0.13% |
 | BHARTI Airtel Ltd. | 812 | 0.13% |
 | Telefonica De Espana S.a.u. | 801 | 0.12% |
 | Huawei Cloud Service data center | 785 | 0.12% |
-| LEASEWEB-USA-DAL | 779 | 0.12% |
 | Ethiopian Telecommunication Corporation | 779 | 0.12% |
+| LEASEWEB-USA-DAL | 779 | 0.12% |
