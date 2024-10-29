@@ -66,8 +66,8 @@
 | Cabo Verde | 702 | 0.11% |
 | Moldova | 694 | 0.11% |
 | Lithuania | 676 | 0.10% |
-| Peru | 663 | 0.10% |
 | Cambodia | 663 | 0.10% |
+| Peru | 663 | 0.10% |
 | Kenya | 643 | 0.10% |
 | Algeria | 592 | 0.09% |
 | Ecuador | 502 | 0.08% |
