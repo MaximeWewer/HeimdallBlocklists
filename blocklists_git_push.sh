@@ -4,7 +4,7 @@ ACCESS_TOKEN=$1
 COMMIT_MESSAGE="[bot] Update blocklists"
 COMMIT_AUTHOR="Maxime Wewer"
 COMMIT_EMAIL="MaximeWewer@users.noreply.github.com"
-REPO_URL="https://MaximeWewer${ACCESS_TOKEN}@github.com/MaximeWewer/HeimdallBlocklists.git"
+REPO_URL="https://MaximeWewer:${ACCESS_TOKEN}@github.com/MaximeWewer/HeimdallBlocklists.git"
 BRANCH_NAME="main"
 
 BLOCKLISTS_DIR="./blocklists"
@@ -26,4 +26,4 @@ git add $BLOCKLISTS_DIR $STATISTICS_DIR
 git commit -m "$COMMIT_MESSAGE"
 
 # Push the changes to the repository
-git push -o ci.skip "$REPO_URL" HEAD:"$BRANCH_NAME"
+git push "$REPO_URL" HEAD:"$BRANCH_NAME"
