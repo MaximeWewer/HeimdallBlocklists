@@ -73,11 +73,13 @@ def extract_ips_from_file(file_path: Path) -> Set[str]:
         logging.error(f"Error reading file {file_path}: {e}")
         return set()
 
-def save_blocklist_statistics(stats: List[Tuple[str, int]]) -> None:
-    """Save the blocklist statistics (file name and IP count) to a Markdown file."""
-    markdown_path: Path = STATISTICS_DIR / 'blocklist_statistics.md'
-    content: str = "# Blocklist Statistics\n| Blocklist Name | IP Count |\n|----|----|\n"
-    content += "".join(f"| {name} | {count} |\n" for name, count in stats)
+def save_blocklists_statistics(stats: List[Tuple[str, int]]) -> None:
+    """Save the blocklists statistics (file name and IP count) to a Markdown file."""
+    # Sort the stats by IP count in descending order
+    sorted_stats = sorted(stats, key=lambda x: x[1], reverse=True)
+    markdown_path: Path = STATISTICS_DIR / 'blocklists_statistics.md'
+    content: str = "# Blocklists Statistics\n| Blocklist Name | IP Count |\n|----|----|\n"
+    content += "".join(f"| {name} | {count} |\n" for name, count in sorted_stats)
     markdown_path.write_text(content)
     logging.info(f"Statistics saved to {markdown_path}")
 
@@ -92,7 +94,7 @@ def get_unique_ips() -> Set[str]:
         unique_ips.update(ips)
         blocklist_stats.append((file_path.name, len(ips)))
 
-    save_blocklist_statistics(blocklist_stats)
+    save_blocklists_statistics(blocklist_stats)
     return unique_ips
 
 def analyze_ips(unique_ips: Set[str], country_reader: geoip2.database.Reader, as_reader: geoip2.database.Reader) -> Tuple[Counter, Counter]:
@@ -133,9 +135,10 @@ def save_daily_summary(unique_ip_count: int) -> None:
     entries: List[str] = read_existing_summary(markdown_path)
 
     # Separate header and data entries
-    header: str = entries[0]
-    separator: str = entries[1]
-    data_entries: List[str] = entries[2:]
+    title: str = entries[0]
+    header: str = entries[1]
+    separator: str = entries[2]
+    data_entries: List[str] = entries[3:]
 
     # Update or append today's entry
     updated: bool = False
@@ -150,15 +153,18 @@ def save_daily_summary(unique_ip_count: int) -> None:
     # Keep only the last 30 days of entries
     data_entries = data_entries[-30:]
 
-    # Combine header, separator, and data entries into a single Markdown string without extra line breaks
-    markdown_content: str = "".join([header, separator] + data_entries)
+    # Sort entries by date in descending order
+    data_entries.sort(key=lambda x: datetime.strptime(x.split('|')[1].strip(), "%Y-%m-%d"), reverse=True)
+
+    # Combine header, separator, and data entries into a single Markdown string
+    markdown_content = "\n".join([title, header, separator] + data_entries)
     markdown_path.write_text(markdown_content)
     logging.info(f"Daily summary updated with {unique_ip_count} unique IPs for {today}.")
 
 def read_existing_summary(file_path: Path) -> List[str]:
     """Read existing daily summary and return as a list of lines, or initialize if file does not exist."""
     if file_path.exists():
-        return file_path.read_text().strip().splitlines()
+        return file_path.read_text(encoding='utf-8').strip().splitlines()
     return ["# Daily IP Summary\n", "| Date | Unique IP Count |\n", "|----|----|\n"]
 
 def save_statistics_file(data: List[Tuple[str, int, str]], file_path: Path, headers: List[str], title: str) -> None:
