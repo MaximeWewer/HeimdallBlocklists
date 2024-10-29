@@ -26,4 +26,4 @@ git add $BLOCKLISTS_DIR $STATISTICS_DIR
 git commit -m "$COMMIT_MESSAGE"
 
 # Push the changes to the repository
-git push -o ci.skip "$REPO_URL" HEAD:"$BRANCH_NAME"
+git push "$REPO_URL" HEAD:"$BRANCH_NAME"
