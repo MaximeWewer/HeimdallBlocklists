@@ -11,7 +11,7 @@ from concurrent.futures import ThreadPoolExecutor
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Constants and configuration
-OUTPUT_DIR: Path = Path("Travaux/Whitelists_blocklists/blocklists")
+OUTPUT_DIR: Path = Path("./blocklists")
 
 # Base URLs for the lists to download
 ROMAINMARCOUX_GITHUB_URL: str = "https://github.com/romainmarcoux/malicious-ip/tree/main/sources"

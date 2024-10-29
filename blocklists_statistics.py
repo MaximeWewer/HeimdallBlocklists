@@ -12,9 +12,9 @@ from typing import Tuple, Optional, List, Dict, Set
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Constants for directories and database paths
-OUTPUT_DIR: Path = Path("Travaux/Whitelists_blocklists/blocklists")
-STATISTICS_DIR: Path = Path("Travaux/Whitelists_blocklists/statistics")
-MAXMIND_PATH: Path = Path("maxmind")
+OUTPUT_DIR: Path = Path("./blocklists")
+STATISTICS_DIR: Path = Path("./statistics")
+MAXMIND_PATH: Path = Path("./maxmind")
 MAXMIND_COUNTRY_DB: str = "GeoLite2-Country.mmdb"
 MAXMIND_ASN_DB: str = "GeoLite2-ASN.mmdb"
 MAXMIND_URL: Dict[str, str] = {
