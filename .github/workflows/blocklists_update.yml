@@ -37,4 +37,4 @@ jobs:
         shell: bash
         run: |
           chmod +x blocklists_git_push.sh
-          ./blocklists_git_push.sh
+          ./blocklists_git_push.sh ${{ secrets.GITHUB_TOKEN }}
