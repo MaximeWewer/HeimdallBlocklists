@@ -34,4 +34,4 @@ jobs:
         shell: bash
         run: |
           chmod +x blocklists_git_push.sh
-          blocklists_git_push.sh ${{ secrets.ACCESS_TOKEN }}
+          ./blocklists_git_push.sh ${{ secrets.ACCESS_TOKEN }}
