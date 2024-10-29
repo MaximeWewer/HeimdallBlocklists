@@ -3,7 +3,8 @@ name: Blocklists Update
 on:
   schedule:
     - cron: '0 */1 * * *'
-
+  workflow_dispatch:
+  
 jobs:
   blocklists_update:
     runs-on: ubuntu-latest
