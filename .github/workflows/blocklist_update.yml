@@ -1,0 +1,36 @@
+name: Blocklists Update
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+
+jobs:
+  blocklists_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13' 
+
+      - name: Install necessary packages
+        run: |
+          python -m venv venv_blocklist
+          source venv_blocklist/bin/activate
+          pip install --upgrade pip requests ipaddress geoip2 path
+
+      - name: Run blocklists update script
+        run: |
+          source venv_blocklist/bin/activate
+          python blocklists_update.py
+          python blocklists_statistics.py
+
+      - name: Execute Git push script
+        shell: bash
+        run: |
+          chmod +x blocklists_git_push.sh
+          blocklists_git_push.sh ${{ secrets.ACCESS_TOKEN }}
