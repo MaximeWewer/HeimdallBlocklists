@@ -25,7 +25,7 @@ jobs:
     - name: Restore cached virtualenv
       uses: actions/cache/restore@v4
       with:
-        key: venv-${{ runner.os }}-${{ steps.setup_python.outputs.python-version }}
+        key: venv-${{ runner.os }}-python-${{ steps.setup_python.outputs.python-version }}
         path: .venv_blocklist
 
     - name: Install necessary packages
