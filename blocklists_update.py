@@ -1,5 +1,6 @@
 import re
 import json
+import string
 import time
 import logging
 import requests
@@ -12,14 +13,16 @@ from concurrent.futures import ThreadPoolExecutor
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Constants and configuration
-BLOCKLISTS_DIR: Path = Path("./blocklists")
 CONFIG_FILE: Path = Path('./blocklists_config.json')
-
+BLOCKLISTS_DIR: Path = Path("./blocklists")
+BLOCKLISTS_SPLIT_DIR: Path = Path("./blocklists_split")
+MAX_LINES_PER_FILE = 130000
 MAX_RETRIES: int = 10
 RETRY_DELAY: int = 2  # Seconds between each attempt
 
 # Ensure necessary directory exists
 BLOCKLISTS_DIR.mkdir(parents=True, exist_ok=True)
+BLOCKLISTS_SPLIT_DIR.mkdir(parents=True, exist_ok=True)
 logging.info("Necessary directories checked or created.")
 
 def clear_directory(directory: Path) -> None:
@@ -138,6 +141,46 @@ def process_all_resources(config_file: Path) -> None:
     for resource in resources:
         handle_resource(resource)
 
+def split_large_blocklists(input_directory: Path, output_directory: Path, max_lines: int) -> None:
+    """
+    Splits large blocklist files from the input directory if they exceed a given number of lines.
+    Renames files according to the pattern `name-aa.txt`, `name-ab.txt`, etc., and writes them to the output directory.
+    """
+    for file_path in input_directory.iterdir():
+        if file_path.is_file() and file_path.suffix == '.txt':
+            with file_path.open('r', encoding='utf-8', errors='ignore') as f:
+                lines = f.readlines()
+
+            line_count = len(lines)
+            base_name = file_path.stem
+
+            if line_count <= max_lines:
+                # Rename the file to include the pattern `name-aa.txt`
+                new_file_name = f"{base_name}-aa.txt"
+                output_file_path = output_directory / new_file_name
+                with output_file_path.open('w', encoding='utf-8') as output_file:
+                    output_file.writelines(lines)
+            else:
+                # Generate the file name pattern
+                alphabet = string.ascii_lowercase
+                part_index = 0
+                start_line = 0
+
+                # Split and save parts with incrementing suffixes
+                while start_line < line_count:
+                    end_line = min(start_line + max_lines, line_count)
+                    part_suffix = f"{alphabet[part_index // 26]}{alphabet[part_index % 26]}"
+                    part_file_name = f"{base_name}-{part_suffix}.txt"
+                    part_file_path = output_directory / part_file_name
+                    
+                    # Write the split file
+                    with part_file_path.open('w', encoding='utf-8') as part_file:
+                        part_file.writelines(lines[start_line:end_line])
+                    
+                    start_line += max_lines
+                    part_index += 1
+
 if __name__ == "__main__":
     clear_directory(BLOCKLISTS_DIR)
     process_all_resources(CONFIG_FILE)
+    split_large_blocklists(BLOCKLISTS_DIR, BLOCKLISTS_SPLIT_DIR, MAX_LINES_PER_FILE)
