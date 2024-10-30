@@ -39,6 +39,12 @@ jobs:
         fi
         echo "$PWD/.venv_blocklist/bin" >> $GITHUB_PATH
         echo "VIRTUAL_ENV=$PWD/.venv_blocklist" >> $GITHUB_ENV
+    
+    - name: Save cached virtualenv
+      uses: actions/cache@v4
+      with:
+        key: venv-${{ runner.os }}-python-${{ steps.setup_python.outputs.python-version }}
+        path: .venv_blocklist
 
     - name: Run blocklists update script
       run: |
