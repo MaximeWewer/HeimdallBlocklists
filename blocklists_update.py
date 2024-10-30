@@ -48,7 +48,7 @@ def get_fragment_list(github_url: str, raw_url_prefix: str) -> List[str]:
         try:
             response = requests.get(github_url, timeout=5)
             if response.status_code == 200:
-                fragment_list = re.findall(r'href="[^"]*\.txt"', response.text)
+                fragment_list = set(re.findall(r'href="([^"]*\.txt)"', response.text))
                 if fragment_list:
                     return [
                         f"{raw_url_prefix}/{file.split('/')[-1].replace('\"', '')}"
@@ -77,7 +77,7 @@ def download_file(url: str, filename: str) -> None:
 def download_all_files(file_urls: List[str]) -> None:
     """Download all files using multithreading."""
     with ThreadPoolExecutor(max_workers=5) as executor:
-        for url in file_urls:
+        for url in sorted(file_urls):
             filename = url.split("/")[-1]
             executor.submit(download_file, url, filename)
 
