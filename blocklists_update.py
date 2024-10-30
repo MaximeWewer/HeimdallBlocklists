@@ -1,9 +1,10 @@
 import re
+import json
 import time
 import logging
 import requests
 import ipaddress
-from typing import List
+from typing import Dict, List
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor
 
@@ -11,20 +12,14 @@ from concurrent.futures import ThreadPoolExecutor
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Constants and configuration
-OUTPUT_DIR: Path = Path("./blocklists")
-
-# Base URLs for the lists to download
-ROMAINMARCOUX_GITHUB_URL: str = "https://github.com/romainmarcoux/malicious-ip/tree/main/sources"
-ROMAINMARCOUX_RAW_URL_PREFIX: str = "https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/sources"
-DUGGYTUXY_URL: str = "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/refs/heads/main/botnets_zombies_scanner_spam_ips.txt"
-THREE_CORESEC_URL: str = "https://blacklist.3coresec.net/lists/all.txt"
-SPAMHAUS_DROP_URL: str = "https://www.spamhaus.org/drop/drop.txt"
+BLOCKLISTS_DIR: Path = Path("./blocklists")
+CONFIG_FILE: Path = Path('./blocklists_config.json')
 
 MAX_RETRIES: int = 10
 RETRY_DELAY: int = 2  # Seconds between each attempt
 
 # Ensure necessary directory exists
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+BLOCKLISTS_DIR.mkdir(parents=True, exist_ok=True)
 logging.info("Necessary directories checked or created.")
 
 def clear_directory(directory: Path) -> None:
@@ -38,32 +33,37 @@ def clear_directory(directory: Path) -> None:
         except Exception as e:
             logging.error(f"Error removing {file_path}: {e}")
 
-def get_file_list_from_github() -> List[str]:
-    """Retrieve the list of blocklist files from GitHub with retries."""
+def remove_empty_files(directory: Path) -> None:
+    """Remove all empty files from the specified directory."""
+    for file_path in directory.iterdir():
+        if file_path.is_file() and file_path.stat().st_size == 0:
+            file_path.unlink()
+
+def get_fragment_list(github_url: str, raw_url_prefix: str) -> List[str]:
+    """Retrieve the list of fragment files from GitHub with retries."""
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            response = requests.get(ROMAINMARCOUX_GITHUB_URL, timeout=5)
+            response = requests.get(github_url, timeout=5)
             if response.status_code == 200:
-                file_list = re.findall(r'href="[^"]*\.txt"', response.text)
-                if file_list:
+                fragment_list = re.findall(r'href="[^"]*\.txt"', response.text)
+                if fragment_list:
                     return [
-                        f"{ROMAINMARCOUX_RAW_URL_PREFIX}/{file.split('/')[-1].replace('\"', '')}"
-                        for file in file_list
+                        f"{raw_url_prefix}/{file.split('/')[-1].replace('\"', '')}"
+                        for file in fragment_list
                     ]
         except requests.RequestException as e:
             logging.error(f"Attempt {attempt}: Connection error - {e}")
-
         if attempt < MAX_RETRIES:
             time.sleep(RETRY_DELAY * attempt)
     logging.error("Failed to retrieve the file list after several attempts.")
     return []
 
 def download_file(url: str, filename: str) -> None:
-    """Download a file from a given URL into OUTPUT_DIR."""
+    """Download a file from a given URL into BLOCKLISTS_DIR."""
     try:
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
-            file_path = OUTPUT_DIR / filename
+            file_path = BLOCKLISTS_DIR / filename
             file_path.write_bytes(response.content)
             logging.info(f"Downloaded {filename}")
         else:
@@ -78,14 +78,23 @@ def download_all_files(file_urls: List[str]) -> None:
             filename = url.split("/")[-1]
             executor.submit(download_file, url, filename)
 
-def romainmarcoux_merge_files(file_prefix: str) -> Path:
+def merge_fragments(prefix: str, blocklist_name: str) -> Path:
     """Merge fragments of files with the same prefix into a single file."""
-    merged_file_path = OUTPUT_DIR / f"romainmarcoux_{file_prefix}.txt"
+    merged_file_path = BLOCKLISTS_DIR / f"{prefix}_{blocklist_name}.txt"
     with merged_file_path.open('w', encoding='utf-8', errors='ignore') as merged_file:
-        for filename in sorted(OUTPUT_DIR.glob(f"{file_prefix}-a*.txt")):
+        for filename in sorted(BLOCKLISTS_DIR.glob(f"{blocklist_name}-a*.txt")):
             with filename.open('r', encoding='utf-8', errors='ignore') as fragment:
                 merged_file.write(fragment.read())
     return merged_file_path
+
+def merge_and_clean_fragments(merge_prefix: str) -> None:
+    """Extract, merge, and sort IPs in files with specified prefixes, then delete fragments."""
+    blocklists_names = sorted({re.sub(r"-(a[a-z])\.txt$", "", f.name) for f in BLOCKLISTS_DIR.glob("*-a*.txt")})
+    for name in blocklists_names:
+        merged_file_path = merge_fragments(merge_prefix, name)
+        extract_and_sort_ipv4(merged_file_path)
+        for fragment in BLOCKLISTS_DIR.glob(f"{name}-a*.txt"):
+            fragment.unlink()
 
 def is_valid_ip(ip: str) -> bool:
     """Return True if the given IP address is valid, otherwise False."""
@@ -103,57 +112,32 @@ def extract_and_sort_ipv4(file_path: Path) -> None:
     with file_path.open('w', encoding='utf-8', errors='ignore') as f:
         f.write("\n".join(sorted_ips))
 
-def clean_and_merge_fragments(prefixes: List[str]) -> None:
-    """Merge, extract, and sort IPs in files with specified prefixes, then delete fragments."""
-    for prefix in prefixes:
-        merged_file_path = romainmarcoux_merge_files(prefix)
-        extract_and_sort_ipv4(merged_file_path)
-        for fragment in OUTPUT_DIR.glob(f"{prefix}-a*.txt"):
-            fragment.unlink()
+def load_config(file_path: Path) -> List[Dict[str, str]]:
+    """Load configuration from a JSON file."""
+    with open(file_path, 'r', encoding='utf-8') as f:
+        return json.load(f)
 
-def handle_list(url: str, filename: str, source_name: str) -> None:
-    """Download and process a list from a given URL."""
-    download_file(url, filename)
-    
-    file_path = OUTPUT_DIR / filename
-    if not file_path.exists() or file_path.stat().st_size == 0:
-        logging.error(f"No files found for {source_name} or the file is empty.")
-    else:
-        extract_and_sort_ipv4(file_path)
+def handle_resource(resource: Dict[str, str]) -> None:
+    """Download and process a resource based on the configuration."""
+    if "github_url" in resource and "raw_url_prefix" in resource:
+        file_urls = get_fragment_list(resource["github_url"], resource["raw_url_prefix"])
+        if file_urls:
+            download_all_files(file_urls)
+            remove_empty_files(BLOCKLISTS_DIR)
+            merge_and_clean_fragments(resource["merge_prefix"])
+    elif "url" in resource and "filename" in resource:
+        download_file(resource["url"], resource["filename"])
+        remove_empty_files(BLOCKLISTS_DIR)
+        file_path = BLOCKLISTS_DIR / resource["filename"]
+        if file_path:
+            extract_and_sort_ipv4(file_path)
 
-def handle_duggytuxy_list() -> None:
-    """Download and process the DuggyTuxy list."""
-    handle_list(DUGGYTUXY_URL, "duggytuxy_botnets_zombies_scanner_spam_ips.txt", "DuggyTuxy")
-
-def handle_3coresec_list() -> None:
-    """Download and process the 3coresec list."""
-    handle_list(THREE_CORESEC_URL, "3coresec_lists_all.txt", "3coresec")
-
-def handle_spamhaus_list() -> None:
-    """Download and process the Spamhaus list."""
-    handle_list(SPAMHAUS_DROP_URL, "spamhaus_drop.txt", "Spamhaus")
-
-def handle_romainmarcoux_lists() -> None:
-    """Download and merge Romain Marcoux's list fragments, then extract IPv4 addresses."""
-    file_list = get_file_list_from_github()
-    if not file_list:
-        logging.error("No files found for Romain Marcoux.")
-        return
-
-    download_all_files(file_list)
-
-    # Remove empty files
-    for filename in OUTPUT_DIR.iterdir():
-        if filename.is_file() and filename.stat().st_size == 0:
-            filename.unlink()
-
-    # Identify prefixes and merge fragments
-    prefixes = {re.sub(r"-(a[a-z])\.txt$", "", f.name) for f in OUTPUT_DIR.glob("*-a*.txt")}
-    clean_and_merge_fragments(list(prefixes))
+def process_all_resources(config_file: Path) -> None:
+    """Load resources configuration and process each resource."""
+    resources = load_config(config_file)
+    for resource in resources:
+        handle_resource(resource)
 
 if __name__ == "__main__":
-    clear_directory(OUTPUT_DIR)
-    handle_duggytuxy_list()
-    handle_romainmarcoux_lists()
-    handle_3coresec_list()
-    handle_spamhaus_list()
+    clear_directory(BLOCKLISTS_DIR)
+    process_all_resources(CONFIG_FILE)

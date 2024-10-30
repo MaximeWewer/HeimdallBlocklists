@@ -1,0 +1,19 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/refs/heads/main/botnets_zombies_scanner_spam_ips.txt",
+        "filename": "duggytuxy_botnets_zombies_scanner_spam_ips.txt"
+    },
+    {
+        "url": "https://blacklist.3coresec.net/lists/all.txt",
+        "filename": "3coresec_lists_all.txt"
+    },
+    {
+        "url": "https://www.spamhaus.org/drop/drop.txt",
+        "filename": "spamhaus_drop.txt"
+    },
+    {
+        "github_url": "https://github.com/romainmarcoux/malicious-ip/tree/main/sources",
+        "raw_url_prefix": "https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/sources",
+        "merge_prefix": "romainmarcoux"
+    }
+]

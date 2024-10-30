@@ -12,9 +12,9 @@ from typing import Tuple, Optional, List, Dict, Set
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Constants for directories and database paths
-OUTPUT_DIR: Path = Path("./blocklists")
+BLOCKLISTS_DIR: Path = Path("./blocklists")
 STATISTICS_DIR: Path = Path("./statistics")
-MAXMIND_PATH: Path = Path("./maxmind")
+MAXMIND_DIR: Path = Path("./maxmind")
 MAXMIND_COUNTRY_DB: str = "GeoLite2-Country.mmdb"
 MAXMIND_ASN_DB: str = "GeoLite2-ASN.mmdb"
 MAXMIND_URL: Dict[str, str] = {
@@ -23,15 +23,15 @@ MAXMIND_URL: Dict[str, str] = {
 }
 
 # Ensure necessary directories exist
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+BLOCKLISTS_DIR.mkdir(parents=True, exist_ok=True)
 STATISTICS_DIR.mkdir(parents=True, exist_ok=True)
-MAXMIND_PATH.mkdir(parents=True, exist_ok=True)
+MAXMIND_DIR.mkdir(parents=True, exist_ok=True)
 logging.info("Necessary directories checked or created.")
 
 def download_maxmind_databases() -> None:
     """Download MaxMind GeoIP databases if not already present in the directory."""
     for db_type, url in MAXMIND_URL.items():
-        file_path: Path = MAXMIND_PATH / f"GeoLite2-{db_type}.mmdb"
+        file_path: Path = MAXMIND_DIR / f"GeoLite2-{db_type}.mmdb"
         if not file_path.exists():
             logging.info(f"Downloading {db_type} database...")
             try:
@@ -45,8 +45,8 @@ def download_maxmind_databases() -> None:
 def load_geoip_databases() -> Tuple[Optional[geoip2.database.Reader], Optional[geoip2.database.Reader]]:
     """Load the GeoIP databases for country and AS lookups."""
     try:
-        country_reader = geoip2.database.Reader(MAXMIND_PATH / MAXMIND_COUNTRY_DB, locales=['en'])
-        as_reader = geoip2.database.Reader(MAXMIND_PATH / MAXMIND_ASN_DB, locales=['en'])
+        country_reader = geoip2.database.Reader(MAXMIND_DIR / MAXMIND_COUNTRY_DB, locales=['en'])
+        as_reader = geoip2.database.Reader(MAXMIND_DIR / MAXMIND_ASN_DB, locales=['en'])
         logging.info("GeoIP databases loaded successfully.")
         return country_reader, as_reader
     except Exception as e:
@@ -89,7 +89,7 @@ def get_unique_ips() -> Set[str]:
     unique_ips: Set[str] = set()
     blocklist_stats: List[Tuple[str, int]] = []
 
-    for file_path in OUTPUT_DIR.glob("*.txt"):
+    for file_path in BLOCKLISTS_DIR.glob("*.txt"):
         ips = extract_ips_from_file(file_path)
         unique_ips.update(ips)
         blocklist_stats.append((file_path.name, len(ips)))
@@ -183,24 +183,18 @@ def save_statistics(unique_ips: Set[str], country_stats: Counter, as_stats: Coun
     save_statistics_file(country_data, STATISTICS_DIR / 'country_distribution.md', ["Country", "Count", "Percentage"], "Top 100 Country Distribution")
 
     as_data: List[Tuple[str, int, str]] = [(as_name, count, f"{(count / sum(as_stats.values())) * 100:.2f}%") for as_name, count in as_stats.most_common(100)]
-    save_statistics_file(as_data, STATISTICS_DIR / 'asn_distribution.md', ["ASN", "Count", "Percentage"], "Top 100 ASN Distribution")
+    save_statistics_file(as_data, STATISTICS_DIR / 'as_distribution.md', ["AS", "Count", "Percentage"], "Top 100 AS Distribution")
 
-def main() -> None:
-    """Main function to orchestrate the workflow."""
+if __name__ == "__main__":
     download_maxmind_databases()
     country_reader, as_reader = load_geoip_databases()
 
     if country_reader is None or as_reader is None:
         logging.error("GeoIP databases are not loaded. Exiting.")
-        return
+    else:
+        unique_ips = get_unique_ips()
+        country_stats, as_stats = analyze_ips(unique_ips, country_reader, as_reader)
+        save_statistics(unique_ips, country_stats, as_stats)
 
-    unique_ips = get_unique_ips()
-    country_stats, as_stats = analyze_ips(unique_ips, country_reader, as_reader)
-    save_statistics(unique_ips, country_stats, as_stats)
-
-    # Clean up readers
-    country_reader.close()
-    as_reader.close()
-
-if __name__ == "__main__":
-    main()
+        country_reader.close()
+        as_reader.close()
