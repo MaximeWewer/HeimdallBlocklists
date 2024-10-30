@@ -77,8 +77,8 @@
 | Serbia | 424 | 0.07% |
 | Seychelles | 408 | 0.06% |
 | Uzbekistan | 390 | 0.06% |
-| Luxembourg | 385 | 0.06% |
 | Belarus | 385 | 0.06% |
+| Luxembourg | 385 | 0.06% |
 | Georgia | 370 | 0.06% |
 | Slovakia | 366 | 0.06% |
 | Paraguay | 359 | 0.06% |
@@ -87,8 +87,8 @@
 | Azerbaijan | 333 | 0.05% |
 | Costa Rica | 323 | 0.05% |
 | Nepal | 304 | 0.05% |
-| North Macedonia | 302 | 0.05% |
 | Kuwait | 302 | 0.05% |
+| North Macedonia | 302 | 0.05% |
 | Mongolia | 294 | 0.05% |
 | New Zealand | 292 | 0.04% |
 | Cyprus | 283 | 0.04% |

@@ -58,8 +58,8 @@
 | UUNET | 1402 | 0.22% |
 | National Telecommunication Corporation HQ | 1347 | 0.21% |
 | China Unicom IP network China169 Guangdong province | 1330 | 0.21% |
-| CABLE-NET-1 | 1323 | 0.21% |
 | SK Broadband Co Ltd | 1323 | 0.21% |
+| CABLE-NET-1 | 1323 | 0.21% |
 | Kyivstar PJSC | 1321 | 0.20% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 1299 | 0.20% |
 | MTS PJSC | 1293 | 0.20% |
@@ -93,8 +93,8 @@
 | LG DACOM Corporation | 842 | 0.13% |
 | IONOS SE | 839 | 0.13% |
 | LG POWERCOMM | 836 | 0.13% |
-| Orange | 832 | 0.13% |
 | MT-MPLS | 832 | 0.13% |
+| Orange | 832 | 0.13% |
 | HURRICANE | 816 | 0.13% |
 | BHARTI Airtel Ltd. | 810 | 0.13% |
 | Telefonica De Espana S.a.u. | 805 | 0.12% |
