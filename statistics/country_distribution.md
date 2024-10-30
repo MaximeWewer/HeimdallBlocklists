@@ -23,7 +23,7 @@
 | Canada | 5927 | 0.91% |
 | Ukraine | 5857 | 0.90% |
 | Australia | 5792 | 0.89% |
-| Türkiye | 5780 | 0.89% |
+| TÃ¼rkiye | 5780 | 0.89% |
 | Iran | 5693 | 0.88% |
 | Mexico | 5082 | 0.78% |
 | Venezuela | 4759 | 0.73% |
@@ -77,8 +77,8 @@
 | Serbia | 424 | 0.07% |
 | Seychelles | 408 | 0.06% |
 | Uzbekistan | 390 | 0.06% |
-| Belarus | 385 | 0.06% |
 | Luxembourg | 385 | 0.06% |
+| Belarus | 385 | 0.06% |
 | Georgia | 369 | 0.06% |
 | Slovakia | 366 | 0.06% |
 | Paraguay | 359 | 0.06% |

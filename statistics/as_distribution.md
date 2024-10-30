@@ -52,8 +52,8 @@
 | Bharti Airtel Ltd., Telemedia Services | 1601 | 0.25% |
 | M247 Europe SRL | 1568 | 0.24% |
 | ORACLE-BMC-31898 | 1527 | 0.24% |
-| CHARTER-20115 | 1483 | 0.23% |
 | Aeza International Ltd | 1483 | 0.23% |
+| CHARTER-20115 | 1483 | 0.23% |
 | HUAWEI CLOUDS | 1413 | 0.22% |
 | UUNET | 1402 | 0.22% |
 | National Telecommunication Corporation HQ | 1347 | 0.21% |
