@@ -58,8 +58,8 @@
 | UUNET | 1402 | 0.22% |
 | National Telecommunication Corporation HQ | 1347 | 0.21% |
 | China Unicom IP network China169 Guangdong province | 1330 | 0.21% |
-| CABLE-NET-1 | 1323 | 0.21% |
 | SK Broadband Co Ltd | 1323 | 0.21% |
+| CABLE-NET-1 | 1323 | 0.21% |
 | Kyivstar PJSC | 1321 | 0.20% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 1299 | 0.20% |
 | MTS PJSC | 1293 | 0.20% |
