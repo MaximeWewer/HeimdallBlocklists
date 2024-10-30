@@ -8,6 +8,7 @@ REPO_URL="https://MaximeWewer${ACCESS_TOKEN}@github.com/MaximeWewer/HeimdallBloc
 BRANCH_NAME="main"
 
 BLOCKLISTS_DIR="./blocklists"
+BLOCKLISTS_SPLIT_DIR="./blocklists_split"
 STATISTICS_DIR="./statistics"
 
 # Add gitignore
@@ -20,7 +21,7 @@ git config --global user.email "$COMMIT_EMAIL"
 git config --global user.name "$COMMIT_AUTHOR"
 
 # Add results
-git add $BLOCKLISTS_DIR $STATISTICS_DIR
+git add $BLOCKLISTS_DIR $BLOCKLISTS_SPLIT_DIR $STATISTICS_DIR
 
 # Commit the changes
 git commit -m "$COMMIT_MESSAGE"
