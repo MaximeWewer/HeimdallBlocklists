@@ -5,7 +5,7 @@
 | United States | 95849 | 14.82% |
 | India | 47161 | 7.29% |
 | Singapore | 34366 | 5.31% |
-| Russia | 25685 | 3.97% |
+| Russia | 25684 | 3.97% |
 | Germany | 20489 | 3.17% |
 | South Korea | 18463 | 2.85% |
 | Taiwan | 17485 | 2.70% |

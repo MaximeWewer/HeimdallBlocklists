@@ -15,7 +15,7 @@
 | romainmarcoux_alienvault-fakelabs.txt | 4613 |
 | romainmarcoux_alienvault-georgs.txt | 3031 |
 | romainmarcoux_emergingthreats.net.txt | 1368 |
-| spamhaus_drop.txt | 1359 |
+| spamhaus_drop.txt | 1358 |
 | romainmarcoux_projecthoneypot.org.txt | 816 |
 | 3coresec_lists_all.txt | 368 |
 | romainmarcoux_akamai.com.txt | 366 |
