@@ -44,11 +44,12 @@ jobs:
           echo "$required_packages"
 
           for package in "${required_packages[@]}"; do
-            if ! echo "$installed_packages" | grep -q "^${package}=="; then
-              echo "Missing or incorrect $package. Installing the required packages."
-              pip install $packages
-              break
-            fi
+            echo "$package"
+            # if ! echo "$installed_packages" | grep -q "^${package}=="; then
+            #   echo "Missing or incorrect $package. Installing the required packages."
+            #   pip install $packages
+            #   break
+            # fi
           done
         fi
 
