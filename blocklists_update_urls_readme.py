@@ -6,8 +6,8 @@ from typing import List
 # Setup logger
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
-blocklist_dir: Path = Path('blocklists')
-split_blocklist_dir: Path = Path('blocklists_split')
+blocklist_dir: Path = Path('./blocklists')
+split_blocklist_dir: Path = Path('./blocklists_split')
 readme_file: Path = Path('README.md')
 
 def extract_urls(directory: Path) -> List[str]:
