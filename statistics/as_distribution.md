@@ -60,8 +60,8 @@
 | TM TECHNOLOGY SERVICES SDN. BHD. | 1333 | 0.21% |
 | SK Broadband Co Ltd | 1323 | 0.21% |
 | CABLE-NET-1 | 1309 | 0.20% |
-| MTS PJSC | 1297 | 0.20% |
 | China Unicom IP network China169 Guangdong province | 1297 | 0.20% |
+| MTS PJSC | 1297 | 0.20% |
 | Kyivstar PJSC | 1276 | 0.20% |
 | Alpha Strike Labs GmbH | 1270 | 0.20% |
 | Clouvider Limited | 1259 | 0.20% |
