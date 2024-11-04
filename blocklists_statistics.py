@@ -183,7 +183,7 @@ def save_blocklist_frequency_statistics(frequency_counter: Dict[int, int]) -> No
     """Save the blocklist frequency statistics to a Markdown file."""
     total_ips = sum(frequency_counter.values())
     data = [(f"Present in {count} blocklist{'s' if count > 1 else ''}", num_ips, f"{(num_ips / total_ips) * 100:.2f}%") for count, num_ips in sorted(frequency_counter.items())]
-    markdown_path = STATISTICS_DIR / 'blocklists_frequency_statistics.md'
+    markdown_path = STATISTICS_DIR / 'blocklists_ip_frequency_statistics.md'
     headers = ["Malicious IP", "Number of IPs", "%"]
     save_statistics_file(data, markdown_path, headers, "IP presence frequency in blocklists")
 
