@@ -5,13 +5,14 @@ import ipaddress
 import geoip2.database, geoip2.errors
 from pathlib import Path
 from datetime import datetime
-from collections import Counter
+from collections import Counter, defaultdict
 from typing import Tuple, Optional, List, Dict, Set
 
 # Setup logger
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
 
 # Constants for directories and database paths
+BLOCKLISTS_IP_FREQUENCY: int = 10
 BLOCKLISTS_DIR: Path = Path("./blocklists")
 STATISTICS_DIR: Path = Path("./statistics")
 MAXMIND_DIR: Path = Path("./maxmind")
@@ -167,6 +168,25 @@ def read_existing_summary(file_path: Path) -> List[str]:
         return file_path.read_text(encoding='utf-8').strip().splitlines()
     return ["# Daily IP Summary\n", "| Date | Unique IP Count |\n", "|----|----|\n"]
 
+def analyze_ip_blocklists_frequency(unique_ips: Set[str], blocklists: List[Set[str]]) -> Dict[int, int]:
+    """Analyze how many IPs are present in at least a specified number of blocklists."""
+    frequency_counter = defaultdict(int)
+
+    for ip in unique_ips:
+        count = sum(1 for blocklist in blocklists if ip in blocklist)
+        if count <= BLOCKLISTS_IP_FREQUENCY:
+            frequency_counter[count] += 1
+
+    return frequency_counter
+
+def save_blocklist_frequency_statistics(frequency_counter: Dict[int, int]) -> None:
+    """Save the blocklist frequency statistics to a Markdown file."""
+    total_ips = sum(frequency_counter.values())
+    data = [(f"Present in {count} blocklist{'s' if count > 1 else ''}", num_ips, f"{(num_ips / total_ips) * 100:.2f}%") for count, num_ips in sorted(frequency_counter.items())]
+    markdown_path = STATISTICS_DIR / 'blocklists_frequency_statistics.md'
+    headers = ["Malicious IP", "Number of IPs", "%"]
+    save_statistics_file(data, markdown_path, headers, "IP presence frequency in blocklists")
+
 def save_statistics_file(data: List[Tuple[str, int, str]], file_path: Path, headers: List[str], title: str) -> None:
     """Save statistics to a Markdown file with a given title and headers."""
     content: str = f"# {title}\n| " + " | ".join(headers) + " |\n" + \
@@ -175,15 +195,21 @@ def save_statistics_file(data: List[Tuple[str, int, str]], file_path: Path, head
     file_path.write_text(content)
     logging.info(f"Statistics saved to {file_path}")
 
-def save_statistics(unique_ips: Set[str], country_stats: Counter, as_stats: Counter) -> None:
-    """Save country and AS distribution statistics to Markdown files."""
+def save_statistics(unique_ips: Set[str], country_stats: Counter, as_stats: Counter, frequency_counter: Dict[int, int]) -> None:
+    """Save all statistics including daily summary, country, AS distribution, and blocklist frequency."""
+    # Save daily IP summary
     save_daily_summary(len(unique_ips))
 
-    country_data: List[Tuple[str, int, str]] = [(country, count, f"{(count / sum(country_stats.values())) * 100:.2f}%") for country, count in country_stats.most_common(100)]
+    # Save country distribution statistics
+    country_data = [(country, count, f"{(count / sum(country_stats.values())) * 100:.2f}%") for country, count in country_stats.most_common(100)]
     save_statistics_file(country_data, STATISTICS_DIR / 'country_distribution.md', ["Country", "Count", "Percentage"], "Top 100 Country Distribution")
 
-    as_data: List[Tuple[str, int, str]] = [(as_name, count, f"{(count / sum(as_stats.values())) * 100:.2f}%") for as_name, count in as_stats.most_common(100)]
+    # Save AS distribution statistics
+    as_data = [(as_name, count, f"{(count / sum(as_stats.values())) * 100:.2f}%") for as_name, count in as_stats.most_common(100)]
     save_statistics_file(as_data, STATISTICS_DIR / 'as_distribution.md', ["AS", "Count", "Percentage"], "Top 100 AS Distribution")
+
+    # Save blocklist frequency statistics
+    save_blocklist_frequency_statistics(frequency_counter)
 
 if __name__ == "__main__":
     download_maxmind_databases()
@@ -193,8 +219,19 @@ if __name__ == "__main__":
         logging.error("GeoIP databases are not loaded. Exiting.")
     else:
         unique_ips = get_unique_ips()
-        country_stats, as_stats = analyze_ips(unique_ips, country_reader, as_reader)
-        save_statistics(unique_ips, country_stats, as_stats)
 
+        # Load all blocklist IPs
+        blocklists = [extract_ips_from_file(file_path) for file_path in BLOCKLISTS_DIR.glob("*.txt")]
+
+        # Perform country and AS analysis
+        country_stats, as_stats = analyze_ips(unique_ips, country_reader, as_reader)
+
+        # Analyze blocklist frequency
+        frequency_counter = analyze_ip_blocklists_frequency(unique_ips, blocklists)
+
+        # Save statistics
+        save_statistics(unique_ips, country_stats, as_stats, frequency_counter)
+
+        # Close GeoIP
         country_reader.close()
         as_reader.close()
