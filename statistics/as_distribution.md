@@ -91,8 +91,8 @@
 | GOOGLE | 854 | 0.13% |
 | IONOS SE | 853 | 0.13% |
 | LG DACOM Corporation | 838 | 0.13% |
-| ALGAR TELECOM SA | 837 | 0.13% |
 | LG POWERCOMM | 837 | 0.13% |
+| ALGAR TELECOM SA | 837 | 0.13% |
 | Orange | 835 | 0.13% |
 | Hathway IP Over Cable Internet | 833 | 0.13% |
 | Telefonica De Espana S.a.u. | 832 | 0.13% |
