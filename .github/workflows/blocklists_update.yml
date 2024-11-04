@@ -30,24 +30,28 @@ jobs:
 
     - name: Install necessary packages
       run: |
+        packages="requests ipaddress geoip2 path yaml2"
+    
         if [ ! -d ".venv_blocklist" ]; then
           python -m venv .venv_blocklist
           source .venv_blocklist/bin/activate
-          pip install requests ipaddress geoip2 path
+          pip install $packages
         else
           installed_packages=$(pip freeze)
-          required_packages=("requests" "ipaddress" "geoip2" "path" "yaml2")
+          required_packages=($packages)
+          
+          echo "$installed_packages"
+          echo "$required_packages"
 
-          echo $installed_packages
-      
           for package in "${required_packages[@]}"; do
             if ! echo "$installed_packages" | grep -q "^${package}=="; then
               echo "Missing or incorrect $package. Installing the required packages."
-              pip install requests ipaddress geoip2 path
+              pip install $packages
               break
             fi
           done
         fi
+
         echo "$PWD/.venv_blocklist/bin" >> $GITHUB_PATH
         echo "VIRTUAL_ENV=$PWD/.venv_blocklist" >> $GITHUB_ENV
       
