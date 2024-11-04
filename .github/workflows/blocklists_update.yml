@@ -36,7 +36,7 @@ jobs:
           pip install requests ipaddress geoip2 path
         else
           installed_packages=$(pip freeze)
-          required_packages=("requests" "ipaddress" "geoip2" "path")
+          required_packages=("requests" "ipaddress" "geoip2" "path" "yaml2")
       
           for package in "${required_packages[@]}"; do
             if ! echo "$installed_packages" | grep -q "^${package}=="; then
