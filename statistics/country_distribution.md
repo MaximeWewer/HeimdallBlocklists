@@ -53,8 +53,8 @@
 | Kazakhstan | 1148 | 0.18% |
 | Saudi Arabia | 1132 | 0.18% |
 | Israel | 1129 | 0.17% |
-| Czechia | 1126 | 0.17% |
 | Nigeria | 1126 | 0.17% |
+| Czechia | 1126 | 0.17% |
 | Uruguay | 1090 | 0.17% |
 | Switzerland | 1068 | 0.17% |
 | Norway | 884 | 0.14% |
