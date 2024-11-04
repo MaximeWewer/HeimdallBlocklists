@@ -30,7 +30,7 @@ jobs:
 
     - name: Install necessary packages
       run: |
-        packages="requests ipaddress geoip2 path yaml2"
+        packages="requests ipaddress geoip2 path"
     
         if [ ! -d ".venv_blocklist" ]; then
           python -m venv .venv_blocklist
@@ -41,18 +41,23 @@ jobs:
           installed_packages=$(pip freeze)
           required_packages=($packages)
 
-          for package in "${installed_packages[@]}"; do
-            echo "$package"
-          done
+          packages_installed=false
 
           for package in "${required_packages[@]}"; do
-            echo "$package"
+            if ! echo "$installed_packages" | grep -q "^${package}"; then
+              echo "Missing or incorrect $package. Installing the required packages."
+              pip install $packages
+              packages_installed=true
+            fi
           done
+
+          if [ "$packages_installed" = false ]; then
+            echo "Using cached virtualenv"
+          fi
         fi
 
         echo "$PWD/.venv_blocklist/bin" >> $GITHUB_PATH
         echo "VIRTUAL_ENV=$PWD/.venv_blocklist" >> $GITHUB_ENV
-      
     
     - name: Save cached virtualenv
       uses: actions/cache@v4
