@@ -7,6 +7,7 @@ HeimdallBlocklists is a project designed to merge and manage multiple community-
 - **Blocklist Merging**: Combines different community blocklists into unified and easily manageable lists.
 - **Compatibility**: Blocklists are split into segments of 130,000 lines to works seamlessly with all major firewalls, ensuring wide applicability.
 - **Easy Configuration**: Simply modify the JSON configuration file to add new blocklist sources effortlessly.
+- **IP Statistics**: Provides statistics on the number of blocked IPs, autonomous systems (AS), countries, etc.
 
 ## Example Blocklists
 
