@@ -23,6 +23,9 @@ def update_readme(blocklist_urls: List[str], split_blocklist_urls: List[str]) ->
     with open(readme_file, 'r') as file:
         content: str = file.read()
 
+    blocklist_urls.sort()
+    split_blocklist_urls.sort()
+
     blocklist_urls_text: str = '```text\n' + '\n'.join(blocklist_urls) + '\n```\n'
     split_blocklist_urls_text: str = '```text\n' + '\n'.join(split_blocklist_urls) + '\n```\n'
 
