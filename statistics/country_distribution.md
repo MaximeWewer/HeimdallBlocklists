@@ -24,7 +24,7 @@
 | Australia | 5856 | 0.91% |
 | Ukraine | 5786 | 0.90% |
 | Iran | 5783 | 0.89% |
-| TÃ¼rkiye | 5747 | 0.89% |
+| Türkiye | 5747 | 0.89% |
 | Mexico | 5092 | 0.79% |
 | Bulgaria | 4794 | 0.74% |
 | Venezuela | 4590 | 0.71% |

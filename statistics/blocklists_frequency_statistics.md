@@ -11,3 +11,6 @@
 | Present in 8 blocklists | 3536 | 0.55% |
 | Present in 9 blocklists | 637 | 0.10% |
 | Present in 10 blocklists | 134 | 0.02% |
+| Present in 11 blocklists | 20 | 0.00% |
+| Present in 12 blocklists | 2 | 0.00% |
+| Present in 13 blocklists | 1 | 0.00% |
