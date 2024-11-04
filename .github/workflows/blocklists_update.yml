@@ -37,6 +37,7 @@ jobs:
           source .venv_blocklist/bin/activate
           pip install $packages
         else
+          source .venv_blocklist/bin/activate
           installed_packages=$(pip freeze)
           required_packages=($packages)
 
