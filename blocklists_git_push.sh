@@ -10,6 +10,7 @@ BRANCH_NAME="main"
 BLOCKLISTS_DIR="./blocklists"
 BLOCKLISTS_SPLIT_DIR="./blocklists_split"
 STATISTICS_DIR="./statistics"
+README="README.md"
 
 # Add gitignore
 echo ".gitignore" >> .gitignore
@@ -21,7 +22,7 @@ git config --global user.email "$COMMIT_EMAIL"
 git config --global user.name "$COMMIT_AUTHOR"
 
 # Add results
-git add $BLOCKLISTS_DIR $BLOCKLISTS_SPLIT_DIR $STATISTICS_DIR
+git add $BLOCKLISTS_DIR $BLOCKLISTS_SPLIT_DIR $STATISTICS_DIR $README
 
 # Commit the changes
 git commit -m "$COMMIT_MESSAGE"
