@@ -65,10 +65,11 @@ jobs:
         key: venv-${{ runner.os }}-python-${{ steps.setup_python.outputs.python-version }}
         path: .venv_blocklist
 
-    - name: Run blocklists update script
+    - name: Run blocklists update scripts
       run: |
         python blocklists_update.py
         python blocklists_statistics.py
+        python blocklists_update_urls_readme.py
 
     - name: Execute Git push script
       shell: bash
