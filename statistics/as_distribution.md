@@ -1,23 +1,23 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 60406 | 9.58% |
-| CHINA UNICOM China169 Backbone | 34740 | 5.51% |
-| DIGITALOCEAN-ASN | 33291 | 5.28% |
-| AMAZON-02 | 24874 | 3.94% |
+| Chinanet | 60416 | 9.58% |
+| CHINA UNICOM China169 Backbone | 34747 | 5.51% |
+| DIGITALOCEAN-ASN | 33296 | 5.28% |
+| AMAZON-02 | 24876 | 3.94% |
 | National Internet Backbone | 20363 | 3.23% |
 | TE Data | 16027 | 2.54% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 14045 | 2.23% |
 | Data Communication Business Group | 13047 | 2.07% |
-| Korea Telecom | 11654 | 1.85% |
-| Alibaba US Technology Co., Ltd. | 10448 | 1.66% |
-| Shenzhen Tencent Computer Systems Company Limited | 8252 | 1.31% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 7922 | 1.26% |
-| GOOGLE-CLOUD-PLATFORM | 7897 | 1.25% |
-| Akamai Connected Cloud | 6302 | 1.00% |
-| Tencent Building, Kejizhongyi Avenue | 5398 | 0.86% |
-| VNPT Corp | 5123 | 0.81% |
-| OVH SAS | 5018 | 0.80% |
+| Korea Telecom | 11656 | 1.85% |
+| Alibaba US Technology Co., Ltd. | 10450 | 1.66% |
+| Shenzhen Tencent Computer Systems Company Limited | 8253 | 1.31% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 7930 | 1.26% |
+| GOOGLE-CLOUD-PLATFORM | 7901 | 1.25% |
+| Akamai Connected Cloud | 6305 | 1.00% |
+| Tencent Building, Kejizhongyi Avenue | 5399 | 0.86% |
+| VNPT Corp | 5125 | 0.81% |
+| OVH SAS | 5019 | 0.80% |
 | Vodafone Italia S.p.A. | 4974 | 0.79% |
 | Rostelecom | 4857 | 0.77% |
 | China Mobile Communications Group Co., Ltd. | 4705 | 0.75% |
@@ -27,30 +27,30 @@
 | AMAZON-AES | 3923 | 0.62% |
 | UNINET | 3525 | 0.56% |
 | JSC ER-Telecom Holding | 3250 | 0.52% |
-| TOT Public Company Limited | 2679 | 0.42% |
-| Contabo GmbH | 2654 | 0.42% |
-| Hetzner Online GmbH | 2617 | 0.41% |
+| TOT Public Company Limited | 2680 | 0.42% |
+| Contabo GmbH | 2655 | 0.42% |
+| Hetzner Online GmbH | 2618 | 0.41% |
 | China Telecom Group | 2508 | 0.40% |
 | Viettel Group | 2480 | 0.39% |
 | Turk Telekom | 2468 | 0.39% |
 | TIM | 2431 | 0.39% |
-| CANTV Servicios, Venezuela | 2417 | 0.38% |
-| China Mobile communications corporation | 2401 | 0.38% |
-| NTT Communications Corporation | 2184 | 0.35% |
-| TELEFONICA BRASIL S.A | 2116 | 0.34% |
+| CANTV Servicios, Venezuela | 2418 | 0.38% |
+| China Mobile communications corporation | 2402 | 0.38% |
+| NTT Communications Corporation | 2185 | 0.35% |
+| TELEFONICA BRASIL S.A | 2117 | 0.34% |
 | LEASEWEB-USA-SEA | 2075 | 0.33% |
-| Datacamp Limited | 2067 | 0.33% |
+| Datacamp Limited | 2068 | 0.33% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 2063 | 0.33% |
-| Pakistan Telecommunication Company Limited | 2044 | 0.32% |
+| Pakistan Telecommunication Company Limited | 2045 | 0.32% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 2000 | 0.32% |
 | ATT-INTERNET4 | 1975 | 0.31% |
 | Iran Telecommunication Company PJS | 1870 | 0.30% |
-| China Unicom Beijing Province Network | 1779 | 0.28% |
-| AS-COLOCROSSING | 1670 | 0.26% |
+| China Unicom Beijing Province Network | 1780 | 0.28% |
+| AS-COLOCROSSING | 1671 | 0.26% |
 | FPT Telecom Company | 1620 | 0.26% |
 | Bharti Airtel Ltd., Telemedia Services | 1586 | 0.25% |
 | ORACLE-BMC-31898 | 1575 | 0.25% |
-| Aeza International Ltd | 1567 | 0.25% |
+| Aeza International Ltd | 1568 | 0.25% |
 | M247 Europe SRL | 1520 | 0.24% |
 | CHARTER-20115 | 1461 | 0.23% |
 | Triple T Broadband Public Company Limited | 1418 | 0.22% |
@@ -59,10 +59,10 @@
 | National Telecommunication Corporation HQ | 1359 | 0.22% |
 | CABLE-NET-1 | 1293 | 0.20% |
 | SK Broadband Co Ltd | 1289 | 0.20% |
-| Wind Tre S.p.A. | 1286 | 0.20% |
+| Wind Tre S.p.A. | 1287 | 0.20% |
 | MTS PJSC | 1276 | 0.20% |
 | Alpha Strike Labs GmbH | 1270 | 0.20% |
-| Clouvider Limited | 1238 | 0.20% |
+| Clouvider Limited | 1239 | 0.20% |
 | China Unicom IP network China169 Guangdong province | 1224 | 0.19% |
 | Kyivstar PJSC | 1207 | 0.19% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 1154 | 0.18% |
@@ -98,6 +98,6 @@
 | COGENT-174 | 794 | 0.13% |
 | LG POWERCOMM | 789 | 0.13% |
 | LEASEWEB-USA-DAL | 789 | 0.13% |
-| NL-811-40021 | 778 | 0.12% |
+| NL-811-40021 | 779 | 0.12% |
 | Tele2 SWIPnet | 775 | 0.12% |
-| MT-MPLS | 770 | 0.12% |
+| MT-MPLS | 771 | 0.12% |
