@@ -2,15 +2,15 @@
 | Blocklist Name | IP Count |
 |----|----|
 | duggytuxy_botnets_zombies_scanner_spam_ips.txt | 258816 |
-| romainmarcoux_abuseipdb-s100-120d.txt | 224025 |
-| romainmarcoux_malicious-ip.txt | 131072 |
+| romainmarcoux_malicious-ip.txt | 258390 |
+| romainmarcoux_abuseipdb-s100-120d.txt | 224248 |
+| romainmarcoux_isc.sans.edu.txt | 174725 |
 | romainmarcoux_stamparm.txt | 131050 |
-| romainmarcoux_blocklist.de-all.txt | 74719 |
-| romainmarcoux_cinsscore.com.txt | 46483 |
-| romainmarcoux_isc.sans.edu.txt | 43653 |
-| romainmarcoux_sekio.txt | 31098 |
-| romainmarcoux_greensnow.co.txt | 19413 |
-| romainmarcoux_alienvault-ssh-bruteforce.txt | 11647 |
+| romainmarcoux_blocklist.de-all.txt | 74853 |
+| romainmarcoux_cinsscore.com.txt | 46595 |
+| romainmarcoux_sekio.txt | 31155 |
+| romainmarcoux_greensnow.co.txt | 19429 |
+| romainmarcoux_alienvault-ssh-bruteforce.txt | 11650 |
 | romainmarcoux_binarydefense.com.txt | 7657 |
 | romainmarcoux_alienvault-fakelabs.txt | 3992 |
 | romainmarcoux_emergingthreats.net.txt | 1572 |
