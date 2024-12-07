@@ -3,14 +3,14 @@
 |----|----|
 | duggytuxy_botnets_zombies_scanner_spam_ips.txt | 258838 |
 | romainmarcoux_malicious-ip.txt | 258412 |
-| romainmarcoux_abuseipdb-s100-120d.txt | 224505 |
+| romainmarcoux_abuseipdb-s100-120d.txt | 224614 |
 | romainmarcoux_isc.sans.edu.txt | 174725 |
-| romainmarcoux_stamparm.txt | 128150 |
-| romainmarcoux_blocklist.de-all.txt | 74637 |
-| romainmarcoux_cinsscore.com.txt | 46133 |
-| romainmarcoux_sekio.txt | 31597 |
-| romainmarcoux_greensnow.co.txt | 19261 |
-| romainmarcoux_alienvault-ssh-bruteforce.txt | 11636 |
+| romainmarcoux_stamparm.txt | 131068 |
+| romainmarcoux_blocklist.de-all.txt | 74708 |
+| romainmarcoux_cinsscore.com.txt | 46186 |
+| romainmarcoux_sekio.txt | 31767 |
+| romainmarcoux_greensnow.co.txt | 19268 |
+| romainmarcoux_alienvault-ssh-bruteforce.txt | 11639 |
 | romainmarcoux_binarydefense.com.txt | 7451 |
 | romainmarcoux_alienvault-fakelabs.txt | 4082 |
 | romainmarcoux_emergingthreats.net.txt | 1554 |
