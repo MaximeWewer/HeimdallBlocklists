@@ -1,60 +1,60 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 67780 | 10.47% |
-| CHINA UNICOM China169 Backbone | 37833 | 5.85% |
-| DIGITALOCEAN-ASN | 35158 | 5.43% |
-| AMAZON-02 | 24606 | 3.80% |
-| National Internet Backbone | 20610 | 3.19% |
-| TE Data | 15778 | 2.44% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 11591 | 1.79% |
+| Chinanet | 67793 | 10.47% |
+| CHINA UNICOM China169 Backbone | 37837 | 5.85% |
+| DIGITALOCEAN-ASN | 35171 | 5.43% |
+| AMAZON-02 | 24612 | 3.80% |
+| National Internet Backbone | 20621 | 3.19% |
+| TE Data | 15779 | 2.44% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 11594 | 1.79% |
 | Korea Telecom | 11524 | 1.78% |
-| Alibaba US Technology Co., Ltd. | 10340 | 1.60% |
-| Data Communication Business Group | 9397 | 1.45% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 8468 | 1.31% |
+| Alibaba US Technology Co., Ltd. | 10342 | 1.60% |
+| Data Communication Business Group | 9400 | 1.45% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 8469 | 1.31% |
 | Shenzhen Tencent Computer Systems Company Limited | 8077 | 1.25% |
-| GOOGLE-CLOUD-PLATFORM | 7820 | 1.21% |
+| GOOGLE-CLOUD-PLATFORM | 7821 | 1.21% |
 | Akamai Connected Cloud | 6597 | 1.02% |
 | China Mobile Communications Group Co., Ltd. | 5194 | 0.80% |
-| OVH SAS | 5145 | 0.80% |
+| OVH SAS | 5145 | 0.79% |
 | Tencent Building, Kejizhongyi Avenue | 5036 | 0.78% |
-| LG POWERCOMM | 4904 | 0.76% |
-| Vodafone Italia S.p.A. | 4808 | 0.74% |
-| Rostelecom | 4785 | 0.74% |
-| COMCAST-7922 | 4413 | 0.68% |
-| VNPT Corp | 4311 | 0.67% |
-| Internet Utilities Europe and Asia Limited | 4181 | 0.65% |
-| PT Telekomunikasi Indonesia | 4042 | 0.62% |
-| AMAZON-AES | 3819 | 0.59% |
-| UNINET | 3478 | 0.54% |
+| LG POWERCOMM | 4906 | 0.76% |
+| Vodafone Italia S.p.A. | 4809 | 0.74% |
+| Rostelecom | 4787 | 0.74% |
+| COMCAST-7922 | 4414 | 0.68% |
+| VNPT Corp | 4315 | 0.67% |
+| Internet Utilities Europe and Asia Limited | 4183 | 0.65% |
+| PT Telekomunikasi Indonesia | 4043 | 0.62% |
+| AMAZON-AES | 3820 | 0.59% |
+| UNINET | 3479 | 0.54% |
 | JSC ER-Telecom Holding | 3260 | 0.50% |
 | China Mobile communications corporation | 3141 | 0.49% |
-| Hetzner Online GmbH | 2747 | 0.42% |
-| China Telecom Group | 2696 | 0.42% |
-| Contabo GmbH | 2606 | 0.40% |
-| Pakistan Telecommunication Company Limited | 2544 | 0.39% |
-| CANTV Servicios, Venezuela | 2541 | 0.39% |
+| Hetzner Online GmbH | 2749 | 0.42% |
+| China Telecom Group | 2698 | 0.42% |
+| Contabo GmbH | 2607 | 0.40% |
+| Pakistan Telecommunication Company Limited | 2545 | 0.39% |
+| CANTV Servicios, Venezuela | 2542 | 0.39% |
 | Turk Telekom | 2417 | 0.37% |
 | Viettel Group | 2416 | 0.37% |
-| NTT Communications Corporation | 2349 | 0.36% |
+| NTT Communications Corporation | 2351 | 0.36% |
 | TIM | 2322 | 0.36% |
 | Iran Telecommunication Company PJS | 2245 | 0.35% |
-| TOT Public Company Limited | 2233 | 0.35% |
-| Datacamp Limited | 2149 | 0.33% |
-| HUAWEI CLOUDS | 2138 | 0.33% |
+| TOT Public Company Limited | 2234 | 0.35% |
+| Datacamp Limited | 2150 | 0.33% |
+| HUAWEI CLOUDS | 2139 | 0.33% |
 | LEASEWEB-USA-SEA | 2080 | 0.32% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 2074 | 0.32% |
 | ATT-INTERNET4 | 2012 | 0.31% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1976 | 0.31% |
 | TELEFONICA BRASIL S.A | 1896 | 0.29% |
 | China Unicom Beijing Province Network | 1857 | 0.29% |
-| ORACLE-BMC-31898 | 1661 | 0.26% |
+| ORACLE-BMC-31898 | 1662 | 0.26% |
 | Aeza International Ltd | 1640 | 0.25% |
 | Bharti Airtel Ltd., Telemedia Services | 1638 | 0.25% |
 | AS-COLOCROSSING | 1621 | 0.25% |
 | LG DACOM Corporation | 1557 | 0.24% |
 | FPT Telecom Company | 1540 | 0.24% |
-| M247 Europe SRL | 1503 | 0.23% |
+| M247 Europe SRL | 1504 | 0.23% |
 | China Unicom Guangzhou network | 1501 | 0.23% |
 | CHARTER-20115 | 1438 | 0.22% |
 | UUNET | 1339 | 0.21% |
@@ -95,7 +95,7 @@
 | Orange | 825 | 0.13% |
 | Scaleway S.a.s. | 824 | 0.13% |
 | NL-811-40021 | 823 | 0.13% |
-| COGENT-174 | 820 | 0.13% |
+| COGENT-174 | 821 | 0.13% |
 | Emirates Telecommunications Group Company (etisalat Group) Pjsc | 803 | 0.12% |
 | HURRICANE | 801 | 0.12% |
 | Ethiopian Telecommunication Corporation | 799 | 0.12% |
