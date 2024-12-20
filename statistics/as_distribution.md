@@ -1,64 +1,64 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 70371 | 10.32% |
-| DIGITALOCEAN-ASN | 52237 | 7.66% |
-| CHINA UNICOM China169 Backbone | 38096 | 5.59% |
-| AMAZON-02 | 24397 | 3.58% |
-| National Internet Backbone | 20803 | 3.05% |
+| Chinanet | 70400 | 10.32% |
+| DIGITALOCEAN-ASN | 52258 | 7.66% |
+| CHINA UNICOM China169 Backbone | 38104 | 5.59% |
+| AMAZON-02 | 24404 | 3.58% |
+| National Internet Backbone | 20815 | 3.05% |
 | TE Data | 15753 | 2.31% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 12003 | 1.76% |
-| Korea Telecom | 11669 | 1.71% |
-| Data Communication Business Group | 11025 | 1.62% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 12004 | 1.76% |
+| Korea Telecom | 11670 | 1.71% |
+| Data Communication Business Group | 11029 | 1.62% |
 | Alibaba US Technology Co., Ltd. | 10554 | 1.55% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 8505 | 1.25% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 8508 | 1.25% |
 | Shenzhen Tencent Computer Systems Company Limited | 8281 | 1.21% |
-| GOOGLE-CLOUD-PLATFORM | 8179 | 1.20% |
-| Akamai Connected Cloud | 5986 | 0.88% |
+| GOOGLE-CLOUD-PLATFORM | 8185 | 1.20% |
+| Akamai Connected Cloud | 6004 | 0.88% |
 | LG POWERCOMM | 5457 | 0.80% |
-| OVH SAS | 5167 | 0.76% |
-| China Mobile Communications Group Co., Ltd. | 5140 | 0.75% |
-| Tencent Building, Kejizhongyi Avenue | 5074 | 0.74% |
+| OVH SAS | 5175 | 0.76% |
+| China Mobile Communications Group Co., Ltd. | 5141 | 0.75% |
+| Tencent Building, Kejizhongyi Avenue | 5075 | 0.74% |
 | Rostelecom | 4950 | 0.73% |
 | Vodafone Italia S.p.A. | 4857 | 0.71% |
-| Internet Utilities Europe and Asia Limited | 4750 | 0.70% |
+| Internet Utilities Europe and Asia Limited | 4752 | 0.70% |
 | COMCAST-7922 | 4508 | 0.66% |
-| VNPT Corp | 4241 | 0.62% |
-| PT Telekomunikasi Indonesia | 3999 | 0.59% |
-| AMAZON-AES | 3914 | 0.57% |
-| UNINET | 3520 | 0.52% |
+| VNPT Corp | 4243 | 0.62% |
+| PT Telekomunikasi Indonesia | 4000 | 0.59% |
+| AMAZON-AES | 3918 | 0.57% |
+| UNINET | 3521 | 0.52% |
 | JSC ER-Telecom Holding | 3303 | 0.48% |
 | China Mobile communications corporation | 2981 | 0.44% |
-| Hetzner Online GmbH | 2844 | 0.42% |
-| China Telecom Group | 2711 | 0.40% |
+| Hetzner Online GmbH | 2845 | 0.42% |
+| China Telecom Group | 2712 | 0.40% |
 | Contabo GmbH | 2670 | 0.39% |
 | Turk Telekom | 2570 | 0.38% |
 | CANTV Servicios, Venezuela | 2488 | 0.36% |
 | TIM | 2484 | 0.36% |
-| Viettel Group | 2431 | 0.36% |
+| Viettel Group | 2432 | 0.36% |
 | NTT Communications Corporation | 2391 | 0.35% |
-| HUAWEI CLOUDS | 2299 | 0.34% |
+| HUAWEI CLOUDS | 2303 | 0.34% |
 | Pakistan Telecommunication Company Limited | 2283 | 0.33% |
 | Datacamp Limited | 2271 | 0.33% |
 | Iran Telecommunication Company PJS | 2199 | 0.32% |
-| TOT Public Company Limited | 2168 | 0.32% |
+| TOT Public Company Limited | 2169 | 0.32% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 2123 | 0.31% |
 | LEASEWEB-USA-SEA | 2083 | 0.31% |
 | ATT-INTERNET4 | 2030 | 0.30% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 2002 | 0.29% |
-| TELEFONICA BRASIL S.A | 1970 | 0.29% |
+| TELEFONICA BRASIL S.A | 1971 | 0.29% |
 | China Unicom Beijing Province Network | 1865 | 0.27% |
 | ORACLE-BMC-31898 | 1771 | 0.26% |
-| LG DACOM Corporation | 1661 | 0.24% |
+| LG DACOM Corporation | 1662 | 0.24% |
 | AS-COLOCROSSING | 1655 | 0.24% |
 | Bharti Airtel Ltd., Telemedia Services | 1621 | 0.24% |
 | Aeza International Ltd | 1617 | 0.24% |
-| M247 Europe SRL | 1526 | 0.22% |
+| M247 Europe SRL | 1528 | 0.22% |
 | Huawei Cloud Service data center | 1481 | 0.22% |
 | FPT Telecom Company | 1479 | 0.22% |
 | China Unicom Guangzhou network | 1461 | 0.21% |
 | CHARTER-20115 | 1458 | 0.21% |
-| SK Broadband Co Ltd | 1410 | 0.21% |
+| SK Broadband Co Ltd | 1411 | 0.21% |
 | Triple T Broadband Public Company Limited | 1400 | 0.21% |
 | UUNET | 1367 | 0.20% |
 | CABLE-NET-1 | 1312 | 0.19% |
@@ -67,7 +67,7 @@
 | China Unicom IP network China169 Guangdong province | 1265 | 0.19% |
 | Kyivstar PJSC | 1241 | 0.18% |
 | Telstra Limited | 1197 | 0.18% |
-| MTS PJSC | 1190 | 0.17% |
+| MTS PJSC | 1191 | 0.17% |
 | Cloud Computing Corporation | 1183 | 0.17% |
 | Clouvider Limited | 1182 | 0.17% |
 | HKT Limited | 1123 | 0.16% |
@@ -88,16 +88,16 @@
 | TWC-10796-MIDWEST | 883 | 0.13% |
 | NTT-LTD-2914 | 876 | 0.13% |
 | Mahanagar Telephone Nigam Limited | 871 | 0.13% |
+| COGENT-174 | 867 | 0.13% |
 | NL-811-40021 | 867 | 0.13% |
-| COGENT-174 | 864 | 0.13% |
 | Orange | 861 | 0.13% |
 | Hathway IP Over Cable Internet | 860 | 0.13% |
 | Claro NXT Telecomunicacoes Ltda | 848 | 0.12% |
-| Wind Tre S.p.A. | 837 | 0.12% |
+| Wind Tre S.p.A. | 838 | 0.12% |
 | Scaleway S.a.s. | 834 | 0.12% |
-| China Telecom | 832 | 0.12% |
+| China Telecom | 833 | 0.12% |
 | BHARTI Airtel Ltd. | 832 | 0.12% |
-| Ethiopian Telecommunication Corporation | 821 | 0.12% |
+| Ethiopian Telecommunication Corporation | 822 | 0.12% |
 | HURRICANE | 805 | 0.12% |
 | LEASEWEB-USA-DAL | 802 | 0.12% |
 | Emirates Telecommunications Group Company (etisalat Group) Pjsc | 791 | 0.12% |
