@@ -1,20 +1,20 @@
 # Blocklists Statistics
 | Blocklist Name | IP Count |
 |----|----|
-| romainmarcoux_abuseipdb-s100-120d.txt | 263351 |
+| romainmarcoux_abuseipdb-s100-120d.txt | 263518 |
 | duggytuxy_botnets_zombies_scanner_spam_ips.txt | 259352 |
 | romainmarcoux_malicious-ip.txt | 258925 |
 | romainmarcoux_isc.sans.edu.txt | 213061 |
 | romainmarcoux_stamparm.txt | 133599 |
-| romainmarcoux_blocklist.de-all.txt | 77526 |
-| romainmarcoux_cinsscore.com.txt | 56794 |
-| romainmarcoux_sekio.txt | 29064 |
-| romainmarcoux_greensnow.co.txt | 17405 |
+| romainmarcoux_blocklist.de-all.txt | 77612 |
+| romainmarcoux_cinsscore.com.txt | 56881 |
+| romainmarcoux_sekio.txt | 28848 |
+| romainmarcoux_greensnow.co.txt | 17422 |
 | romainmarcoux_binarydefense.com.txt | 10506 |
-| romainmarcoux_alienvault-ssh-bruteforce.txt | 10303 |
+| romainmarcoux_alienvault-ssh-bruteforce.txt | 10320 |
 | romainmarcoux_alienvault-fakelabs.txt | 5780 |
 | romainmarcoux_emergingthreats.net.txt | 1548 |
-| spamhaus_drop.txt | 1369 |
+| spamhaus_drop.txt | 1365 |
 | romainmarcoux_projecthoneypot.org.txt | 1180 |
 | romainmarcoux_alienvault-georgs.txt | 786 |
 | 3coresec_lists_all.txt | 392 |
