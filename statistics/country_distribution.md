@@ -85,8 +85,8 @@
 | Slovakia | 334 | 0.05% |
 | Panama | 328 | 0.05% |
 | Nepal | 307 | 0.04% |
-| Costa Rica | 295 | 0.04% |
 | Mongolia | 295 | 0.04% |
+| Costa Rica | 295 | 0.04% |
 | Palestine | 291 | 0.04% |
 | North Macedonia | 288 | 0.04% |
 | New Zealand | 287 | 0.04% |
