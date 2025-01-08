@@ -128,6 +128,7 @@ def lookup_as(ip: str, reader: geoip2.database.Reader) -> Optional[str]:
         return reader.asn(ip).autonomous_system_organization
     except geoip2.errors.AddressNotFoundError:
         return None
+    
 
 def save_daily_summary(unique_ip_count: int) -> None:
     """Save the daily unique IP count in a Markdown file, retaining data for the last 30 days."""
@@ -141,32 +142,51 @@ def save_daily_summary(unique_ip_count: int) -> None:
     separator: str = entries[2]
     data_entries: List[str] = entries[3:]
 
+    # Parse data entries into a list of tuples (date, line)
+    parsed_entries = []
+    for line in data_entries:
+        parts = line.split('|')
+        if len(parts) == 4:  # Ensure it's a valid row
+            date_str = parts[1].strip()
+            try:
+                date_obj = datetime.strptime(date_str, "%Y-%m-%d")
+                parsed_entries.append((date_obj, line))
+            except ValueError:
+                logging.warning(f"Skipping invalid row: {line}")
+
     # Update or append today's entry
-    updated: bool = False
-    for i, line in enumerate(data_entries):
+    updated = False
+    for i, (date_obj, line) in enumerate(parsed_entries):
         if today in line:
-            data_entries[i] = f"| {today} | {unique_ip_count} |"
+            parsed_entries[i] = (date_obj, f"| {today} | {unique_ip_count} |")
             updated = True
             break
     if not updated:
-        data_entries.append(f"| {today} | {unique_ip_count} |")
+        parsed_entries.append((datetime.strptime(today, "%Y-%m-%d"), f"| {today} | {unique_ip_count} |"))
 
-    # Keep only the last 30 days of entries
-    data_entries = data_entries[-30:]
+    # Sort entries by date in descending order and keep the last 30 days
+    parsed_entries = sorted(parsed_entries, key=lambda x: x[0], reverse=True)[:30]
 
-    # Sort entries by date in descending order
-    data_entries.sort(key=lambda x: datetime.strptime(x.split('|')[1].strip(), "%Y-%m-%d"), reverse=True)
+    # Rebuild the data entries
+    data_entries = [line for _, line in parsed_entries]
 
     # Combine header, separator, and data entries into a single Markdown string
-    markdown_content = "\n".join([title, header, separator] + data_entries)
-    markdown_path.write_text(markdown_content)
+    markdown_content = "\n".join([title.strip(), header.strip(), separator.strip()] + data_entries)
+    markdown_path.write_text(markdown_content, encoding='utf-8')
     logging.info(f"Daily summary updated with {unique_ip_count} unique IPs for {today}.")
 
 def read_existing_summary(file_path: Path) -> List[str]:
     """Read existing daily summary and return as a list of lines, or initialize if file does not exist."""
     if file_path.exists():
-        return file_path.read_text(encoding='utf-8').strip().splitlines()
-    return ["# Daily IP Summary\n", "| Date | Unique IP Count |\n", "|----|----|\n"]
+        content = file_path.read_text(encoding='utf-8').strip()
+        if content:  # Ensure the file is not empty
+            return content.splitlines()
+    # Return a properly formatted header if the file does not exist or is empty
+    return [
+        "# Daily IP Summary",
+        "| Date | Unique IP Count |",
+        "|----|----|"
+    ]
 
 def analyze_ip_blocklists_frequency(unique_ips: Set[str], blocklists: List[Set[str]]) -> Dict[int, int]:
     """Analyze how many IPs are present in at least a specified number of blocklists."""
