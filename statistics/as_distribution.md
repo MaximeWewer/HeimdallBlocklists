@@ -1,39 +1,39 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 62434 | 10.58% |
-| DIGITALOCEAN-ASN | 47367 | 8.02% |
-| Data Communication Business Group | 31725 | 5.37% |
-| CHINA UNICOM China169 Backbone | 30145 | 5.11% |
-| National Internet Backbone | 17858 | 3.03% |
-| AMAZON-02 | 16608 | 2.81% |
-| Korea Telecom | 11137 | 1.89% |
+| Chinanet | 62437 | 10.57% |
+| DIGITALOCEAN-ASN | 47393 | 8.03% |
+| Data Communication Business Group | 31726 | 5.37% |
+| CHINA UNICOM China169 Backbone | 30147 | 5.11% |
+| National Internet Backbone | 17859 | 3.02% |
+| AMAZON-02 | 16614 | 2.81% |
+| Korea Telecom | 11138 | 1.89% |
 | Alibaba US Technology Co., Ltd. | 9769 | 1.65% |
 | TE Data | 9732 | 1.65% |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 8221 | 1.39% |
 | GOOGLE-CLOUD-PLATFORM | 7638 | 1.29% |
 | Akamai Connected Cloud | 5873 | 0.99% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 5800 | 0.98% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 5801 | 0.98% |
 | Internet Utilities Europe and Asia Limited | 5682 | 0.96% |
 | Vodafone Italia S.p.A. | 4842 | 0.82% |
 | Tencent Building, Kejizhongyi Avenue | 4749 | 0.80% |
 | Rostelecom | 4629 | 0.78% |
 | OVH SAS | 4496 | 0.76% |
 | COMCAST-7922 | 4470 | 0.76% |
-| Shenzhen Tencent Computer Systems Company Limited | 3787 | 0.64% |
+| Shenzhen Tencent Computer Systems Company Limited | 3788 | 0.64% |
 | AMAZON-AES | 3636 | 0.62% |
 | China Mobile Communications Group Co., Ltd. | 3615 | 0.61% |
 | LG POWERCOMM | 3315 | 0.56% |
 | JSC ER-Telecom Holding | 3135 | 0.53% |
-| TIM | 2951 | 0.50% |
-| PT Telekomunikasi Indonesia | 2927 | 0.50% |
-| TOT Public Company Limited | 2914 | 0.49% |
-| Hetzner Online GmbH | 2830 | 0.48% |
-| HUAWEI CLOUDS | 2663 | 0.45% |
-| NTT Communications Corporation | 2663 | 0.45% |
+| TIM | 2952 | 0.50% |
+| PT Telekomunikasi Indonesia | 2928 | 0.50% |
+| TOT Public Company Limited | 2915 | 0.49% |
+| Hetzner Online GmbH | 2832 | 0.48% |
+| HUAWEI CLOUDS | 2668 | 0.45% |
+| NTT Communications Corporation | 2665 | 0.45% |
 | Turk Telekom | 2376 | 0.40% |
 | Contabo GmbH | 2311 | 0.39% |
-| UNINET | 2281 | 0.39% |
+| UNINET | 2282 | 0.39% |
 | Datacamp Limited | 2262 | 0.38% |
 | Iran Telecommunication Company PJS | 2144 | 0.36% |
 | VNPT Corp | 2138 | 0.36% |
@@ -49,7 +49,7 @@
 | ATT-INTERNET4 | 1437 | 0.24% |
 | Pakistan Telecommunication Company Limited | 1392 | 0.24% |
 | National Telecommunication Corporation HQ | 1349 | 0.23% |
-| TELEFONICA BRASIL S.A | 1347 | 0.23% |
+| TELEFONICA BRASIL S.A | 1348 | 0.23% |
 | Aeza International Ltd | 1322 | 0.22% |
 | CABLE-NET-1 | 1303 | 0.22% |
 | ORACLE-BMC-31898 | 1299 | 0.22% |
@@ -61,20 +61,20 @@
 | AS-COLOCROSSING | 1159 | 0.20% |
 | Kyivstar PJSC | 1150 | 0.19% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 1128 | 0.19% |
-| LG DACOM Corporation | 1117 | 0.19% |
+| LG DACOM Corporation | 1118 | 0.19% |
 | SK Broadband Co Ltd | 1103 | 0.19% |
-| M247 Europe SRL | 1101 | 0.19% |
-| MTS PJSC | 1089 | 0.18% |
+| M247 Europe SRL | 1103 | 0.19% |
+| MTS PJSC | 1090 | 0.18% |
 | TTCLDATA | 1066 | 0.18% |
 | China Unicom Beijing Province Network | 1060 | 0.18% |
 | UUNET | 1039 | 0.18% |
+| Wind Tre S.p.A. | 1034 | 0.18% |
 | Cloud Computing Corporation | 1034 | 0.18% |
-| Wind Tre S.p.A. | 1033 | 0.17% |
 | Solucao Network Provedor Ltda | 1024 | 0.17% |
 | HKT Limited | 999 | 0.17% |
-| Bharti Airtel Ltd., Telemedia Services | 991 | 0.17% |
+| Bharti Airtel Ltd., Telemedia Services | 992 | 0.17% |
 | IONOS SE | 976 | 0.17% |
-| ASN-CXA-ALL-CCI-22773-RDC | 963 | 0.16% |
+| ASN-CXA-ALL-CCI-22773-RDC | 964 | 0.16% |
 | Deutsche Telekom AG | 925 | 0.16% |
 | China Unicom Guangzhou network | 912 | 0.15% |
 | China Unicom IP network China169 Guangdong province | 885 | 0.15% |
@@ -82,8 +82,8 @@
 | NL-811-40021 | 840 | 0.14% |
 | ALGAR TELECOM SA | 836 | 0.14% |
 | PT Cloud Hosting Indonesia | 835 | 0.14% |
-| PONYNET | 834 | 0.14% |
 | TWC-20001-PACWEST | 834 | 0.14% |
+| PONYNET | 834 | 0.14% |
 | Viettel Corporation | 832 | 0.14% |
 | Orange | 825 | 0.14% |
 | Telefonica De Espana S.a.u. | 819 | 0.14% |
