@@ -30,7 +30,6 @@ The contributors who maintain these blocklists deserve your support, thanks to:
 Here are the URLs for the community blocklists:
 
 ```text
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/3coresec_lists_all.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/duggytuxy_botnets_zombies_scanner_spam_ips.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/romainmarcoux_abuseipdb-s100-120d.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/romainmarcoux_akamai.com.txt
@@ -54,7 +53,6 @@ https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists
 Here are the URLs for the split versions:
 
 ```text
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/3coresec_lists_all-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/duggytuxy_botnets_zombies_scanner_spam_ips-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt
