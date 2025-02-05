@@ -4,10 +4,6 @@
         "filename": "duggytuxy_botnets_zombies_scanner_spam_ips.txt"
     },
     {
-        "url": "https://blacklist.3coresec.net/lists/all.txt",
-        "filename": "3coresec_lists_all.txt"
-    },
-    {
         "url": "https://www.spamhaus.org/drop/drop.txt",
         "filename": "spamhaus_drop.txt"
     },
