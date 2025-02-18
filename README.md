@@ -55,7 +55,6 @@ Here are the URLs for the split versions:
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/duggytuxy_botnets_zombies_scanner_spam_ips-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ac.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_alienvault-fakelabs-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_alienvault-georgs-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_alienvault-ssh-bruteforce-aa.txt
