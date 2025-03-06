@@ -1,18 +1,18 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 77996 | 11.73% |
-| DIGITALOCEAN-ASN | 48017 | 7.22% |
-| Data Communication Business Group | 44263 | 6.66% |
-| CHINA UNICOM China169 Backbone | 35575 | 5.35% |
-| National Internet Backbone | 33594 | 5.05% |
+| Chinanet | 78023 | 11.73% |
+| DIGITALOCEAN-ASN | 48092 | 7.23% |
+| Data Communication Business Group | 44264 | 6.66% |
+| CHINA UNICOM China169 Backbone | 35592 | 5.35% |
+| National Internet Backbone | 33599 | 5.05% |
 | Korea Telecom | 12623 | 1.90% |
-| AMAZON-02 | 12454 | 1.87% |
-| Alibaba US Technology Co., Ltd. | 11743 | 1.77% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 10492 | 1.58% |
+| AMAZON-02 | 12455 | 1.87% |
+| Alibaba US Technology Co., Ltd. | 11746 | 1.77% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 10494 | 1.58% |
 | TE Data | 9687 | 1.46% |
-| GOOGLE-CLOUD-PLATFORM | 7933 | 1.19% |
-| Akamai Connected Cloud | 6664 | 1.00% |
+| GOOGLE-CLOUD-PLATFORM | 7946 | 1.19% |
+| Akamai Connected Cloud | 6667 | 1.00% |
 | Internet Utilities Europe and Asia Limited | 6363 | 0.96% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 5934 | 0.89% |
 | Rostelecom | 5278 | 0.79% |
@@ -20,10 +20,10 @@
 | COMCAST-7922 | 4615 | 0.69% |
 | Tencent Building, Kejizhongyi Avenue | 4604 | 0.69% |
 | AMAZON-AES | 3811 | 0.57% |
-| Shenzhen Tencent Computer Systems Company Limited | 3491 | 0.53% |
-| China Mobile Communications Group Co., Ltd. | 3469 | 0.52% |
-| TOT Public Company Limited | 3454 | 0.52% |
-| LG POWERCOMM | 3376 | 0.51% |
+| Shenzhen Tencent Computer Systems Company Limited | 3493 | 0.53% |
+| China Mobile Communications Group Co., Ltd. | 3470 | 0.52% |
+| TOT Public Company Limited | 3455 | 0.52% |
+| LG POWERCOMM | 3377 | 0.51% |
 | TIM | 3249 | 0.49% |
 | Hetzner Online GmbH | 3047 | 0.46% |
 | JSC ER-Telecom Holding | 3008 | 0.45% |
@@ -42,17 +42,17 @@
 | Viettel Group | 1920 | 0.29% |
 | China Mobile communications corporation | 1840 | 0.28% |
 | Clouvider Limited | 1828 | 0.27% |
-| Wind Tre S.p.A. | 1748 | 0.26% |
+| Wind Tre S.p.A. | 1750 | 0.26% |
 | National Telecommunication Corporation HQ | 1730 | 0.26% |
-| Triple T Broadband Public Company Limited | 1588 | 0.24% |
+| Triple T Broadband Public Company Limited | 1589 | 0.24% |
 | MTS PJSC | 1587 | 0.24% |
-| TM TECHNOLOGY SERVICES SDN. BHD. | 1583 | 0.24% |
-| CHARTER-20115 | 1579 | 0.24% |
+| TM TECHNOLOGY SERVICES SDN. BHD. | 1585 | 0.24% |
+| CHARTER-20115 | 1580 | 0.24% |
 | Telstra Limited | 1577 | 0.24% |
-| CAT TELECOM Public Company Ltd,CAT | 1559 | 0.23% |
+| CAT TELECOM Public Company Ltd,CAT | 1560 | 0.23% |
 | SK Broadband Co Ltd | 1545 | 0.23% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1471 | 0.22% |
-| ATT-INTERNET4 | 1453 | 0.22% |
+| ATT-INTERNET4 | 1454 | 0.22% |
 | TELEFONICA BRASIL S.A | 1394 | 0.21% |
 | CABLE-NET-1 | 1349 | 0.20% |
 | British Telecommunications PLC | 1342 | 0.20% |
@@ -61,7 +61,7 @@
 | UUNET | 1248 | 0.19% |
 | Deutsche Telekom AG | 1225 | 0.18% |
 | FPT Telecom Company | 1196 | 0.18% |
-| Pakistan Telecommunication Company Limited | 1194 | 0.18% |
+| Pakistan Telecommunication Company Limited | 1195 | 0.18% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 1193 | 0.18% |
 | AS-COLOCROSSING | 1186 | 0.18% |
 | M247 Europe SRL | 1183 | 0.18% |
@@ -71,7 +71,7 @@
 | LG DACOM Corporation | 1120 | 0.17% |
 | TTCLDATA | 1117 | 0.17% |
 | R2 Net Solutions Pvt Ltd | 1098 | 0.17% |
-| Viettel Corporation | 1094 | 0.16% |
+| Viettel Corporation | 1095 | 0.16% |
 | Aeza International Ltd | 1063 | 0.16% |
 | IONOS SE | 1049 | 0.16% |
 | ASN-CXA-ALL-CCI-22773-RDC | 1044 | 0.16% |
@@ -83,10 +83,10 @@
 | CANTV Servicios, Venezuela | 956 | 0.14% |
 | Telefonica De Espana S.a.u. | 951 | 0.14% |
 | CENSYS-ARIN-01 | 942 | 0.14% |
-| HUAWEI CLOUDS | 924 | 0.14% |
+| HUAWEI CLOUDS | 925 | 0.14% |
 | TWC-20001-PACWEST | 920 | 0.14% |
-| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 883 | 0.13% |
 | Telia Company AB | 883 | 0.13% |
+| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 883 | 0.13% |
 | HURRICANE | 881 | 0.13% |
 | PONYNET | 874 | 0.13% |
 | GEOCITY NETWORK SOLUTIONS PVT LTD | 872 | 0.13% |
