@@ -1,19 +1,19 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 81072 | 11.75% |
-| DIGITALOCEAN-ASN | 48808 | 7.07% |
-| Data Communication Business Group | 48344 | 7.01% |
+| Chinanet | 81078 | 11.75% |
+| DIGITALOCEAN-ASN | 48828 | 7.08% |
+| Data Communication Business Group | 48345 | 7.01% |
 | National Internet Backbone | 40795 | 5.91% |
-| CHINA UNICOM China169 Backbone | 36125 | 5.24% |
-| Korea Telecom | 13014 | 1.89% |
-| AMAZON-02 | 11897 | 1.72% |
+| CHINA UNICOM China169 Backbone | 36128 | 5.23% |
+| Korea Telecom | 13015 | 1.89% |
+| AMAZON-02 | 11902 | 1.72% |
 | Alibaba US Technology Co., Ltd. | 11778 | 1.71% |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 11083 | 1.61% |
-| TE Data | 9738 | 1.41% |
-| GOOGLE-CLOUD-PLATFORM | 8271 | 1.20% |
+| TE Data | 9739 | 1.41% |
+| GOOGLE-CLOUD-PLATFORM | 8273 | 1.20% |
 | Internet Utilities Europe and Asia Limited | 7042 | 1.02% |
-| Akamai Connected Cloud | 6425 | 0.93% |
+| Akamai Connected Cloud | 6427 | 0.93% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 5542 | 0.80% |
 | Rostelecom | 5372 | 0.78% |
 | Tencent Building, Kejizhongyi Avenue | 4642 | 0.67% |
@@ -27,12 +27,12 @@
 | TIM | 3348 | 0.49% |
 | Hetzner Online GmbH | 3199 | 0.46% |
 | JSC ER-Telecom Holding | 3036 | 0.44% |
-| NTT Communications Corporation | 2920 | 0.42% |
-| HKT Limited | 2920 | 0.42% |
-| PT Telekomunikasi Indonesia | 2876 | 0.42% |
+| NTT Communications Corporation | 2923 | 0.42% |
+| HKT Limited | 2921 | 0.42% |
+| PT Telekomunikasi Indonesia | 2877 | 0.42% |
 | Datacamp Limited | 2642 | 0.38% |
 | Turk Telekom | 2555 | 0.37% |
-| VNPT Corp | 2532 | 0.37% |
+| VNPT Corp | 2533 | 0.37% |
 | Iran Telecommunication Company PJS | 2514 | 0.36% |
 | Contabo GmbH | 2395 | 0.35% |
 | UNINET | 2307 | 0.33% |
@@ -40,14 +40,14 @@
 | China Telecom Group | 2042 | 0.30% |
 | Alpha Strike Labs GmbH | 2040 | 0.30% |
 | Viettel Group | 2004 | 0.29% |
-| Clouvider Limited | 1980 | 0.29% |
-| Wind Tre S.p.A. | 1880 | 0.27% |
+| Clouvider Limited | 1981 | 0.29% |
+| Wind Tre S.p.A. | 1881 | 0.27% |
 | National Telecommunication Corporation HQ | 1801 | 0.26% |
 | China Mobile communications corporation | 1788 | 0.26% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 1750 | 0.25% |
 | MTS PJSC | 1703 | 0.25% |
 | CAT TELECOM Public Company Ltd,CAT | 1647 | 0.24% |
-| Telstra Limited | 1639 | 0.24% |
+| Telstra Limited | 1640 | 0.24% |
 | Triple T Broadband Public Company Limited | 1623 | 0.24% |
 | ATT-INTERNET4 | 1586 | 0.23% |
 | CHARTER-20115 | 1585 | 0.23% |
@@ -61,8 +61,8 @@
 | UUNET | 1278 | 0.19% |
 | AS-COLOCROSSING | 1269 | 0.18% |
 | R2 Net Solutions Pvt Ltd | 1255 | 0.18% |
+| M247 Europe SRL | 1245 | 0.18% |
 | Deutsche Telekom AG | 1244 | 0.18% |
-| M247 Europe SRL | 1244 | 0.18% |
 | FPT Telecom Company | 1217 | 0.18% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 1205 | 0.17% |
 | Pakistan Telecommunication Company Limited | 1204 | 0.17% |
@@ -94,10 +94,10 @@
 | Orange | 812 | 0.12% |
 | TWC-10796-MIDWEST | 803 | 0.12% |
 | Cloud Computing Corporation | 800 | 0.12% |
-| ALGAR TELECOM SA | 798 | 0.12% |
+| ALGAR TELECOM SA | 799 | 0.12% |
 | Ethiopian Telecommunication Corporation | 798 | 0.12% |
 | Tele2 SWIPnet | 793 | 0.11% |
 | COGENT-174 | 793 | 0.11% |
 | NAMECHEAP-NET | 788 | 0.11% |
 | AS-VULTR | 780 | 0.11% |
-| Mahanagar Telephone Nigam Limited | 777 | 0.11% |
+| Mahanagar Telephone Nigam Limited | 778 | 0.11% |
