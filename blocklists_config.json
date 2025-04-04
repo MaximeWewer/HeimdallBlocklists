@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/refs/heads/main/botnets_zombies_scanner_spam_ips.txt",
-        "filename": "duggytuxy_botnets_zombies_scanner_spam_ips.txt"
+        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/refs/heads/main/agressive_ips_dst_fr_be_blocklist.txt",
+        "filename": "duggytuxy_agressive_ips_dst_fr_be_blocklist.txt"
     },
     {
         "url": "https://www.spamhaus.org/drop/drop.txt",
