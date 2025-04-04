@@ -95,8 +95,8 @@
 | Qatar | 235 | 0.03% |
 | Gambia | 233 | 0.03% |
 | Sri Lanka | 232 | 0.03% |
-| Palestine | 231 | 0.03% |
 | Ghana | 231 | 0.03% |
+| Palestine | 231 | 0.03% |
 | Mozambique | 226 | 0.03% |
 | Costa Rica | 222 | 0.03% |
 | Bahrain | 209 | 0.03% |

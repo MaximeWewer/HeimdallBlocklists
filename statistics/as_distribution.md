@@ -71,8 +71,8 @@
 | FPT Telecom Company | 1259 | 0.17% |
 | TTCLDATA | 1223 | 0.16% |
 | Kyivstar PJSC | 1183 | 0.16% |
-| GSL Networks Pty LTD | 1168 | 0.16% |
 | IONOS SE | 1168 | 0.16% |
+| GSL Networks Pty LTD | 1168 | 0.16% |
 | Pakistan Telecommunication Company Limited | 1160 | 0.16% |
 | LG DACOM Corporation | 1157 | 0.15% |
 | ASN-CXA-ALL-CCI-22773-RDC | 1072 | 0.14% |
