@@ -1,40 +1,40 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 88788 | 11.81% |
-| National Internet Backbone | 57988 | 7.71% |
+| Chinanet | 88796 | 11.81% |
+| National Internet Backbone | 58007 | 7.72% |
 | Data Communication Business Group | 55212 | 7.34% |
-| DIGITALOCEAN-ASN | 48508 | 6.45% |
-| CHINA UNICOM China169 Backbone | 42195 | 5.61% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 14262 | 1.90% |
+| DIGITALOCEAN-ASN | 48519 | 6.45% |
+| CHINA UNICOM China169 Backbone | 42202 | 5.61% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 14266 | 1.90% |
 | Korea Telecom | 13907 | 1.85% |
 | Alibaba US Technology Co., Ltd. | 12174 | 1.62% |
 | AMAZON-02 | 11708 | 1.56% |
 | TE Data | 9705 | 1.29% |
-| GOOGLE-CLOUD-PLATFORM | 8224 | 1.09% |
-| Akamai Connected Cloud | 7102 | 0.94% |
+| GOOGLE-CLOUD-PLATFORM | 8231 | 1.09% |
+| Akamai Connected Cloud | 7103 | 0.94% |
 | Internet Utilities Europe and Asia Limited | 7011 | 0.93% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 5692 | 0.76% |
-| Rostelecom | 5278 | 0.70% |
-| Tencent Building, Kejizhongyi Avenue | 4894 | 0.65% |
-| COMCAST-7922 | 4826 | 0.64% |
-| OVH SAS | 4698 | 0.62% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 5694 | 0.76% |
+| Rostelecom | 5279 | 0.70% |
+| Tencent Building, Kejizhongyi Avenue | 4895 | 0.65% |
+| COMCAST-7922 | 4827 | 0.64% |
+| OVH SAS | 4699 | 0.63% |
 | TOT Public Company Limited | 4297 | 0.57% |
-| AMAZON-AES | 4098 | 0.55% |
-| TIM | 3679 | 0.49% |
-| China Mobile Communications Group Co., Ltd. | 3585 | 0.48% |
-| Shenzhen Tencent Computer Systems Company Limited | 3504 | 0.47% |
+| AMAZON-AES | 4099 | 0.55% |
+| TIM | 3681 | 0.49% |
+| China Mobile Communications Group Co., Ltd. | 3586 | 0.48% |
+| Shenzhen Tencent Computer Systems Company Limited | 3505 | 0.47% |
 | HKT Limited | 3371 | 0.45% |
 | LG POWERCOMM | 3362 | 0.45% |
 | Hetzner Online GmbH | 3338 | 0.44% |
-| NTT Communications Corporation | 3164 | 0.42% |
+| NTT Communications Corporation | 3165 | 0.42% |
 | JSC ER-Telecom Holding | 3098 | 0.41% |
 | Turk Telekom | 2728 | 0.36% |
 | Iran Telecommunication Company PJS | 2697 | 0.36% |
-| Datacamp Limited | 2635 | 0.35% |
+| Datacamp Limited | 2636 | 0.35% |
 | Wind Tre S.p.A. | 2587 | 0.34% |
 | PT Telekomunikasi Indonesia | 2541 | 0.34% |
-| Contabo GmbH | 2463 | 0.33% |
+| Contabo GmbH | 2464 | 0.33% |
 | VNPT Corp | 2453 | 0.33% |
 | UNINET | 2394 | 0.32% |
 | Clouvider Limited | 2176 | 0.29% |
@@ -44,7 +44,7 @@
 | TM TECHNOLOGY SERVICES SDN. BHD. | 2052 | 0.27% |
 | Alpha Strike Labs GmbH | 2040 | 0.27% |
 | Viettel Group | 2024 | 0.27% |
-| China Mobile communications corporation | 1925 | 0.26% |
+| China Mobile communications corporation | 1926 | 0.26% |
 | National Telecommunication Corporation HQ | 1908 | 0.25% |
 | Mobile Telecommunications Company | 1899 | 0.25% |
 | Telstra Limited | 1810 | 0.24% |
@@ -72,8 +72,8 @@
 | FPT Telecom Company | 1249 | 0.17% |
 | Kyivstar PJSC | 1194 | 0.16% |
 | IONOS SE | 1177 | 0.16% |
-| LG DACOM Corporation | 1153 | 0.15% |
 | GSL Networks Pty LTD | 1153 | 0.15% |
+| LG DACOM Corporation | 1153 | 0.15% |
 | Pakistan Telecommunication Company Limited | 1147 | 0.15% |
 | ASN-CXA-ALL-CCI-22773-RDC | 1072 | 0.14% |
 | HURRICANE | 1037 | 0.14% |
@@ -82,18 +82,18 @@
 | Mahanagar Telephone Nigam Limited | 1011 | 0.13% |
 | PT Cloud Hosting Indonesia | 1007 | 0.13% |
 | China Unicom Beijing Province Network | 998 | 0.13% |
-| Telefonica De Espana S.a.u. | 992 | 0.13% |
+| Telefonica De Espana S.a.u. | 993 | 0.13% |
 | PONYNET | 926 | 0.12% |
 | Telia Company AB | 915 | 0.12% |
 | COGENT-174 | 910 | 0.12% |
 | TWC-20001-PACWEST | 908 | 0.12% |
-| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 887 | 0.12% |
+| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 888 | 0.12% |
 | CENSYS-ARIN-01 | 885 | 0.12% |
 | Huawei Cloud Service data center | 873 | 0.12% |
 | Companhia de Telecomunicacoes de Macau SARL | 858 | 0.11% |
 | NAMECHEAP-NET | 853 | 0.11% |
 | PJSC MegaFon | 846 | 0.11% |
-| CANTV Servicios, Venezuela | 842 | 0.11% |
+| CANTV Servicios, Venezuela | 843 | 0.11% |
 | TWC-10796-MIDWEST | 825 | 0.11% |
 | Orange | 818 | 0.11% |
 | LATITUDE-SH | 811 | 0.11% |
