@@ -57,6 +57,7 @@ https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ac.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ad.txt
+https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ae.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_alienvault-fakelabs-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_alienvault-georgs-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_alienvault-ssh-bruteforce-aa.txt
