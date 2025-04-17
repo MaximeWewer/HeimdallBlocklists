@@ -1,51 +1,51 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Chinanet | 90813 | 11.77% |
-| National Internet Backbone | 66313 | 8.59% |
-| Data Communication Business Group | 55428 | 7.18% |
-| DIGITALOCEAN-ASN | 48774 | 6.32% |
-| CHINA UNICOM China169 Backbone | 44610 | 5.78% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 16499 | 2.14% |
+| Chinanet | 90822 | 11.77% |
+| National Internet Backbone | 66333 | 8.59% |
+| Data Communication Business Group | 55429 | 7.18% |
+| DIGITALOCEAN-ASN | 48788 | 6.32% |
+| CHINA UNICOM China169 Backbone | 44613 | 5.78% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 16505 | 2.14% |
 | Korea Telecom | 13864 | 1.80% |
-| Alibaba US Technology Co., Ltd. | 12554 | 1.63% |
-| AMAZON-02 | 11479 | 1.49% |
-| TE Data | 9773 | 1.27% |
-| GOOGLE-CLOUD-PLATFORM | 8097 | 1.05% |
-| Akamai Connected Cloud | 7419 | 0.96% |
+| Alibaba US Technology Co., Ltd. | 12559 | 1.63% |
+| AMAZON-02 | 11482 | 1.49% |
+| TE Data | 9775 | 1.27% |
+| GOOGLE-CLOUD-PLATFORM | 8130 | 1.05% |
+| Akamai Connected Cloud | 7420 | 0.96% |
 | Internet Utilities Europe and Asia Limited | 6585 | 0.85% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 5787 | 0.75% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 5788 | 0.75% |
 | Rostelecom | 5381 | 0.70% |
-| Tencent Building, Kejizhongyi Avenue | 5023 | 0.65% |
-| COMCAST-7922 | 4923 | 0.64% |
+| Tencent Building, Kejizhongyi Avenue | 5024 | 0.65% |
+| COMCAST-7922 | 4925 | 0.64% |
 | OVH SAS | 4827 | 0.63% |
-| TOT Public Company Limited | 4574 | 0.59% |
-| AMAZON-AES | 4553 | 0.59% |
+| TOT Public Company Limited | 4575 | 0.59% |
+| AMAZON-AES | 4563 | 0.59% |
 | TIM | 3733 | 0.48% |
 | China Mobile Communications Group Co., Ltd. | 3580 | 0.46% |
 | Shenzhen Tencent Computer Systems Company Limited | 3542 | 0.46% |
 | HKT Limited | 3386 | 0.44% |
-| Hetzner Online GmbH | 3344 | 0.43% |
-| NTT Communications Corporation | 3277 | 0.42% |
-| JSC ER-Telecom Holding | 3147 | 0.41% |
+| Hetzner Online GmbH | 3345 | 0.43% |
+| NTT Communications Corporation | 3279 | 0.42% |
+| JSC ER-Telecom Holding | 3148 | 0.41% |
 | Turk Telekom | 3110 | 0.40% |
 | Iran Telecommunication Company PJS | 2898 | 0.38% |
-| Wind Tre S.p.A. | 2890 | 0.37% |
+| Wind Tre S.p.A. | 2891 | 0.37% |
 | PT Telekomunikasi Indonesia | 2683 | 0.35% |
 | Datacamp Limited | 2585 | 0.33% |
 | VNPT Corp | 2561 | 0.33% |
 | Contabo GmbH | 2482 | 0.32% |
-| UNINET | 2391 | 0.31% |
+| UNINET | 2392 | 0.31% |
 | Clouvider Limited | 2191 | 0.28% |
 | MTS PJSC | 2177 | 0.28% |
 | China Telecom Group | 2121 | 0.27% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 2084 | 0.27% |
 | LEASEWEB-USA-SEA | 2068 | 0.27% |
 | Alpha Strike Labs GmbH | 2040 | 0.26% |
-| Viettel Group | 2036 | 0.26% |
+| Viettel Group | 2038 | 0.26% |
 | National Telecommunication Corporation HQ | 1989 | 0.26% |
 | Mobile Telecommunications Company | 1873 | 0.24% |
-| China Mobile communications corporation | 1860 | 0.24% |
+| China Mobile communications corporation | 1861 | 0.24% |
 | CAT TELECOM Public Company Ltd,CAT | 1783 | 0.23% |
 | Telstra Limited | 1754 | 0.23% |
 | CHARTER-20115 | 1694 | 0.22% |
@@ -56,15 +56,15 @@
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1585 | 0.21% |
 | ORACLE-BMC-31898 | 1562 | 0.20% |
 | China Unicom Guangzhou network | 1517 | 0.20% |
-| TELEFONICA BRASIL S.A | 1478 | 0.19% |
+| TELEFONICA BRASIL S.A | 1480 | 0.19% |
 | TTCLDATA | 1467 | 0.19% |
-| AS-COLOCROSSING | 1466 | 0.19% |
+| AS-COLOCROSSING | 1467 | 0.19% |
 | British Telecommunications PLC | 1420 | 0.18% |
 | R2 Net Solutions Pvt Ltd | 1406 | 0.18% |
 | CABLE-NET-1 | 1377 | 0.18% |
 | Viettel Corporation | 1357 | 0.18% |
 | UUNET | 1328 | 0.17% |
-| Cloudie Limited | 1303 | 0.17% |
+| Cloudie Limited | 1304 | 0.17% |
 | FPT Telecom Company | 1293 | 0.17% |
 | CHINATELECOM Jiangsu province Suzhou 5G network | 1270 | 0.16% |
 | M247 Europe SRL | 1269 | 0.16% |
@@ -87,7 +87,7 @@
 | Telia Company AB | 925 | 0.12% |
 | Emirates Telecommunications Group Company (etisalat Group) Pjsc | 919 | 0.12% |
 | TWC-20001-PACWEST | 916 | 0.12% |
-| Huawei Cloud Service data center | 902 | 0.12% |
+| Huawei Cloud Service data center | 903 | 0.12% |
 | HUAWEI CLOUDS | 869 | 0.11% |
 | NAMECHEAP-NET | 857 | 0.11% |
 | NTT PC Communications, Inc. | 846 | 0.11% |
