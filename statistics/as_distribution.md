@@ -85,8 +85,8 @@
 | LG POWERCOMM | 929 | 0.12% |
 | Telia Company AB | 926 | 0.12% |
 | COGENT-174 | 915 | 0.12% |
-| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 911 | 0.12% |
 | TWC-20001-PACWEST | 911 | 0.12% |
+| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 911 | 0.12% |
 | RailTel Corporation of India Ltd | 866 | 0.11% |
 | NTT PC Communications, Inc. | 854 | 0.11% |
 | CHEAPY-HOST | 843 | 0.11% |
@@ -99,5 +99,5 @@
 | Cgi Global Limited | 798 | 0.10% |
 | NAMECHEAP-NET | 797 | 0.10% |
 | Ethiopian Telecommunication Corporation | 794 | 0.10% |
-| PJSC MegaFon | 780 | 0.10% |
 | CANTV Servicios, Venezuela | 780 | 0.10% |
+| PJSC MegaFon | 780 | 0.10% |
