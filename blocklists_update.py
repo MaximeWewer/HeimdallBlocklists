@@ -16,6 +16,7 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(
 CONFIG_FILE: Path = Path('./blocklists_config.json')
 BLOCKLISTS_DIR: Path = Path("./blocklists")
 BLOCKLISTS_SPLIT_DIR: Path = Path("./blocklists_split")
+BLOCKLISTS_MERGED_FILE_PATH: Path = Path("./blocklists/all_blocklists_merged.txt")
 MAX_LINES_PER_FILE = 130000
 MAX_RETRIES: int = 10
 RETRY_DELAY: int = 2  # Seconds between each attempt
@@ -23,7 +24,7 @@ RETRY_DELAY: int = 2  # Seconds between each attempt
 # Ensure necessary directory exists
 BLOCKLISTS_DIR.mkdir(parents=True, exist_ok=True)
 BLOCKLISTS_SPLIT_DIR.mkdir(parents=True, exist_ok=True)
-logging.info("Necessary directories checked or created.")
+logging.info("Necessary directories checked or created")
 
 def clear_directory(directory: Path) -> None:
     """Remove all contents of the specified directory."""
@@ -58,7 +59,7 @@ def get_fragment_list(github_url: str, raw_url_prefix: str) -> List[str]:
             logging.error(f"Attempt {attempt}: Connection error - {e}")
         if attempt < MAX_RETRIES:
             time.sleep(RETRY_DELAY * attempt)
-    logging.error("Failed to retrieve the file list after several attempts.")
+    logging.error("Failed to retrieve the file list after several attempts")
     return []
 
 def download_file(url: str, filename: str) -> None:
@@ -180,7 +181,32 @@ def split_large_blocklists(input_directory: Path, output_directory: Path, max_li
                     start_line += max_lines
                     part_index += 1
 
+    logging.info(f"Blocklists were separated into files of {max_lines} lines")
+
+def merge_all_blocklists(blocklist_directory: Path, output_file: Path) -> None:
+    """
+    Merge all blocklist files from the blocklist directory into a single file, ensuring all IPs are unique.
+    """
+    ip_set = set()
+
+    # Collect all IPs from the blocklist files
+    for file_path in blocklist_directory.iterdir():
+        if file_path.is_file() and file_path.suffix == '.txt':
+            with file_path.open('r', encoding='utf-8', errors='ignore') as f:
+                for line in f:
+                    ip = line.strip()
+                    if is_valid_ip(ip):
+                        ip_set.add(ip)
+
+    # Write the unique IPs to the output file
+    with output_file.open('w', encoding='utf-8') as f:
+        for ip in sorted(ip_set, key=ipaddress.ip_address):
+            f.write(f"{ip}\n")
+
+    logging.info(f"Merged all blocklists into {output_file}")
+
 if __name__ == "__main__":
     clear_directory(BLOCKLISTS_DIR)
     process_all_resources(CONFIG_FILE)
     split_large_blocklists(BLOCKLISTS_DIR, BLOCKLISTS_SPLIT_DIR, MAX_LINES_PER_FILE)
+    merge_all_blocklists(BLOCKLISTS_DIR, BLOCKLISTS_MERGED_FILE_PATH)
