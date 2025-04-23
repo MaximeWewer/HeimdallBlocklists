@@ -30,6 +30,7 @@ The contributors who maintain these blocklists deserve your support, thanks to:
 Here are the URLs for the community blocklists:
 
 ```text
+https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/all_blocklists_merged.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/duggytuxy_agressive_ips_dst_fr_be_blocklist.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/romainmarcoux_abuseipdb-s100-120d.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/romainmarcoux_alienvault-fakelabs.txt
