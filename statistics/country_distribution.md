@@ -30,8 +30,8 @@
 | Seychelles | 41 | 0.45% |
 | Philippines | 38 | 0.42% |
 | Spain | 36 | 0.40% |
-| Australia | 35 | 0.39% |
 | Nigeria | 35 | 0.39% |
+| Australia | 35 | 0.39% |
 | Poland | 34 | 0.37% |
 | Italy | 34 | 0.37% |
 | Mexico | 33 | 0.36% |
@@ -44,8 +44,8 @@
 | Lithuania | 24 | 0.26% |
 | Colombia | 24 | 0.26% |
 | Switzerland | 22 | 0.24% |
-| Egypt | 20 | 0.22% |
 | Israel | 20 | 0.22% |
+| Egypt | 20 | 0.22% |
 | Ethiopia | 15 | 0.17% |
 | Tunisia | 15 | 0.17% |
 | Venezuela | 13 | 0.14% |
@@ -57,47 +57,47 @@
 | Honduras | 10 | 0.11% |
 | Peru | 10 | 0.11% |
 | Iraq | 9 | 0.10% |
+| Uzbekistan | 8 | 0.09% |
 | Austria | 8 | 0.09% |
 | Morocco | 8 | 0.09% |
 | Czechia | 8 | 0.09% |
-| Uzbekistan | 8 | 0.09% |
+| Luxembourg | 7 | 0.08% |
+| Chile | 7 | 0.08% |
 | Latvia | 7 | 0.08% |
 | Bolivia | 7 | 0.08% |
 | Kenya | 7 | 0.08% |
-| Luxembourg | 7 | 0.08% |
-| Chile | 7 | 0.08% |
-| Estonia | 6 | 0.07% |
-| Norway | 6 | 0.07% |
 | New Zealand | 6 | 0.07% |
+| Norway | 6 | 0.07% |
+| Estonia | 6 | 0.07% |
 | Finland | 5 | 0.06% |
+| Algeria | 5 | 0.06% |
 | Cameroon | 5 | 0.06% |
 | Paraguay | 5 | 0.06% |
-| Algeria | 5 | 0.06% |
-| Dominican Republic | 4 | 0.04% |
-| Ghana | 4 | 0.04% |
-| Belarus | 4 | 0.04% |
-| Angola | 4 | 0.04% |
-| Macao | 4 | 0.04% |
-| Georgia | 4 | 0.04% |
-| Mongolia | 4 | 0.04% |
-| Cambodia | 4 | 0.04% |
 | Sri Lanka | 4 | 0.04% |
-| Belize | 3 | 0.03% |
-| Uganda | 3 | 0.03% |
-| Ecuador | 3 | 0.03% |
-| North Macedonia | 3 | 0.03% |
+| Georgia | 4 | 0.04% |
+| Macao | 4 | 0.04% |
+| Dominican Republic | 4 | 0.04% |
+| Cambodia | 4 | 0.04% |
+| Angola | 4 | 0.04% |
+| Belarus | 4 | 0.04% |
+| Ghana | 4 | 0.04% |
+| Mongolia | 4 | 0.04% |
 | Greece | 3 | 0.03% |
+| Belize | 3 | 0.03% |
 | Myanmar | 3 | 0.03% |
-| Palestine | 2 | 0.02% |
-| Ireland | 2 | 0.02% |
-| Panama | 2 | 0.02% |
-| Bahrain | 2 | 0.02% |
-| Qatar | 2 | 0.02% |
-| Botswana | 2 | 0.02% |
-| New Caledonia | 2 | 0.02% |
-| Saudi Arabia | 2 | 0.02% |
-| El Salvador | 2 | 0.02% |
-| Nepal | 2 | 0.02% |
-| Mauritius | 2 | 0.02% |
+| North Macedonia | 3 | 0.03% |
+| Ecuador | 3 | 0.03% |
+| Uganda | 3 | 0.03% |
+| Laos | 2 | 0.02% |
 | Jordan | 2 | 0.02% |
-| Denmark | 2 | 0.02% |
+| Tanzania | 2 | 0.02% |
+| Palestine | 2 | 0.02% |
+| Panama | 2 | 0.02% |
+| El Salvador | 2 | 0.02% |
+| Botswana | 2 | 0.02% |
+| Armenia | 2 | 0.02% |
+| Nepal | 2 | 0.02% |
+| Bahrain | 2 | 0.02% |
+| Ireland | 2 | 0.02% |
+| Ivory Coast | 2 | 0.02% |
+| Saudi Arabia | 2 | 0.02% |
