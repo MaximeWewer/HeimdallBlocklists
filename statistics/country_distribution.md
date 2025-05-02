@@ -32,20 +32,20 @@
 | Nigeria | 35 | 0.41% |
 | Poland | 34 | 0.40% |
 | Mexico | 32 | 0.38% |
-| Italy | 31 | 0.36% |
-| Australia | 31 | 0.36% |
-| Argentina | 31 | 0.36% |
 | Philippines | 31 | 0.36% |
+| Australia | 31 | 0.36% |
+| Italy | 31 | 0.36% |
+| Argentina | 31 | 0.36% |
 | Bangladesh | 28 | 0.33% |
 | South Africa | 27 | 0.32% |
 | Pakistan | 26 | 0.31% |
 | United Arab Emirates | 25 | 0.29% |
-| Colombia | 24 | 0.28% |
 | Kazakhstan | 24 | 0.28% |
+| Colombia | 24 | 0.28% |
 | Lithuania | 23 | 0.27% |
 | Israel | 20 | 0.24% |
-| Egypt | 19 | 0.22% |
 | Switzerland | 19 | 0.22% |
+| Egypt | 19 | 0.22% |
 | Ethiopia | 15 | 0.18% |
 | Tunisia | 14 | 0.16% |
 | Venezuela | 13 | 0.15% |
@@ -55,49 +55,49 @@
 | Honduras | 10 | 0.12% |
 | Peru | 10 | 0.12% |
 | Azerbaijan | 10 | 0.12% |
-| Belgium | 9 | 0.11% |
 | Iraq | 9 | 0.11% |
+| Belgium | 9 | 0.11% |
 | Morocco | 8 | 0.09% |
 | Austria | 8 | 0.09% |
 | Czechia | 8 | 0.09% |
 | Uzbekistan | 8 | 0.09% |
 | Kenya | 7 | 0.08% |
-| Chile | 7 | 0.08% |
 | Latvia | 7 | 0.08% |
 | Bolivia | 7 | 0.08% |
+| Chile | 7 | 0.08% |
 | Norway | 6 | 0.07% |
 | Estonia | 6 | 0.07% |
-| Paraguay | 5 | 0.06% |
-| Algeria | 5 | 0.06% |
-| Luxembourg | 5 | 0.06% |
-| New Zealand | 5 | 0.06% |
 | Finland | 5 | 0.06% |
-| Cambodia | 4 | 0.05% |
+| Paraguay | 5 | 0.06% |
+| New Zealand | 5 | 0.06% |
+| Luxembourg | 5 | 0.06% |
+| Algeria | 5 | 0.06% |
 | Angola | 4 | 0.05% |
+| Ghana | 4 | 0.05% |
 | Cameroon | 4 | 0.05% |
 | Dominican Republic | 4 | 0.05% |
-| Belarus | 4 | 0.05% |
 | Georgia | 4 | 0.05% |
+| Belarus | 4 | 0.05% |
+| Cambodia | 4 | 0.05% |
 | Mongolia | 4 | 0.05% |
-| Ghana | 4 | 0.05% |
-| North Macedonia | 3 | 0.04% |
 | Belize | 3 | 0.04% |
 | Uganda | 3 | 0.04% |
-| Macao | 3 | 0.04% |
-| Sri Lanka | 3 | 0.04% |
-| Myanmar | 3 | 0.04% |
+| North Macedonia | 3 | 0.04% |
 | Greece | 3 | 0.04% |
 | Ecuador | 3 | 0.04% |
-| Panama | 2 | 0.02% |
-| Botswana | 2 | 0.02% |
-| Ivory Coast | 2 | 0.02% |
-| Armenia | 2 | 0.02% |
-| Palestine | 2 | 0.02% |
-| Jordan | 2 | 0.02% |
-| Qatar | 2 | 0.02% |
-| Denmark | 2 | 0.02% |
-| Bahrain | 2 | 0.02% |
+| Sri Lanka | 3 | 0.04% |
+| Macao | 3 | 0.04% |
+| Myanmar | 3 | 0.04% |
 | Tanzania | 2 | 0.02% |
-| Ireland | 2 | 0.02% |
-| New Caledonia | 2 | 0.02% |
 | El Salvador | 2 | 0.02% |
+| Nepal | 2 | 0.02% |
+| Denmark | 2 | 0.02% |
+| Ireland | 2 | 0.02% |
+| Jordan | 2 | 0.02% |
+| Bahrain | 2 | 0.02% |
+| Ivory Coast | 2 | 0.02% |
+| New Caledonia | 2 | 0.02% |
+| Botswana | 2 | 0.02% |
+| Palestine | 2 | 0.02% |
+| Qatar | 2 | 0.02% |
+| Saudi Arabia | 2 | 0.02% |
