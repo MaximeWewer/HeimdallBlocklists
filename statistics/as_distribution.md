@@ -40,8 +40,8 @@
 | COGENT-174 | 35 | 0.42% |
 | Sistemas Informaticos, S.A. | 33 | 0.39% |
 | M247 Europe SRL | 33 | 0.39% |
-| CTG Server Limited | 32 | 0.38% |
 | Unmanaged Ltd | 32 | 0.38% |
+| CTG Server Limited | 32 | 0.38% |
 | ATT-INTERNET4 | 31 | 0.37% |
 | AS-COLOCROSSING | 31 | 0.37% |
 | SK Broadband Co Ltd | 30 | 0.36% |
@@ -51,53 +51,53 @@
 | Shenzhen Tencent Computer Systems Company Limited | 24 | 0.29% |
 | UUNET | 23 | 0.27% |
 | Railnet LLC | 22 | 0.26% |
-| CT-HangZhou-IDC | 21 | 0.25% |
 | VNPT Corp | 21 | 0.25% |
 | PT Telekomunikasi Indonesia | 21 | 0.25% |
+| CT-HangZhou-IDC | 21 | 0.25% |
 | PacketFabric Japan Co., Ltd. | 21 | 0.25% |
+| SS-Net | 19 | 0.23% |
 | KAMATERA | 19 | 0.23% |
 | Cloud Computing Corporation | 19 | 0.23% |
-| SS-Net | 19 | 0.23% |
-| COMCAST-7922 | 18 | 0.21% |
 | Securitytrails, LLC | 18 | 0.21% |
-| National Internet Backbone | 17 | 0.20% |
+| COMCAST-7922 | 18 | 0.21% |
 | Taiwan Infrastructure Network Technologie | 17 | 0.20% |
-| Techoff Srv Limited | 17 | 0.20% |
-| JSC ER-Telecom Holding | 17 | 0.20% |
+| National Internet Backbone | 17 | 0.20% |
 | Contabo GmbH | 17 | 0.20% |
-| CENSYS-ARIN-03 | 16 | 0.19% |
+| JSC ER-Telecom Holding | 17 | 0.20% |
+| Techoff Srv Limited | 17 | 0.20% |
 | Telia Company AB | 16 | 0.19% |
+| CENSYS-ARIN-03 | 16 | 0.19% |
 | CHINANET SHAANXI province Cloud Base network | 16 | 0.19% |
 | TBC | 16 | 0.19% |
-| Netiface Limited | 15 | 0.18% |
+| Beijing Baidu Netcom Science and Technology Co., Ltd. | 15 | 0.18% |
 | kbro CO. Ltd. | 15 | 0.18% |
-| AS215240 | 15 | 0.18% |
 | PONYNET | 15 | 0.18% |
 | Ethiopian Telecommunication Corporation | 15 | 0.18% |
-| Beijing Baidu Netcom Science and Technology Co., Ltd. | 15 | 0.18% |
+| Netiface Limited | 15 | 0.18% |
+| AS215240 | 15 | 0.18% |
 | Bharti Airtel Ltd., Telemedia Services | 14 | 0.17% |
 | ORACLE-BMC-31898 | 14 | 0.17% |
-| VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 13 | 0.16% |
-| GOOGLE | 13 | 0.16% |
-| UAB Host Baltic | 13 | 0.16% |
 | China Telecom | 13 | 0.16% |
+| VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 13 | 0.16% |
+| UAB Host Baltic | 13 | 0.16% |
 | TE Data | 13 | 0.16% |
-| IDC, China Telecommunications Corporation | 12 | 0.14% |
-| VISAFONE | 12 | 0.14% |
+| GOOGLE | 13 | 0.16% |
 | Chang Way Technologies Co. Limited | 12 | 0.14% |
+| Cloudie Limited | 12 | 0.14% |
+| VISAFONE | 12 | 0.14% |
 | NTT Communications Corporation | 12 | 0.14% |
 | BHARTI Airtel Ltd. | 12 | 0.14% |
-| Cloudie Limited | 12 | 0.14% |
-| Global-Data System IT Corporation | 11 | 0.13% |
-| SURF B.V. | 11 | 0.13% |
-| Scaleway S.a.s. | 11 | 0.13% |
-| CHINANET Guangdong province network | 11 | 0.13% |
-| Hostglobal.plus Ltd | 11 | 0.13% |
-| Viettel Group | 11 | 0.13% |
-| VEE TIME CORP. | 11 | 0.13% |
-| Turk Telekom | 11 | 0.13% |
+| IDC, China Telecommunications Corporation | 12 | 0.14% |
 | MEVSPACE sp. z o.o. | 11 | 0.13% |
 | YISU CLOUD LTD | 11 | 0.13% |
+| Turk Telekom | 11 | 0.13% |
+| VEE TIME CORP. | 11 | 0.13% |
+| Viettel Group | 11 | 0.13% |
+| Global-Data System IT Corporation | 11 | 0.13% |
+| Hostglobal.plus Ltd | 11 | 0.13% |
+| SURF B.V. | 11 | 0.13% |
+| CHINANET Guangdong province network | 11 | 0.13% |
+| Scaleway S.a.s. | 11 | 0.13% |
+| CHARTER-20115 | 10 | 0.12% |
+| JSC Kazakhtelecom | 10 | 0.12% |
 | FPT Telecom Company | 10 | 0.12% |
-| HKT Limited | 10 | 0.12% |
-| Alsycon B.V. | 10 | 0.12% |
