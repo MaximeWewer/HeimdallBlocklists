@@ -40,10 +40,10 @@
 | COGENT-174 | 35 | 0.42% |
 | M247 Europe SRL | 33 | 0.39% |
 | Sistemas Informaticos, S.A. | 33 | 0.39% |
-| Unmanaged Ltd | 32 | 0.38% |
 | CTG Server Limited | 32 | 0.38% |
-| AS-COLOCROSSING | 31 | 0.37% |
+| Unmanaged Ltd | 32 | 0.38% |
 | ATT-INTERNET4 | 31 | 0.37% |
+| AS-COLOCROSSING | 31 | 0.37% |
 | NYBULA | 30 | 0.36% |
 | SK Broadband Co Ltd | 30 | 0.36% |
 | Geekyworks IT Solutions Pvt Ltd | 28 | 0.33% |
@@ -51,53 +51,53 @@
 | Shenzhen Tencent Computer Systems Company Limited | 24 | 0.29% |
 | UUNET | 23 | 0.27% |
 | Railnet LLC | 22 | 0.26% |
-| PT Telekomunikasi Indonesia | 21 | 0.25% |
 | PacketFabric Japan Co., Ltd. | 21 | 0.25% |
 | CT-HangZhou-IDC | 21 | 0.25% |
 | VNPT Corp | 21 | 0.25% |
-| KAMATERA | 19 | 0.23% |
+| PT Telekomunikasi Indonesia | 21 | 0.25% |
 | SS-Net | 19 | 0.23% |
 | Cloud Computing Corporation | 19 | 0.23% |
-| COMCAST-7922 | 18 | 0.21% |
+| KAMATERA | 19 | 0.23% |
 | Securitytrails, LLC | 18 | 0.21% |
-| JSC ER-Telecom Holding | 17 | 0.20% |
-| Contabo GmbH | 17 | 0.20% |
+| COMCAST-7922 | 18 | 0.21% |
 | National Internet Backbone | 17 | 0.20% |
 | Taiwan Infrastructure Network Technologie | 17 | 0.20% |
 | Techoff Srv Limited | 17 | 0.20% |
+| JSC ER-Telecom Holding | 17 | 0.20% |
+| Contabo GmbH | 17 | 0.20% |
 | CENSYS-ARIN-03 | 16 | 0.19% |
-| TBC | 16 | 0.19% |
 | CHINANET SHAANXI province Cloud Base network | 16 | 0.19% |
 | Telia Company AB | 16 | 0.19% |
-| Beijing Baidu Netcom Science and Technology Co., Ltd. | 15 | 0.18% |
-| kbro CO. Ltd. | 15 | 0.18% |
-| Ethiopian Telecommunication Corporation | 15 | 0.18% |
+| TBC | 16 | 0.19% |
 | PONYNET | 15 | 0.18% |
-| Netiface Limited | 15 | 0.18% |
+| Beijing Baidu Netcom Science and Technology Co., Ltd. | 15 | 0.18% |
 | AS215240 | 15 | 0.18% |
+| Netiface Limited | 15 | 0.18% |
+| Ethiopian Telecommunication Corporation | 15 | 0.18% |
+| kbro CO. Ltd. | 15 | 0.18% |
 | Bharti Airtel Ltd., Telemedia Services | 14 | 0.17% |
 | ORACLE-BMC-31898 | 14 | 0.17% |
+| GOOGLE | 13 | 0.16% |
 | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 13 | 0.16% |
+| UAB Host Baltic | 13 | 0.16% |
 | China Telecom | 13 | 0.16% |
 | TE Data | 13 | 0.16% |
-| UAB Host Baltic | 13 | 0.16% |
-| GOOGLE | 13 | 0.16% |
 | NTT Communications Corporation | 12 | 0.14% |
-| IDC, China Telecommunications Corporation | 12 | 0.14% |
+| Chang Way Technologies Co. Limited | 12 | 0.14% |
 | Cloudie Limited | 12 | 0.14% |
 | BHARTI Airtel Ltd. | 12 | 0.14% |
-| Chang Way Technologies Co. Limited | 12 | 0.14% |
+| IDC, China Telecommunications Corporation | 12 | 0.14% |
 | VISAFONE | 12 | 0.14% |
-| Hostglobal.plus Ltd | 11 | 0.13% |
-| Turk Telekom | 11 | 0.13% |
-| CHINANET Guangdong province network | 11 | 0.13% |
 | SURF B.V. | 11 | 0.13% |
-| Viettel Group | 11 | 0.13% |
-| YISU CLOUD LTD | 11 | 0.13% |
-| Scaleway S.a.s. | 11 | 0.13% |
 | VEE TIME CORP. | 11 | 0.13% |
-| MEVSPACE sp. z o.o. | 11 | 0.13% |
 | Global-Data System IT Corporation | 11 | 0.13% |
-| Telecom Argentina S.A. | 10 | 0.12% |
+| Viettel Group | 11 | 0.13% |
+| Turk Telekom | 11 | 0.13% |
+| MEVSPACE sp. z o.o. | 11 | 0.13% |
+| Scaleway S.a.s. | 11 | 0.13% |
+| YISU CLOUD LTD | 11 | 0.13% |
+| CHINANET Guangdong province network | 11 | 0.13% |
+| Hostglobal.plus Ltd | 11 | 0.13% |
 | Moon Dc | 10 | 0.12% |
-| CHARTER-20115 | 10 | 0.12% |
+| TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED | 10 | 0.12% |
+| Telecom Argentina S.A. | 10 | 0.12% |
