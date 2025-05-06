@@ -27,8 +27,8 @@
 | LG POWERCOMM | 60 | 0.66% |
 | Beijing Volcano Engine Technology Co., Ltd. | 58 | 0.64% |
 | IP Volume inc | 54 | 0.60% |
-| Rostelecom | 52 | 0.58% |
 | AMAZON-AES | 52 | 0.58% |
+| Rostelecom | 52 | 0.58% |
 | China Mobile Communications Group Co., Ltd. | 49 | 0.54% |
 | HURRICANE | 46 | 0.51% |
 | AGOTOZ PTE. LTD. | 45 | 0.50% |
@@ -38,66 +38,66 @@
 | Sistemas Informaticos, S.A. | 40 | 0.44% |
 | China Unicom Beijing Province Network | 38 | 0.42% |
 | LG DACOM Corporation | 37 | 0.41% |
-| M247 Europe SRL | 35 | 0.39% |
 | COGENT-174 | 35 | 0.39% |
+| M247 Europe SRL | 35 | 0.39% |
 | NYBULA | 34 | 0.38% |
 | Unmanaged Ltd | 33 | 0.37% |
 | CTG Server Limited | 32 | 0.35% |
 | ATT-INTERNET4 | 32 | 0.35% |
 | AS-COLOCROSSING | 31 | 0.34% |
 | SK Broadband Co Ltd | 30 | 0.33% |
-| Geekyworks IT Solutions Pvt Ltd | 28 | 0.31% |
 | CARINET | 28 | 0.31% |
+| Geekyworks IT Solutions Pvt Ltd | 28 | 0.31% |
 | VNPT Corp | 26 | 0.29% |
 | Shenzhen Tencent Computer Systems Company Limited | 24 | 0.27% |
 | Railnet LLC | 23 | 0.25% |
 | UUNET | 23 | 0.25% |
-| CT-HangZhou-IDC | 21 | 0.23% |
-| PT Telekomunikasi Indonesia | 21 | 0.23% |
 | PacketFabric Japan Co., Ltd. | 21 | 0.23% |
+| PT Telekomunikasi Indonesia | 21 | 0.23% |
+| CT-HangZhou-IDC | 21 | 0.23% |
 | Contabo GmbH | 20 | 0.22% |
-| KAMATERA | 19 | 0.21% |
-| COMCAST-7922 | 19 | 0.21% |
-| AS215240 | 19 | 0.21% |
 | Cloud Computing Corporation | 19 | 0.21% |
 | SS-Net | 19 | 0.21% |
-| Netiface Limited | 18 | 0.20% |
+| AS215240 | 19 | 0.21% |
+| KAMATERA | 19 | 0.21% |
+| COMCAST-7922 | 19 | 0.21% |
 | Securitytrails, LLC | 18 | 0.20% |
-| Taiwan Infrastructure Network Technologie | 17 | 0.19% |
-| National Internet Backbone | 17 | 0.19% |
+| Netiface Limited | 18 | 0.20% |
 | Techoff Srv Limited | 17 | 0.19% |
+| Taiwan Infrastructure Network Technologie | 17 | 0.19% |
 | JSC ER-Telecom Holding | 17 | 0.19% |
-| CENSYS-ARIN-03 | 16 | 0.18% |
-| PONYNET | 16 | 0.18% |
-| CHINANET SHAANXI province Cloud Base network | 16 | 0.18% |
-| Beijing Baidu Netcom Science and Technology Co., Ltd. | 16 | 0.18% |
+| National Internet Backbone | 17 | 0.19% |
 | TBC | 16 | 0.18% |
+| PONYNET | 16 | 0.18% |
 | Telia Company AB | 16 | 0.18% |
-| ORACLE-BMC-31898 | 15 | 0.17% |
+| Beijing Baidu Netcom Science and Technology Co., Ltd. | 16 | 0.18% |
+| CHINANET SHAANXI province Cloud Base network | 16 | 0.18% |
+| CENSYS-ARIN-03 | 16 | 0.18% |
 | Ethiopian Telecommunication Corporation | 15 | 0.17% |
+| ORACLE-BMC-31898 | 15 | 0.17% |
 | kbro CO. Ltd. | 15 | 0.17% |
-| UAB Host Baltic | 14 | 0.16% |
 | Bharti Airtel Ltd., Telemedia Services | 14 | 0.16% |
 | TE Data | 14 | 0.16% |
-| GOOGLE | 13 | 0.14% |
-| NTT Communications Corporation | 13 | 0.14% |
-| China Telecom | 13 | 0.14% |
+| UAB Host Baltic | 14 | 0.16% |
 | VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 13 | 0.14% |
-| HKT Limited | 12 | 0.13% |
-| Cloudie Limited | 12 | 0.13% |
+| NTT Communications Corporation | 13 | 0.14% |
+| GOOGLE | 13 | 0.14% |
+| China Telecom | 13 | 0.14% |
 | BHARTI Airtel Ltd. | 12 | 0.13% |
-| Chang Way Technologies Co. Limited | 12 | 0.13% |
 | IDC, China Telecommunications Corporation | 12 | 0.13% |
+| Cloudie Limited | 12 | 0.13% |
+| Chang Way Technologies Co. Limited | 12 | 0.13% |
 | VISAFONE | 12 | 0.13% |
-| MEVSPACE sp. z o.o. | 11 | 0.12% |
-| Hostglobal.plus Ltd | 11 | 0.12% |
-| VEE TIME CORP. | 11 | 0.12% |
-| Global-Data System IT Corporation | 11 | 0.12% |
-| YISU CLOUD LTD | 11 | 0.12% |
-| Viettel Group | 11 | 0.12% |
-| SURF B.V. | 11 | 0.12% |
-| CHINANET Guangdong province network | 11 | 0.12% |
-| Scaleway S.a.s. | 11 | 0.12% |
+| HKT Limited | 12 | 0.13% |
 | Turk Telekom | 11 | 0.12% |
 | Stimul LLC | 11 | 0.12% |
-| Scloud Pte Ltd | 10 | 0.11% |
+| CHINANET Guangdong province network | 11 | 0.12% |
+| Viettel Group | 11 | 0.12% |
+| VEE TIME CORP. | 11 | 0.12% |
+| Hostglobal.plus Ltd | 11 | 0.12% |
+| MEVSPACE sp. z o.o. | 11 | 0.12% |
+| YISU CLOUD LTD | 11 | 0.12% |
+| SURF B.V. | 11 | 0.12% |
+| Global-Data System IT Corporation | 11 | 0.12% |
+| Scaleway S.a.s. | 11 | 0.12% |
+| FPT Telecom Company | 10 | 0.11% |
