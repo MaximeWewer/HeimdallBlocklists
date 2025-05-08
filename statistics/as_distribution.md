@@ -11,13 +11,13 @@
 | Alibaba US Technology Co., Ltd. | 211 | 2.33% |
 | Korea Telecom | 191 | 2.11% |
 | Detai Prosperous Technologies Limited | 143 | 1.58% |
-| OVH SAS | 112 | 1.23% |
 | China Telecom Group | 112 | 1.23% |
+| OVH SAS | 112 | 1.23% |
 | FUTURE DIGITAL TECHNOLOGY E TELECOM LTDA EPP | 107 | 1.18% |
 | Akamai Connected Cloud | 106 | 1.17% |
 | CHINA UNICOM China169 Backbone | 95 | 1.05% |
-| CHEAPY-HOST | 94 | 1.04% |
 | Proper Support LLP | 94 | 1.04% |
+| CHEAPY-HOST | 94 | 1.04% |
 | ONYPHE SAS | 84 | 0.93% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 83 | 0.91% |
 | Skynet Network Ltd | 75 | 0.83% |
@@ -38,66 +38,66 @@
 | Sistemas Informaticos, S.A. | 40 | 0.44% |
 | China Unicom Beijing Province Network | 38 | 0.42% |
 | LG DACOM Corporation | 37 | 0.41% |
-| M247 Europe SRL | 35 | 0.39% |
 | COGENT-174 | 35 | 0.39% |
+| M247 Europe SRL | 35 | 0.39% |
 | NYBULA | 34 | 0.37% |
 | Unmanaged Ltd | 33 | 0.36% |
 | ATT-INTERNET4 | 32 | 0.35% |
-| CTG Server Limited | 32 | 0.35% |
 | AS-COLOCROSSING | 32 | 0.35% |
+| CTG Server Limited | 32 | 0.35% |
 | SK Broadband Co Ltd | 30 | 0.33% |
-| Geekyworks IT Solutions Pvt Ltd | 28 | 0.31% |
 | CARINET | 28 | 0.31% |
+| Geekyworks IT Solutions Pvt Ltd | 28 | 0.31% |
 | VNPT Corp | 26 | 0.29% |
 | Shenzhen Tencent Computer Systems Company Limited | 24 | 0.26% |
 | UUNET | 23 | 0.25% |
 | Railnet LLC | 23 | 0.25% |
-| CT-HangZhou-IDC | 21 | 0.23% |
-| Host Global Networks Ltd | 21 | 0.23% |
 | PT Telekomunikasi Indonesia | 21 | 0.23% |
+| CT-HangZhou-IDC | 21 | 0.23% |
 | PacketFabric Japan Co., Ltd. | 21 | 0.23% |
+| Host Global Networks Ltd | 21 | 0.23% |
 | Contabo GmbH | 20 | 0.22% |
 | SS-Net | 19 | 0.21% |
-| AS215240 | 19 | 0.21% |
-| KAMATERA | 19 | 0.21% |
 | COMCAST-7922 | 19 | 0.21% |
+| KAMATERA | 19 | 0.21% |
+| AS215240 | 19 | 0.21% |
 | Cloud Computing Corporation | 19 | 0.21% |
-| Securitytrails, LLC | 18 | 0.20% |
 | Netiface Limited | 18 | 0.20% |
-| Techoff Srv Limited | 17 | 0.19% |
-| Taiwan Infrastructure Network Technologie | 17 | 0.19% |
+| Securitytrails, LLC | 18 | 0.20% |
 | JSC ER-Telecom Holding | 17 | 0.19% |
 | National Internet Backbone | 17 | 0.19% |
-| PONYNET | 16 | 0.18% |
-| TBC | 16 | 0.18% |
-| Beijing Baidu Netcom Science and Technology Co., Ltd. | 16 | 0.18% |
-| CHINANET SHAANXI province Cloud Base network | 16 | 0.18% |
+| Techoff Srv Limited | 17 | 0.19% |
+| Taiwan Infrastructure Network Technologie | 17 | 0.19% |
 | Telia Company AB | 16 | 0.18% |
+| CHINANET SHAANXI province Cloud Base network | 16 | 0.18% |
+| TBC | 16 | 0.18% |
 | CENSYS-ARIN-03 | 16 | 0.18% |
+| Beijing Baidu Netcom Science and Technology Co., Ltd. | 16 | 0.18% |
+| PONYNET | 16 | 0.18% |
 | kbro CO. Ltd. | 15 | 0.17% |
-| Ethiopian Telecommunication Corporation | 15 | 0.17% |
 | ORACLE-BMC-31898 | 15 | 0.17% |
-| UAB Host Baltic | 14 | 0.15% |
-| TE Data | 14 | 0.15% |
+| Ethiopian Telecommunication Corporation | 15 | 0.17% |
 | Bharti Airtel Ltd., Telemedia Services | 14 | 0.15% |
-| Cloudie Limited | 13 | 0.14% |
-| GOOGLE | 13 | 0.14% |
-| VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 13 | 0.14% |
-| NTT Communications Corporation | 13 | 0.14% |
+| TE Data | 14 | 0.15% |
+| UAB Host Baltic | 14 | 0.15% |
 | China Telecom | 13 | 0.14% |
+| GOOGLE | 13 | 0.14% |
+| Cloudie Limited | 13 | 0.14% |
+| NTT Communications Corporation | 13 | 0.14% |
+| VIET DIGITAL TECHNOLOGY LIABILITY COMPANY | 13 | 0.14% |
 | IDC, China Telecommunications Corporation | 12 | 0.13% |
-| Chang Way Technologies Co. Limited | 12 | 0.13% |
-| HKT Limited | 12 | 0.13% |
 | Stimul LLC | 12 | 0.13% |
 | VISAFONE | 12 | 0.13% |
 | BHARTI Airtel Ltd. | 12 | 0.13% |
-| MEVSPACE sp. z o.o. | 11 | 0.12% |
+| Chang Way Technologies Co. Limited | 12 | 0.13% |
+| HKT Limited | 12 | 0.13% |
 | Global-Data System IT Corporation | 11 | 0.12% |
-| CHINANET Guangdong province network | 11 | 0.12% |
-| Viettel Group | 11 | 0.12% |
-| Hostglobal.plus Ltd | 11 | 0.12% |
-| Turk Telekom | 11 | 0.12% |
-| Scaleway S.a.s. | 11 | 0.12% |
-| VEE TIME CORP. | 11 | 0.12% |
 | SURF B.V. | 11 | 0.12% |
-| Superonline Iletisim Hizmetleri A.S. | 10 | 0.11% |
+| VEE TIME CORP. | 11 | 0.12% |
+| CHINANET Guangdong province network | 11 | 0.12% |
+| Turk Telekom | 11 | 0.12% |
+| Viettel Group | 11 | 0.12% |
+| MEVSPACE sp. z o.o. | 11 | 0.12% |
+| Scaleway S.a.s. | 11 | 0.12% |
+| Hostglobal.plus Ltd | 11 | 0.12% |
+| TOTHOST SOLUTIONS AND TECHNOLOGIES COMPANY LIMITED | 10 | 0.11% |
