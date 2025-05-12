@@ -1,3 +1,4 @@
+import os
 import re
 import json
 import string
@@ -49,12 +50,36 @@ def get_fragment_list(github_url: str, raw_url_prefix: str) -> List[str]:
         try:
             response = requests.get(github_url, timeout=5)
             if response.status_code == 200:
-                fragment_list = set(re.findall(r'href="([^"]*\.txt)"', response.text))
-                if fragment_list:
-                    return [
-                        f"{raw_url_prefix}/{file.split('/')[-1].replace('\"', '')}"
-                        for file in fragment_list
-                    ]
+                # Old version
+                # fragment_list = set(re.findall(r'href="([^"]*\.txt)"', response.text))
+                # if fragment_list:
+                #   return [
+                #       f"{raw_url_prefix}/{file.split('/')[-1].replace('\"', '')}"
+                #       for file in fragment_list
+                #   ]
+
+                # New version
+                json_text = re.search(
+                    r'<script type="application/json" data-target="react-app.embeddedData">(.*?)</script>',
+                    response.text,
+                    re.DOTALL
+                ).group(1)
+
+                data = json.loads(json_text)
+
+                files = data["payload"]["tree"]["items"]
+                repo = data["payload"]["repo"]
+                branch = data["payload"]["refInfo"]["name"]
+                owner = repo["ownerLogin"]
+                repo_name = repo["name"]
+
+                txt_files = [item["path"] for item in files if item["path"].endswith(".txt")]
+
+                return [
+                    f"https://raw.githubusercontent.com/{owner}/{repo_name}/{branch}/{file_path}"
+                    for file_path in txt_files
+                ]
+                
         except requests.RequestException as e:
             logging.error(f"Attempt {attempt}: Connection error - {e}")
         if attempt < MAX_RETRIES:
@@ -77,7 +102,7 @@ def download_file(url: str, filename: str) -> None:
 
 def download_all_files(file_urls: List[str]) -> None:
     """Download all files using multithreading."""
-    with ThreadPoolExecutor(max_workers=5) as executor:
+    with ThreadPoolExecutor(max_workers=os.cpu_count()) as executor:
         for url in sorted(file_urls):
             filename = url.split("/")[-1]
             executor.submit(download_file, url, filename)
