@@ -74,8 +74,8 @@
 | Algeria | 512 | 0.06% |
 | Peru | 489 | 0.06% |
 | Denmark | 479 | 0.06% |
-| Uruguay | 442 | 0.05% |
 | Serbia | 442 | 0.05% |
+| Uruguay | 442 | 0.05% |
 | Latvia | 417 | 0.05% |
 | Cyprus | 373 | 0.05% |
 | Uzbekistan | 360 | 0.04% |
@@ -97,7 +97,7 @@
 | Palestine | 250 | 0.03% |
 | Albania | 233 | 0.03% |
 | Qatar | 229 | 0.03% |
-| Ghana | 224 | 0.03% |
 | Mozambique | 224 | 0.03% |
+| Ghana | 224 | 0.03% |
 | Gambia | 219 | 0.03% |
 | Bahrain | 213 | 0.03% |
