@@ -91,8 +91,8 @@
 | Ecuador | 283 | 0.03% |
 | Panama | 276 | 0.03% |
 | Mauritius | 271 | 0.03% |
-| Albania | 266 | 0.03% |
 | Paraguay | 266 | 0.03% |
+| Albania | 266 | 0.03% |
 | Nepal | 255 | 0.03% |
 | Mongolia | 253 | 0.03% |
 | Palestine | 243 | 0.03% |
