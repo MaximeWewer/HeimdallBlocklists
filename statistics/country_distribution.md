@@ -56,8 +56,8 @@
 | Czechia | 976 | 0.12% |
 | Iraq | 936 | 0.11% |
 | Greece | 911 | 0.11% |
-| Bolivia | 872 | 0.10% |
 | Lithuania | 872 | 0.10% |
+| Bolivia | 872 | 0.10% |
 | Macao | 851 | 0.10% |
 | Dominican Republic | 839 | 0.10% |
 | Chile | 821 | 0.10% |
