@@ -82,8 +82,8 @@
 | Georgia | 346 | 0.04% |
 | Benin | 340 | 0.04% |
 | Estonia | 328 | 0.04% |
-| New Zealand | 324 | 0.04% |
 | Slovakia | 324 | 0.04% |
+| New Zealand | 324 | 0.04% |
 | North Macedonia | 318 | 0.04% |
 | Luxembourg | 317 | 0.04% |
 | Belarus | 288 | 0.03% |
