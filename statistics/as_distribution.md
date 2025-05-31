@@ -96,8 +96,8 @@
 | NAMECHEAP-NET | 886 | 0.11% |
 | NTT PC Communications, Inc. | 868 | 0.10% |
 | TWC-10796-MIDWEST | 862 | 0.10% |
-| IP Volume inc | 837 | 0.10% |
 | Companhia de Telecomunicacoes de Macau SARL | 837 | 0.10% |
+| IP Volume inc | 837 | 0.10% |
 | Railnet LLC | 835 | 0.10% |
 | CENSYS-ARIN-01 | 827 | 0.10% |
 | PT Cloud Hosting Indonesia | 825 | 0.10% |
