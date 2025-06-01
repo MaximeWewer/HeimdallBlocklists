@@ -80,8 +80,8 @@
 | ASN-CXA-ALL-CCI-22773-RDC | 1085 | 0.13% |
 | China Unicom Shanghai network | 1083 | 0.13% |
 | Bharti Airtel Ltd., Telemedia Services | 1071 | 0.13% |
-| Pakistan Telecommunication Company Limited | 1056 | 0.13% |
 | RailTel Corporation of India Ltd | 1056 | 0.13% |
+| Pakistan Telecommunication Company Limited | 1056 | 0.13% |
 | Hathway IP Over Cable Internet | 1044 | 0.12% |
 | Kyivstar PJSC | 1040 | 0.12% |
 | Obenet AB | 1029 | 0.12% |
@@ -97,7 +97,7 @@
 | NTT PC Communications, Inc. | 869 | 0.10% |
 | TWC-10796-MIDWEST | 862 | 0.10% |
 | Railnet LLC | 838 | 0.10% |
-| Companhia de Telecomunicacoes de Macau SARL | 837 | 0.10% |
 | IP Volume inc | 837 | 0.10% |
+| Companhia de Telecomunicacoes de Macau SARL | 837 | 0.10% |
 | PT Cloud Hosting Indonesia | 829 | 0.10% |
 | CENSYS-ARIN-01 | 827 | 0.10% |
