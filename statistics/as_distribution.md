@@ -10,7 +10,7 @@
 | MICROSOFT-CORP-MSN-AS-BLOCK | 15867 | 1.90% |
 | Korea Telecom | 13856 | 1.66% |
 | TE Data | 9826 | 1.18% |
-| AMAZON-02 | 9301 | 1.11% |
+| AMAZON-02 | 9300 | 1.11% |
 | Akamai Connected Cloud | 8190 | 0.98% |
 | GOOGLE-CLOUD-PLATFORM | 8068 | 0.97% |
 | HUAWEI CLOUDS | 6151 | 0.74% |
@@ -35,7 +35,7 @@
 | MTS PJSC | 2726 | 0.33% |
 | CANTV Servicios, Venezuela | 2655 | 0.32% |
 | VNPT Corp | 2612 | 0.31% |
-| UNINET | 2418 | 0.29% |
+| UNINET | 2419 | 0.29% |
 | Mahanagar Telephone Nigam Limited | 2409 | 0.29% |
 | China Unicom Guangzhou network | 2361 | 0.28% |
 | Viettel Group | 2351 | 0.28% |
@@ -48,7 +48,7 @@
 | LEASEWEB-USA-SEA | 2067 | 0.25% |
 | Alpha Strike Labs GmbH | 2041 | 0.24% |
 | ATT-INTERNET4 | 2014 | 0.24% |
-| Datacamp Limited | 1975 | 0.24% |
+| Datacamp Limited | 1979 | 0.24% |
 | China Mobile communications corporation | 1904 | 0.23% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 1887 | 0.23% |
 | CHARTER-20115 | 1818 | 0.22% |
@@ -57,8 +57,8 @@
 | SK Broadband Co Ltd | 1652 | 0.20% |
 | Clouvider Limited | 1577 | 0.19% |
 | Mobile Telecommunications Company | 1568 | 0.19% |
-| AS-COLOCROSSING | 1498 | 0.18% |
-| COGENT-174 | 1489 | 0.18% |
+| AS-COLOCROSSING | 1497 | 0.18% |
+| COGENT-174 | 1493 | 0.18% |
 | TELEFONICA BRASIL S.A | 1486 | 0.18% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1485 | 0.18% |
 | Telstra Limited | 1451 | 0.17% |
