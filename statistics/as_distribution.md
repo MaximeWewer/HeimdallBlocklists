@@ -97,7 +97,7 @@
 | NTT PC Communications, Inc. | 869 | 0.10% |
 | TWC-10796-MIDWEST | 862 | 0.10% |
 | Railnet LLC | 838 | 0.10% |
-| IP Volume inc | 837 | 0.10% |
 | Companhia de Telecomunicacoes de Macau SARL | 837 | 0.10% |
+| IP Volume inc | 837 | 0.10% |
 | PT Cloud Hosting Indonesia | 829 | 0.10% |
 | CENSYS-ARIN-01 | 827 | 0.10% |
