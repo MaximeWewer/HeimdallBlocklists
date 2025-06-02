@@ -3,7 +3,7 @@
 |----|----|----|
 | China | 189984 | 22.58% |
 | India | 146887 | 17.46% |
-| United States | 112675 | 13.39% |
+| United States | 112678 | 13.39% |
 | Taiwan | 43760 | 5.20% |
 | Singapore | 27157 | 3.23% |
 | Russia | 25869 | 3.07% |
@@ -11,7 +11,7 @@
 | South Korea | 19653 | 2.34% |
 | Hong Kong | 14455 | 1.72% |
 | Brazil | 14365 | 1.71% |
-| United Kingdom | 12913 | 1.53% |
+| United Kingdom | 12914 | 1.53% |
 | The Netherlands | 12643 | 1.50% |
 | Japan | 11334 | 1.35% |
 | Vietnam | 10714 | 1.27% |
