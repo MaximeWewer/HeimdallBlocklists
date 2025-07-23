@@ -1,7 +1,7 @@
 [
     {
-        "url": "https://raw.githubusercontent.com/duggytuxy/malicious_ip_addresses/refs/heads/main/agressive_ips_dst_fr_be_blocklist.txt",
-        "filename": "duggytuxy_agressive_ips_dst_fr_be_blocklist.txt"
+        "url": "https://raw.githubusercontent.com/duggytuxy/Data-Shield_IPv4_Blocklist/refs/heads/main/prod_data-shield_ipv4_blocklist.txt",
+        "filename": "prod_data-shield_ipv4_blocklist.txt"
     },
     {
         "url": "https://www.spamhaus.org/drop/drop.txt",

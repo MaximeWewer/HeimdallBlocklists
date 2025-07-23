@@ -22,7 +22,7 @@ HeimdallBlocklists uses well-known sources, such as:
 
 The contributors who maintain these blocklists deserve your support, thanks to:
 
-- DuggyTuxy : <https://github.com/duggytuxy/malicious_ip_addresses>
+- DuggyTuxy (Laurent Minne): <https://github.com/duggytuxy/Data-Shield_IPv4_Blocklist>
 - Romain Marcoux : <https://github.com/romainmarcoux/malicious-ip>
 
 ## Blocklists URLs
