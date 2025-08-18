@@ -1,9 +1,6 @@
-#!/usr/bin/env python3
 """Git push script for automated blocklist updates in CI environment."""
 
-import logging
-import subprocess
-import sys
+import logging, subprocess, sys
 from pathlib import Path
 
 # Setup logger
@@ -11,7 +8,6 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
-
 
 def run_git_command(cmd: list, description: str) -> None:
     """Run a git command with proper error handling."""
