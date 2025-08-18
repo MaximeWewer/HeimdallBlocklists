@@ -5,6 +5,7 @@ on:
   - cron: '0 */2 * * *'
   workflow_dispatch:
 
+
 permissions:
   contents: write
 
@@ -31,7 +32,7 @@ jobs:
     - name: Install necessary packages
       run: |
         packages="requests ipaddress geoip2 path"
-    
+
         if [ ! -d ".venv_blocklist" ]; then
           python -m venv .venv_blocklist
           source .venv_blocklist/bin/activate
@@ -58,7 +59,7 @@ jobs:
 
         echo "$PWD/.venv_blocklist/bin" >> $GITHUB_PATH
         echo "VIRTUAL_ENV=$PWD/.venv_blocklist" >> $GITHUB_ENV
-    
+
     - name: Save cached virtualenv
       uses: actions/cache@v4
       with:
@@ -75,9 +76,4 @@ jobs:
         python blocklists_update.py
         python blocklists_statistics.py
         python blocklists_update_urls_readme.py
-
-    - name: Execute Git push script
-      shell: bash
-      run: |
-        chmod +x blocklists_git_push.sh
-        ./blocklists_git_push.sh ${{ secrets.GITHUB_TOKEN }}
+        python blocklists_git_push.py ${{ secrets.GITHUB_TOKEN }}

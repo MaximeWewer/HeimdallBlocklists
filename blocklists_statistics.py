@@ -1,12 +1,16 @@
-import re
+"""Blocklist statistics generator with geolocation and AS analysis."""
+
 import logging
-import requests
-import ipaddress
-import geoip2.database, geoip2.errors
-from pathlib import Path
-from datetime import datetime
+import re
 from collections import Counter, defaultdict
-from typing import Tuple, Optional, List, Dict, Set
+from datetime import datetime
+from pathlib import Path
+from typing import Dict, List, Optional, Set, Tuple
+
+import ipaddress
+import requests
+import geoip2.database
+import geoip2.errors
 
 # Setup logger
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -231,27 +235,73 @@ def save_statistics(unique_ips: Set[str], country_stats: Counter, as_stats: Coun
     # Save blocklist frequency statistics
     save_blocklist_frequency_statistics(frequency_counter)
 
+def main() -> None:
+    """Main function to orchestrate the statistics generation process."""
+    logging.info("Starting blocklist statistics generation")
+    
+    try:
+        # Download databases if needed
+        download_maxmind_databases()
+        
+        # Load GeoIP databases
+        country_reader, as_reader = load_geoip_databases()
+
+        if country_reader is None or as_reader is None:
+            logging.error("GeoIP databases are not loaded. Exiting.")
+            return
+            
+        try:
+            # Get unique IPs from all blocklists
+            unique_ips = get_unique_ips()
+            
+            if not unique_ips:
+                logging.warning("No unique IPs found in blocklists")
+                return
+
+            # Load all blocklist IPs for frequency analysis
+            logging.info("Loading blocklist files for frequency analysis")
+            blocklists = [
+                extract_ips_from_file(file_path) 
+                for file_path in BLOCKLISTS_DIR.glob("*.txt")
+            ]
+
+            # Perform country and AS analysis
+            logging.info("Starting geolocation and AS analysis")
+            country_stats, as_stats = analyze_ips(
+                unique_ips, 
+                country_reader, 
+                as_reader
+            )
+
+            # Analyze blocklist frequency
+            logging.info("Starting frequency analysis")
+            frequency_counter = analyze_ip_blocklists_frequency(
+                unique_ips, 
+                blocklists
+            )
+
+            # Save all statistics
+            logging.info("Saving statistics")
+            save_statistics(
+                unique_ips, 
+                country_stats, 
+                as_stats, 
+                frequency_counter
+            )
+            
+            logging.info("Statistics generation completed successfully")
+            
+        finally:
+            # Ensure databases are closed
+            if country_reader:
+                country_reader.close()
+            if as_reader:
+                as_reader.close()
+                
+    except Exception as e:
+        logging.error(f"Statistics generation failed: {e}")
+        raise
+
+
 if __name__ == "__main__":
-    download_maxmind_databases()
-    country_reader, as_reader = load_geoip_databases()
-
-    if country_reader is None or as_reader is None:
-        logging.error("GeoIP databases are not loaded. Exiting.")
-    else:
-        unique_ips = get_unique_ips()
-
-        # Load all blocklist IPs
-        blocklists = [extract_ips_from_file(file_path) for file_path in BLOCKLISTS_DIR.glob("*.txt")]
-
-        # Perform country and AS analysis
-        country_stats, as_stats = analyze_ips(unique_ips, country_reader, as_reader)
-
-        # Analyze blocklist frequency
-        frequency_counter = analyze_ip_blocklists_frequency(unique_ips, blocklists)
-
-        # Save statistics
-        save_statistics(unique_ips, country_stats, as_stats, frequency_counter)
-
-        # Close GeoIP
-        country_reader.close()
-        as_reader.close()
+    main()

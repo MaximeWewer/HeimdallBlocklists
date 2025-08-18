@@ -9,7 +9,6 @@
     },
     {
         "github_url": "https://github.com/romainmarcoux/malicious-ip/tree/main/sources",
-        "raw_url_prefix": "https://raw.githubusercontent.com/romainmarcoux/malicious-ip/main/sources",
         "merge_prefix": "romainmarcoux"
     }
 ]
