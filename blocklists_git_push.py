@@ -1,16 +1,45 @@
+#!/usr/bin/env python3
 """Git push script for automated blocklist updates in CI environment."""
 
 import logging
+import subprocess
 import sys
 from pathlib import Path
-
-from git import Repo, Actor
 
 # Setup logger
 logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
+
+
+def run_git_command(cmd: list, description: str) -> None:
+    """Run a git command with proper error handling."""
+    try:
+        logging.info(f"{description}...")
+        result = subprocess.run(
+            cmd, 
+            capture_output=True, 
+            text=True, 
+            check=True,
+            timeout=300  # 5 minutes timeout
+        )
+        
+        if result.stdout.strip():
+            logging.info(f"Output: {result.stdout.strip()}")
+        
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Command failed: {' '.join(cmd)}")
+        logging.error(f"Exit code: {e.returncode}")
+        if e.stdout:
+            logging.error(f"Stdout: {e.stdout}")
+        if e.stderr:
+            logging.error(f"Stderr: {e.stderr}")
+        raise
+    except subprocess.TimeoutExpired:
+        logging.error(f"Command timed out: {' '.join(cmd)}")
+        raise
+
 
 def add_gitignore_entries() -> None:
     """Add necessary entries to .gitignore."""
@@ -21,6 +50,7 @@ def add_gitignore_entries() -> None:
         with gitignore_path.open("a", encoding="utf-8") as f:
             for entry in gitignore_entries:
                 f.write(f"{entry}\n")
+        logging.info("Updated .gitignore")
     except OSError as e:
         logging.warning(f"Could not update .gitignore: {e}")
 
@@ -52,39 +82,69 @@ def main() -> None:
         # Add gitignore entries
         add_gitignore_entries()
         
-        # Initialize repo
-        repo = Repo(".")
-        
-        logging.info("Adding files to staging area...")
+        # Configure git user (required for CI)
+        run_git_command(
+            ["git", "config", "user.email", commit_email],
+            "Setting git user email"
+        )
+        run_git_command(
+            ["git", "config", "user.name", commit_author],
+            "Setting git user name"
+        )
         
         # Add existing files/directories
         paths_added = []
         for path in paths_to_add:
             if Path(path).exists():
-                repo.index.add([path])
+                run_git_command(
+                    ["git", "add", path],
+                    f"Adding {path}"
+                )
                 paths_added.append(path)
-                logging.info(f"Added {path}")
             else:
                 logging.debug(f"Path does not exist, skipping: {path}")
         
         # Check if there are changes to commit
-        staged_changes = list(repo.index.diff("HEAD"))
-        if not staged_changes:
-            logging.info("No changes to commit")
+        try:
+            result = subprocess.run(
+                ["git", "diff", "--cached", "--name-only"], 
+                capture_output=True, 
+                text=True, 
+                check=True
+            )
+            
+            if not result.stdout.strip():
+                logging.info("No changes to commit")
+                return
+                
+            changed_files = result.stdout.strip().split('\n')
+            logging.info(f"Found {len(changed_files)} changed files")
+            for file in changed_files[:10]:  # Show first 10
+                logging.info(f"  - {file}")
+                
+        except subprocess.CalledProcessError as e:
+            logging.error(f"Failed to check git status: {e}")
             return
         
-        logging.info(f"Found {len(staged_changes)} staged changes")
-        
         # Create commit
-        logging.info("Creating commit...")
-        actor = Actor(commit_author, commit_email)
-        repo.index.commit(commit_message, author=actor, committer=actor)
+        run_git_command(
+            ["git", "commit", "-m", commit_message],
+            "Creating commit"
+        )
+        
+        # Set remote URL
+        run_git_command(
+            ["git", "remote", "set-url", "origin", repo_url],
+            "Setting remote URL"
+        )
         
         # Push to remote
-        logging.info("Pushing to remote...")
-        origin = repo.remote("origin")
-        origin.set_url(repo_url)
-        origin.push(f"HEAD:{branch_name}")
+        run_git_command(
+            ["git", "push", "origin", f"HEAD:{branch_name}"],
+            "Pushing to remote"
+        )
+        
+        logging.info("Push completed successfully")
         
     except Exception as e:
         logging.error(f"Git operation failed: {e}")
