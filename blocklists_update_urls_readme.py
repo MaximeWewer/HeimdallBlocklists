@@ -1,4 +1,5 @@
 """Update README.md with blocklist URLs from the generated files."""
+
 import logging
 import re
 from pathlib import Path
