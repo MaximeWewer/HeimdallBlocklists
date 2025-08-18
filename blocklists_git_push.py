@@ -1,7 +1,6 @@
 """Git push script for automated blocklist updates in CI environment."""
 
 import logging
-import os
 import sys
 from pathlib import Path
 
@@ -12,18 +11,6 @@ logging.basicConfig(
     level=logging.INFO,
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
-
-def configure_git_for_large_files(repo: Repo) -> None:
-    """Configure Git settings for handling large files and CI environment."""
-    with repo.config_writer() as config:
-        # Increase buffer sizes for large files
-        config.set_value("http", "postBuffer", "524288000")  # 500MB
-        config.set_value("http", "maxRequestBuffer", "100M")
-        config.set_value("core", "compression", "0")  # Disable compression
-        config.set_value("pack", "windowMemory", "100M")
-        config.set_value("pack", "packSizeLimit", "100M")
-        config.set_value("pack", "threads", "1")  # Single thread for CI stability
-        
 
 def add_gitignore_entries() -> None:
     """Add necessary entries to .gitignore."""
@@ -36,76 +23,6 @@ def add_gitignore_entries() -> None:
                 f.write(f"{entry}\n")
     except OSError as e:
         logging.warning(f"Could not update .gitignore: {e}")
-
-
-def analyze_file_sizes(paths_to_add: list) -> None:
-    """Analyze and log file sizes before git operations."""
-    logging.info("Analyzing file sizes before git operations...")
-    
-    total_size = 0
-    large_files = []
-    
-    for path_str in paths_to_add:
-        path = Path(path_str)
-        
-        if not path.exists():
-            logging.warning(f"Path does not exist: {path}")
-            continue
-            
-        if path.is_file():
-            size = path.stat().st_size
-            size_mb = size / (1024 * 1024)
-            total_size += size
-            
-            logging.info(f"File: {path} - Size: {size_mb:.2f} MB")
-            
-            # Flag files larger than 50MB
-            if size_mb > 50:
-                large_files.append((path, size_mb))
-                
-        elif path.is_dir():
-            dir_size = 0
-            file_count = 0
-            
-            for file_path in path.rglob("*"):
-                if file_path.is_file():
-                    file_size = file_path.stat().st_size
-                    dir_size += file_size
-                    file_count += 1
-                    
-                    # Log individual large files in directories
-                    file_size_mb = file_size / (1024 * 1024)
-                    if file_size_mb > 50:
-                        large_files.append((file_path, file_size_mb))
-                        logging.warning(f"Large file detected: {file_path} - Size: {file_size_mb:.2f} MB")
-            
-            dir_size_mb = dir_size / (1024 * 1024)
-            total_size += dir_size
-            
-            logging.info(f"Directory: {path} - Files: {file_count} - Total Size: {dir_size_mb:.2f} MB")
-    
-    total_size_mb = total_size / (1024 * 1024)
-    logging.info(f"Total size to push: {total_size_mb:.2f} MB")
-    
-    # Warn about large files
-    if large_files:
-        logging.warning(f"Found {len(large_files)} files larger than 50MB:")
-        for file_path, size_mb in large_files:
-            logging.warning(f"  - {file_path}: {size_mb:.2f} MB")
-        
-        # GitHub has a 100MB limit per file
-        huge_files = [(f, s) for f, s in large_files if s > 100]
-        if huge_files:
-            logging.error("Files larger than 100MB detected (GitHub limit):")
-            for file_path, size_mb in huge_files:
-                logging.error(f"  - {file_path}: {size_mb:.2f} MB")
-            logging.error("These files may cause push failures!")
-    
-    # Warn about total size
-    if total_size_mb > 1000:  # 1GB
-        logging.warning(f"Total push size is large: {total_size_mb:.2f} MB - this may take time or fail")
-    elif total_size_mb > 500:  # 500MB
-        logging.info(f"Moderate push size: {total_size_mb:.2f} MB - monitoring recommended")
 
 
 def main() -> None:
@@ -121,7 +38,7 @@ def main() -> None:
     repo_url = f"https://MaximeWewer{access_token}@github.com/MaximeWewer/HeimdallBlocklists.git"
     branch_name = "main"
     
-    # Paths to add
+    # Paths to add (only existing ones will be added)
     paths_to_add = [
         "./blocklists",
         "./blocklists_split", 
@@ -132,28 +49,23 @@ def main() -> None:
     try:
         logging.info("Starting git push process")
         
-        # Analyze file sizes before git operations
-        analyze_file_sizes(paths_to_add)
-        
         # Add gitignore entries
         add_gitignore_entries()
         
         # Initialize repo
-        repo = Repo(os.getcwd())
+        repo = Repo(".")
         
-        # Configure git for large files
-        configure_git_for_large_files(repo)
+        logging.info("Adding files to staging area...")
         
-        # Add files individually to handle large files better
+        # Add existing files/directories
+        paths_added = []
         for path in paths_to_add:
             if Path(path).exists():
-                try:
-                    repo.index.add([path])
-                    logging.info(f"Added {path}")
-                except Exception as e:
-                    logging.warning(f"Could not add {path}: {e}")
+                repo.index.add([path])
+                paths_added.append(path)
+                logging.info(f"Added {path}")
             else:
-                logging.warning(f"Path does not exist: {path}")
+                logging.debug(f"Path does not exist, skipping: {path}")
         
         # Check if there are changes to commit
         staged_changes = list(repo.index.diff("HEAD"))
@@ -162,74 +74,18 @@ def main() -> None:
             return
         
         logging.info(f"Found {len(staged_changes)} staged changes")
-        for change in staged_changes[:10]:  # Log first 10 changes
-            logging.info(f"  - {change.change_type}: {change.a_path}")
         
+        # Create commit
         logging.info("Creating commit...")
-        # Create actor for commit
         actor = Actor(commit_author, commit_email)
+        repo.index.commit(commit_message, author=actor, committer=actor)
         
-        # Commit the changes
-        commit = repo.index.commit(commit_message, author=actor, committer=actor)
-        logging.info(f"Created commit: {commit.hexsha[:8]}")
-        
-        # Get commit size info
-        commit_size = len(commit.diff(commit.parents[0] if commit.parents else None))
-        logging.info(f"Commit contains {commit_size} file changes")
-        
+        # Push to remote
         logging.info("Pushing to remote...")
         origin = repo.remote("origin")
         origin.set_url(repo_url)
+        origin.push(f"HEAD:{branch_name}")
         
-        # Try different push strategies
-        push_successful = False
-        
-        # Strategy 1: Simple push
-        try:
-            logging.info("Attempting simple push...")
-            origin.push(f"HEAD:{branch_name}")
-            push_successful = True
-            logging.info("Simple push successful")
-            
-        except Exception as e:
-            logging.warning(f"Simple push failed: {e}")
-            
-            # Strategy 2: Push with force-with-lease
-            try:
-                logging.info("Attempting push with --force-with-lease...")
-                repo.git.push("--force-with-lease", "origin", f"HEAD:{branch_name}")
-                push_successful = True
-                logging.info("Force-with-lease push successful")
-                
-            except Exception as e2:
-                logging.warning(f"Force-with-lease push failed: {e2}")
-                
-                # Strategy 3: Push with increased buffer
-                try:
-                    logging.info("Attempting push with increased buffer...")
-                    repo.git.push(
-                        "origin", 
-                        f"HEAD:{branch_name}",
-                        env={
-                            "GIT_HTTP_POST_BUFFER": "524288000",
-                            "GIT_HTTP_LOW_SPEED_LIMIT": "1000",
-                            "GIT_HTTP_LOW_SPEED_TIME": "300"
-                        }
-                    )
-                    push_successful = True
-                    logging.info("Buffer push successful")
-                    
-                except Exception as e3:
-                    logging.error(f"All push strategies failed. Last error: {e3}")
-                    logging.error(f"Original error: {e}")
-                    logging.error("Consider checking network connectivity or repository permissions")
-        
-        if not push_successful:
-            logging.error("All push attempts failed")
-            sys.exit(1)
-        else:
-            logging.info("Push completed successfully")
-                
     except Exception as e:
         logging.error(f"Git operation failed: {e}")
         sys.exit(1)
