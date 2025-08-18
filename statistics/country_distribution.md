@@ -96,8 +96,8 @@
 | Qatar | 236 | 0.03% |
 | Palestine | 235 | 0.03% |
 | Uganda | 232 | 0.03% |
-| Gambia | 216 | 0.03% |
-| Jordan | 216 | 0.03% |
 | Costa Rica | 216 | 0.03% |
+| Jordan | 216 | 0.03% |
+| Gambia | 216 | 0.03% |
 | Bahrain | 205 | 0.02% |
 | Zambia | 203 | 0.02% |
