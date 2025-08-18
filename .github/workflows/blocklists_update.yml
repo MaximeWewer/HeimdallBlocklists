@@ -31,7 +31,7 @@ jobs:
 
     - name: Install necessary packages
       run: |
-        packages="requests ipaddress geoip2 path"
+        packages="requests ipaddress geoip2 path GitPython"
 
         if [ ! -d ".venv_blocklist" ]; then
           python -m venv .venv_blocklist
