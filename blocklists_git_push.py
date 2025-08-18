@@ -156,21 +156,79 @@ def main() -> None:
                 logging.warning(f"Path does not exist: {path}")
         
         # Check if there are changes to commit
-        if not repo.index.diff("HEAD"):
+        staged_changes = list(repo.index.diff("HEAD"))
+        if not staged_changes:
             logging.info("No changes to commit")
             return
+        
+        logging.info(f"Found {len(staged_changes)} staged changes")
+        for change in staged_changes[:10]:  # Log first 10 changes
+            logging.info(f"  - {change.change_type}: {change.a_path}")
         
         logging.info("Creating commit...")
         # Create actor for commit
         actor = Actor(commit_author, commit_email)
         
         # Commit the changes
-        repo.index.commit(commit_message, author=actor, committer=actor)
+        commit = repo.index.commit(commit_message, author=actor, committer=actor)
+        logging.info(f"Created commit: {commit.hexsha[:8]}")
+        
+        # Get commit size info
+        commit_size = len(commit.diff(commit.parents[0] if commit.parents else None))
+        logging.info(f"Commit contains {commit_size} file changes")
         
         logging.info("Pushing to remote...")
         origin = repo.remote("origin")
         origin.set_url(repo_url)
-        origin.push(f"HEAD:{branch_name}")
+        
+        # Try different push strategies
+        push_successful = False
+        
+        # Strategy 1: Simple push
+        try:
+            logging.info("Attempting simple push...")
+            origin.push(f"HEAD:{branch_name}")
+            push_successful = True
+            logging.info("Simple push successful")
+            
+        except Exception as e:
+            logging.warning(f"Simple push failed: {e}")
+            
+            # Strategy 2: Push with force-with-lease
+            try:
+                logging.info("Attempting push with --force-with-lease...")
+                repo.git.push("--force-with-lease", "origin", f"HEAD:{branch_name}")
+                push_successful = True
+                logging.info("Force-with-lease push successful")
+                
+            except Exception as e2:
+                logging.warning(f"Force-with-lease push failed: {e2}")
+                
+                # Strategy 3: Push with increased buffer
+                try:
+                    logging.info("Attempting push with increased buffer...")
+                    repo.git.push(
+                        "origin", 
+                        f"HEAD:{branch_name}",
+                        env={
+                            "GIT_HTTP_POST_BUFFER": "524288000",
+                            "GIT_HTTP_LOW_SPEED_LIMIT": "1000",
+                            "GIT_HTTP_LOW_SPEED_TIME": "300"
+                        }
+                    )
+                    push_successful = True
+                    logging.info("Buffer push successful")
+                    
+                except Exception as e3:
+                    logging.error(f"All push strategies failed. Last error: {e3}")
+                    logging.error(f"Original error: {e}")
+                    logging.error("Consider checking network connectivity or repository permissions")
+        
+        if not push_successful:
+            logging.error("All push attempts failed")
+            sys.exit(1)
+        else:
+            logging.info("Push completed successfully")
                 
     except Exception as e:
         logging.error(f"Git operation failed: {e}")
