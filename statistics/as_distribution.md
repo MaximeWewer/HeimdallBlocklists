@@ -61,8 +61,8 @@
 | IONOS SE | 1428 | 0.17% |
 | Huawei Cloud Service data center | 1363 | 0.16% |
 | CHEAPY-HOST | 1352 | 0.16% |
-| Mynext Broadband Services Pvt Ltd | 1349 | 0.16% |
 | CABLE-NET-1 | 1349 | 0.16% |
+| Mynext Broadband Services Pvt Ltd | 1349 | 0.16% |
 | Administracion Nacional de Telecomunicaciones | 1326 | 0.16% |
 | SK Broadband Co Ltd | 1279 | 0.15% |
 | Telia Company AB | 1273 | 0.15% |

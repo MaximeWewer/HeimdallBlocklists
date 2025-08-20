@@ -16,7 +16,7 @@
 | Italy | 12661 | 1.49% |
 | Vietnam | 12304 | 1.45% |
 | Taiwan | 11856 | 1.40% |
-| Hong Kong | 11099 | 1.31% |
+| Hong Kong | 11096 | 1.31% |
 | Japan | 10874 | 1.28% |
 | Egypt | 10372 | 1.22% |
 | Venezuela | 9918 | 1.17% |
@@ -25,7 +25,7 @@
 | Türkiye | 7235 | 0.85% |
 | Iran | 6751 | 0.80% |
 | Tanzania | 6421 | 0.76% |
-| Ukraine | 5796 | 0.68% |
+| Ukraine | 5795 | 0.68% |
 | Poland | 5116 | 0.60% |
 | Australia | 4981 | 0.59% |
 | Argentina | 4962 | 0.58% |
