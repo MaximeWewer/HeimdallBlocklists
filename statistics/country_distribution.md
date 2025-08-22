@@ -60,8 +60,8 @@
 | Kenya | 608 | 0.15% |
 | Tunisia | 586 | 0.15% |
 | Cambodia | 559 | 0.14% |
-| Chile | 546 | 0.14% |
 | Moldova | 546 | 0.14% |
+| Chile | 546 | 0.14% |
 | Georgia | 515 | 0.13% |
 | Nigeria | 491 | 0.12% |
 | Lithuania | 479 | 0.12% |

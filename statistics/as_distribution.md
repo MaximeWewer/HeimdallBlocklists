@@ -68,8 +68,8 @@
 | Ethiopian Telecommunication Corporation | 748 | 0.19% |
 | NETWORK-SOLUTIONS-HOSTING | 739 | 0.19% |
 | Internet Utilities Europe and Asia Limited | 731 | 0.18% |
-| TWC-10796-MIDWEST | 725 | 0.18% |
 | TWC-20001-PACWEST | 725 | 0.18% |
+| TWC-10796-MIDWEST | 725 | 0.18% |
 | TWC-11427-TEXAS | 712 | 0.18% |
 | Telia Company AB | 703 | 0.18% |
 | China Unicom Beijing Province Network | 697 | 0.18% |
@@ -96,8 +96,8 @@
 | TWC-11426-CAROLINAS | 539 | 0.14% |
 | Pakistan Telecommunication Company Limited | 534 | 0.13% |
 | Scaleway S.a.s. | 528 | 0.13% |
-| BHARTI Airtel Ltd. | 526 | 0.13% |
 | Tele2 SWIPnet | 526 | 0.13% |
+| BHARTI Airtel Ltd. | 526 | 0.13% |
 | GOOGLE | 515 | 0.13% |
 | Telefonica De Espana S.a.u. | 509 | 0.13% |
 | ASN for TIANJIN Provincial Net of CT | 497 | 0.13% |
