@@ -14,7 +14,7 @@
 | Data Communication Business Group | 5946 | 1.51% |
 | Akamai Connected Cloud | 5162 | 1.31% |
 | Tencent Building, Kejizhongyi Avenue | 4385 | 1.11% |
-| COMCAST-7922 | 4037 | 1.02% |
+| COMCAST-7922 | 4035 | 1.02% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 4020 | 1.02% |
 | AMAZON-AES | 3730 | 0.95% |
 | Rostelecom | 3581 | 0.91% |
@@ -66,12 +66,12 @@
 | JSC ER-Telecom Holding | 768 | 0.19% |
 | Driftnet Ltd | 757 | 0.19% |
 | Ethiopian Telecommunication Corporation | 747 | 0.19% |
-| TWC-20001-PACWEST | 725 | 0.18% |
 | TWC-10796-MIDWEST | 725 | 0.18% |
+| TWC-20001-PACWEST | 725 | 0.18% |
 | TWC-11427-TEXAS | 711 | 0.18% |
 | Internet Utilities Europe and Asia Limited | 708 | 0.18% |
-| China Unicom Beijing Province Network | 694 | 0.18% |
 | Telia Company AB | 694 | 0.18% |
+| China Unicom Beijing Province Network | 694 | 0.18% |
 | Turkcell Iletisim Hizmetleri A.s. | 683 | 0.17% |
 | TELEFONICA BRASIL S.A | 677 | 0.17% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 675 | 0.17% |
