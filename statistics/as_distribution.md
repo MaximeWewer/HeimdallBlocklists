@@ -66,17 +66,17 @@
 | JSC ER-Telecom Holding | 768 | 0.19% |
 | Driftnet Ltd | 757 | 0.19% |
 | Ethiopian Telecommunication Corporation | 747 | 0.19% |
-| TWC-20001-PACWEST | 725 | 0.18% |
 | TWC-10796-MIDWEST | 725 | 0.18% |
+| TWC-20001-PACWEST | 725 | 0.18% |
 | TWC-11427-TEXAS | 711 | 0.18% |
 | Internet Utilities Europe and Asia Limited | 708 | 0.18% |
 | China Unicom Beijing Province Network | 694 | 0.18% |
 | Telia Company AB | 694 | 0.18% |
 | Turkcell Iletisim Hizmetleri A.s. | 683 | 0.17% |
 | TELEFONICA BRASIL S.A | 677 | 0.17% |
-| China Unicom Shanghai network | 675 | 0.17% |
-| TM TECHNOLOGY SERVICES SDN. BHD. | 675 | 0.17% |
 | NETWORK-SOLUTIONS-HOSTING | 675 | 0.17% |
+| TM TECHNOLOGY SERVICES SDN. BHD. | 675 | 0.17% |
+| China Unicom Shanghai network | 675 | 0.17% |
 | Emirates Telecommunications Group Company (etisalat Group) Pjsc | 651 | 0.17% |
 | Deutsche Telekom AG | 646 | 0.16% |
 | Qinghai Telecom | 642 | 0.16% |
