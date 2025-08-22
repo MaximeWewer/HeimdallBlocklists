@@ -72,8 +72,8 @@
 | Armenia | 402 | 0.10% |
 | Denmark | 385 | 0.10% |
 | Cabo Verde | 370 | 0.09% |
-| Algeria | 340 | 0.09% |
 | Kuwait | 340 | 0.09% |
+| Algeria | 340 | 0.09% |
 | Latvia | 339 | 0.09% |
 | Ghana | 303 | 0.08% |
 | Peru | 302 | 0.08% |
@@ -100,4 +100,4 @@
 | Nepal | 149 | 0.04% |
 | Paraguay | 148 | 0.04% |
 | Macao | 140 | 0.04% |
-| Zimbabwe | 139 | 0.04% |
+| Uganda | 139 | 0.04% |
