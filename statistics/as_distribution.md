@@ -1,43 +1,43 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| National Internet Backbone | 98255 | 12.28% |
-| DIGITALOCEAN-ASN | 60118 | 7.51% |
-| CHINA UNICOM China169 Backbone | 54790 | 6.85% |
-| Chinanet | 52668 | 6.58% |
+| National Internet Backbone | 98258 | 12.28% |
+| DIGITALOCEAN-ASN | 60151 | 7.52% |
+| CHINA UNICOM China169 Backbone | 54797 | 6.85% |
+| Chinanet | 52678 | 6.58% |
 | TOT Public Company Limited | 14852 | 1.86% |
 | Alibaba US Technology Co., Ltd. | 14711 | 1.84% |
-| GOOGLE-CLOUD-PLATFORM | 13892 | 1.74% |
+| GOOGLE-CLOUD-PLATFORM | 13897 | 1.74% |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 12730 | 1.59% |
 | Korea Telecom | 10645 | 1.33% |
-| TE Data | 10113 | 1.26% |
+| TE Data | 10114 | 1.26% |
 | AMAZON-02 | 9434 | 1.18% |
 | CANTV Servicios, Venezuela | 8155 | 1.02% |
 | Data Communication Business Group | 7810 | 0.98% |
-| Akamai Connected Cloud | 7589 | 0.95% |
-| Tencent Building, Kejizhongyi Avenue | 6035 | 0.75% |
+| Akamai Connected Cloud | 7591 | 0.95% |
+| Tencent Building, Kejizhongyi Avenue | 6038 | 0.75% |
 | TTCLDATA | 5971 | 0.75% |
 | AMAZON-AES | 5916 | 0.74% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 5582 | 0.70% |
-| Wind Tre S.p.A. | 5273 | 0.66% |
+| Wind Tre S.p.A. | 5277 | 0.66% |
 | Rostelecom | 4856 | 0.61% |
 | COMCAST-7922 | 4506 | 0.56% |
-| OVH SAS | 3709 | 0.46% |
+| OVH SAS | 3711 | 0.46% |
 | HostRoyale Technologies Pvt Ltd | 3688 | 0.46% |
-| Internet Utilities Europe and Asia Limited | 3651 | 0.46% |
+| Internet Utilities Europe and Asia Limited | 3655 | 0.46% |
 | China Mobile Communications Group Co., Ltd. | 3649 | 0.46% |
 | Triple T Broadband Public Company Limited | 3512 | 0.44% |
-| Datacamp Limited | 3337 | 0.42% |
+| Datacamp Limited | 3338 | 0.42% |
 | Shenzhen Tencent Computer Systems Company Limited | 3323 | 0.42% |
 | Turk Telekom | 3259 | 0.41% |
 | JSC ER-Telecom Holding | 3121 | 0.39% |
 | PT Telekomunikasi Indonesia | 2923 | 0.37% |
 | Hetzner Online GmbH | 2871 | 0.36% |
-| Viettel Group | 2863 | 0.36% |
+| Viettel Group | 2864 | 0.36% |
 | MTS PJSC | 2838 | 0.35% |
 | Iran Telecommunication Company PJS | 2772 | 0.35% |
 | China Unicom Guangzhou network | 2756 | 0.34% |
-| Viettel Corporation | 2649 | 0.33% |
+| Viettel Corporation | 2650 | 0.33% |
 | Contabo GmbH | 2602 | 0.33% |
 | VNPT Corp | 2341 | 0.29% |
 | NTT Communications Corporation | 2186 | 0.27% |
@@ -46,11 +46,11 @@
 | LEASEWEB-USA-SEA | 2062 | 0.26% |
 | China Telecom Group | 2060 | 0.26% |
 | National Telecommunication Corporation HQ | 2046 | 0.26% |
-| Cibertec Telecom | 2040 | 0.25% |
 | BRASTURBO TELECOMUNICACOES LTDA ME | 2040 | 0.25% |
+| Cibertec Telecom | 2040 | 0.25% |
 | TIM | 2023 | 0.25% |
 | China Unicom IP network China169 Guangdong province | 1989 | 0.25% |
-| M247 Europe SRL | 1987 | 0.25% |
+| M247 Europe SRL | 1988 | 0.25% |
 | China Mobile communications corporation | 1956 | 0.24% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1654 | 0.21% |
 | AS-COLOCROSSING | 1596 | 0.20% |
@@ -66,16 +66,16 @@
 | Telia Company AB | 1321 | 0.17% |
 | IONOS SE | 1310 | 0.16% |
 | CABLE-NET-1 | 1298 | 0.16% |
-| AS-VULTR | 1287 | 0.16% |
+| AS-VULTR | 1289 | 0.16% |
 | HKT Limited | 1283 | 0.16% |
 | Userlinks Netcom Pvt. Ltd. | 1271 | 0.16% |
-| Omegacom S.R.L.S. | 1220 | 0.15% |
-| RailTel Corporation of India Ltd | 1210 | 0.15% |
+| Omegacom S.R.L.S. | 1221 | 0.15% |
+| RailTel Corporation of India Ltd | 1211 | 0.15% |
 | Huawei Cloud Service data center | 1206 | 0.15% |
 | SK Broadband Co Ltd | 1193 | 0.15% |
-| Deutsche Telekom AG | 1176 | 0.15% |
+| Deutsche Telekom AG | 1177 | 0.15% |
 | UNIFIEDLAYER-AS-1 | 1167 | 0.15% |
-| NETWORK-SOLUTIONS-HOSTING | 1165 | 0.15% |
+| NETWORK-SOLUTIONS-HOSTING | 1166 | 0.15% |
 | CAT TELECOM Public Company Ltd,CAT | 1115 | 0.14% |
 | PIX BRASIL NETWORKS LTDA | 1092 | 0.14% |
 | Administracion Nacional de Telecomunicaciones | 1087 | 0.14% |
@@ -84,16 +84,16 @@
 | HURRICANE | 1029 | 0.13% |
 | Absolute-Hosting-PTY-LTD-AS | 1026 | 0.13% |
 | British Telecommunications PLC | 1026 | 0.13% |
-| SOS Internet | 1020 | 0.13% |
-| NBS TELECOM | 1020 | 0.13% |
-| Ghost Telecom | 1020 | 0.13% |
-| NETVIP MT | 1020 | 0.13% |
-| Livenet telecom | 1020 | 0.13% |
-| Thiago aparecido scaramuzza santana | 1020 | 0.13% |
-| Microchip.Net Fibra Optica | 1020 | 0.13% |
-| HEXA TELECOM LTDA | 1020 | 0.13% |
 | InterOuro Telecom | 1020 | 0.13% |
+| Livenet telecom | 1020 | 0.13% |
 | UP Down Telecom Ltda | 1020 | 0.13% |
+| HEXA TELECOM LTDA | 1020 | 0.13% |
+| NETVIP MT | 1020 | 0.13% |
+| Microchip.Net Fibra Optica | 1020 | 0.13% |
+| Ghost Telecom | 1020 | 0.13% |
+| SOS Internet | 1020 | 0.13% |
+| Thiago aparecido scaramuzza santana | 1020 | 0.13% |
+| NBS TELECOM | 1020 | 0.13% |
 | RADAR WISP LTDA | 1019 | 0.13% |
 | MG NET TELECOMUNICACOES LTDA ME | 1018 | 0.13% |
 | NETCOM TELECOMUNICACOES LTDA | 1017 | 0.13% |
