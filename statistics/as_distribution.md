@@ -76,22 +76,22 @@
 | Huawei Cloud Service data center | 1157 | 0.15% |
 | Deutsche Telekom AG | 1157 | 0.15% |
 | CAT TELECOM Public Company Ltd,CAT | 1073 | 0.14% |
-| British Telecommunications PLC | 1036 | 0.13% |
 | UUNET | 1036 | 0.13% |
+| British Telecommunications PLC | 1036 | 0.13% |
 | HURRICANE | 1028 | 0.13% |
 | Absolute-Hosting-PTY-LTD-AS | 1026 | 0.13% |
-| VIRTUAL NET COMERCIO E SERVICOS LTDA | 1020 | 0.13% |
-| HEXA TELECOM LTDA | 1020 | 0.13% |
-| NETVIP MT | 1020 | 0.13% |
-| MG NET TELECOMUNICACOES LTDA ME | 1020 | 0.13% |
 | Thiago aparecido scaramuzza santana | 1020 | 0.13% |
-| NBS TELECOM | 1020 | 0.13% |
-| UP Down Telecom Ltda | 1020 | 0.13% |
+| NETVIP MT | 1020 | 0.13% |
 | ROX TELECOM LTDA - ME | 1020 | 0.13% |
-| PARAOPEBANET PROVEDOR LTDA | 1020 | 0.13% |
+| VIRTUAL NET COMERCIO E SERVICOS LTDA | 1020 | 0.13% |
 | FUSION TELECOM | 1020 | 0.13% |
 | WANDA BENTO DE MORAIS SILVA - ME | 1020 | 0.13% |
 | Livenet telecom | 1020 | 0.13% |
+| UP Down Telecom Ltda | 1020 | 0.13% |
+| PARAOPEBANET PROVEDOR LTDA | 1020 | 0.13% |
+| HEXA TELECOM LTDA | 1020 | 0.13% |
+| NBS TELECOM | 1020 | 0.13% |
+| MG NET TELECOMUNICACOES LTDA ME | 1020 | 0.13% |
 | PJM NET | 1009 | 0.13% |
 | InterOuro Telecom | 999 | 0.13% |
 | Telstra Limited | 999 | 0.13% |
