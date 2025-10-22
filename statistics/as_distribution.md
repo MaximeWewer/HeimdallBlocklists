@@ -1,69 +1,69 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DIGITALOCEAN-ASN | 60587 | 8.47% |
-| National Internet Backbone | 59996 | 8.39% |
-| CHINA UNICOM China169 Backbone | 48439 | 6.78% |
-| Chinanet | 46450 | 6.50% |
+| DIGITALOCEAN-ASN | 60675 | 8.48% |
+| National Internet Backbone | 59997 | 8.39% |
+| CHINA UNICOM China169 Backbone | 48458 | 6.78% |
+| Chinanet | 46459 | 6.50% |
 | TOT Public Company Limited | 14842 | 2.08% |
-| Alibaba US Technology Co., Ltd. | 12936 | 1.81% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 12503 | 1.75% |
-| GOOGLE-CLOUD-PLATFORM | 12392 | 1.73% |
-| TE Data | 9893 | 1.38% |
+| Alibaba US Technology Co., Ltd. | 12938 | 1.81% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 12507 | 1.75% |
+| GOOGLE-CLOUD-PLATFORM | 12397 | 1.73% |
+| TE Data | 9894 | 1.38% |
 | Korea Telecom | 9835 | 1.38% |
-| AMAZON-02 | 8942 | 1.25% |
+| AMAZON-02 | 8943 | 1.25% |
 | Data Communication Business Group | 7799 | 1.09% |
 | Akamai Connected Cloud | 7403 | 1.04% |
 | AMAZON-AES | 6427 | 0.90% |
 | CANTV Servicios, Venezuela | 6087 | 0.85% |
-| Tencent Building, Kejizhongyi Avenue | 5561 | 0.78% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 5438 | 0.76% |
-| Rostelecom | 4696 | 0.66% |
-| Wind Tre S.p.A. | 4411 | 0.62% |
-| COMCAST-7922 | 4366 | 0.61% |
+| Tencent Building, Kejizhongyi Avenue | 5562 | 0.78% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 5439 | 0.76% |
+| Rostelecom | 4697 | 0.66% |
+| Wind Tre S.p.A. | 4415 | 0.62% |
+| COMCAST-7922 | 4367 | 0.61% |
 | Internet Utilities Europe and Asia Limited | 3932 | 0.55% |
 | TTCLDATA | 3827 | 0.54% |
-| OVH SAS | 3623 | 0.51% |
-| China Mobile Communications Group Co., Ltd. | 3501 | 0.49% |
+| OVH SAS | 3628 | 0.51% |
+| China Mobile Communications Group Co., Ltd. | 3503 | 0.49% |
 | Shenzhen Tencent Computer Systems Company Limited | 3336 | 0.47% |
-| Datacamp Limited | 3302 | 0.46% |
+| Datacamp Limited | 3306 | 0.46% |
 | JSC ER-Telecom Holding | 3093 | 0.43% |
 | i10 Telecom ISP | 3060 | 0.43% |
 | Turk Telekom | 2928 | 0.41% |
-| PT Telekomunikasi Indonesia | 2857 | 0.40% |
-| VNPT Corp | 2835 | 0.40% |
-| Viettel Group | 2793 | 0.39% |
+| PT Telekomunikasi Indonesia | 2859 | 0.40% |
+| VNPT Corp | 2836 | 0.40% |
+| Viettel Group | 2794 | 0.39% |
 | MTS PJSC | 2732 | 0.38% |
 | Iran Telecommunication Company PJS | 2678 | 0.37% |
-| Contabo GmbH | 2645 | 0.37% |
-| Hetzner Online GmbH | 2641 | 0.37% |
+| Contabo GmbH | 2646 | 0.37% |
+| Hetzner Online GmbH | 2645 | 0.37% |
 | Triple T Broadband Public Company Limited | 2430 | 0.34% |
 | China Unicom Guangzhou network | 2378 | 0.33% |
 | Clouvider Limited | 2372 | 0.33% |
-| Viettel Corporation | 2236 | 0.31% |
+| Viettel Corporation | 2238 | 0.31% |
 | PARAOPEBANET PROVEDOR LTDA | 2123 | 0.30% |
 | LEASEWEB-USA-SEA | 2062 | 0.29% |
-| A & G Servicos em TI | 2041 | 0.29% |
 | Netpeu Tecnologia e Internet Ltda | 2041 | 0.29% |
-| China Telecom Group | 2025 | 0.28% |
+| A & G Servicos em TI | 2041 | 0.29% |
+| China Telecom Group | 2027 | 0.28% |
 | National Telecommunication Corporation HQ | 2005 | 0.28% |
 | TIM | 1984 | 0.28% |
-| UNINET | 1982 | 0.28% |
+| UNINET | 1983 | 0.28% |
 | BRASTURBO TELECOMUNICACOES LTDA ME | 1907 | 0.27% |
 | NTT Communications Corporation | 1896 | 0.27% |
-| China Mobile communications corporation | 1888 | 0.26% |
+| China Mobile communications corporation | 1889 | 0.26% |
 | M247 Europe SRL | 1860 | 0.26% |
 | AS-COLOCROSSING | 1824 | 0.26% |
 | China Unicom IP network China169 Guangdong province | 1729 | 0.24% |
-| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1634 | 0.23% |
+| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1635 | 0.23% |
 | CHARTER-20115 | 1520 | 0.21% |
 | Alpha Strike Labs GmbH | 1504 | 0.21% |
 | China Unicom Shanghai network | 1442 | 0.20% |
 | TELEFONICA BRASIL S.A | 1389 | 0.19% |
-| COGENT-174 | 1384 | 0.19% |
-| CHEAPY-HOST | 1323 | 0.19% |
+| COGENT-174 | 1386 | 0.19% |
+| CHEAPY-HOST | 1323 | 0.18% |
 | ATT-INTERNET4 | 1311 | 0.18% |
-| FPT Telecom Company | 1298 | 0.18% |
+| FPT Telecom Company | 1299 | 0.18% |
 | IONOS SE | 1273 | 0.18% |
 | CABLE-NET-1 | 1254 | 0.18% |
 | Userlinks Netcom Pvt. Ltd. | 1246 | 0.17% |
@@ -75,17 +75,17 @@
 | SK Broadband Co Ltd | 1073 | 0.15% |
 | British Telecommunications PLC | 1046 | 0.15% |
 | UUNET | 1042 | 0.15% |
-| Deutsche Telekom AG | 1030 | 0.14% |
+| Deutsche Telekom AG | 1031 | 0.14% |
 | HURRICANE | 1022 | 0.14% |
 | UP Down Telecom Ltda | 1021 | 0.14% |
 | WANDA BENTO DE MORAIS SILVA - ME | 1020 | 0.14% |
-| NETPONTAL PROVEDOR DE INTERNET LTDA - ME | 1020 | 0.14% |
+| Netshow Telecomumicacoes | 1020 | 0.14% |
 | Louvetel Comunicacao Comercial SCM Ltda | 1020 | 0.14% |
 | F L L de Sousa ME | 1020 | 0.14% |
 | NETVIP MT | 1020 | 0.14% |
-| Netshow Telecomumicacoes | 1020 | 0.14% |
-| FARIA & SCHIMITH LTDA - ME | 1019 | 0.14% |
+| NETPONTAL PROVEDOR DE INTERNET LTDA - ME | 1020 | 0.14% |
 | DGNETSP EIRELI | 1019 | 0.14% |
+| FARIA & SCHIMITH LTDA - ME | 1019 | 0.14% |
 | CAT TELECOM Public Company Ltd,CAT | 1019 | 0.14% |
 | TN FIBRA | 1016 | 0.14% |
 | Vianet Telecomunicacoes Ltda | 1016 | 0.14% |
@@ -99,5 +99,5 @@
 | CENSYS-ARIN-01 | 947 | 0.13% |
 | Claro NXT Telecomunicacoes Ltda | 937 | 0.13% |
 | iForce Networks | 928 | 0.13% |
-| China Unicom Beijing Province Network | 895 | 0.13% |
+| China Unicom Beijing Province Network | 896 | 0.13% |
 | UNIFIEDLAYER-AS-1 | 890 | 0.12% |
