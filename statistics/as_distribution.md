@@ -1,18 +1,18 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DIGITALOCEAN-ASN | 60486 | 8.53% |
+| DIGITALOCEAN-ASN | 60528 | 8.53% |
 | National Internet Backbone | 57698 | 8.13% |
-| CHINA UNICOM China169 Backbone | 48174 | 6.79% |
-| Chinanet | 46585 | 6.57% |
+| CHINA UNICOM China169 Backbone | 48180 | 6.79% |
+| Chinanet | 46595 | 6.57% |
 | TOT Public Company Limited | 14797 | 2.09% |
-| Alibaba US Technology Co., Ltd. | 12846 | 1.81% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 12720 | 1.79% |
-| GOOGLE-CLOUD-PLATFORM | 12152 | 1.71% |
+| Alibaba US Technology Co., Ltd. | 12848 | 1.81% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 12721 | 1.79% |
+| GOOGLE-CLOUD-PLATFORM | 12153 | 1.71% |
 | TE Data | 9874 | 1.39% |
 | Korea Telecom | 9788 | 1.38% |
-| AMAZON-02 | 8879 | 1.25% |
-| Data Communication Business Group | 7826 | 1.10% |
+| AMAZON-02 | 8884 | 1.25% |
+| Data Communication Business Group | 7827 | 1.10% |
 | Akamai Connected Cloud | 7553 | 1.06% |
 | AMAZON-AES | 6397 | 0.90% |
 | CANTV Servicios, Venezuela | 5981 | 0.84% |
@@ -26,21 +26,21 @@
 | OVH SAS | 3645 | 0.51% |
 | China Mobile Communications Group Co., Ltd. | 3494 | 0.49% |
 | Shenzhen Tencent Computer Systems Company Limited | 3345 | 0.47% |
-| Datacamp Limited | 3291 | 0.46% |
+| Datacamp Limited | 3292 | 0.46% |
 | JSC ER-Telecom Holding | 3084 | 0.43% |
 | i10 Telecom ISP | 3060 | 0.43% |
-| Turk Telekom | 2910 | 0.41% |
+| Turk Telekom | 2911 | 0.41% |
 | VNPT Corp | 2866 | 0.40% |
 | PT Telekomunikasi Indonesia | 2839 | 0.40% |
-| Viettel Group | 2793 | 0.39% |
+| Viettel Group | 2796 | 0.39% |
 | MTS PJSC | 2743 | 0.39% |
 | Iran Telecommunication Company PJS | 2693 | 0.38% |
-| Contabo GmbH | 2665 | 0.38% |
+| Contabo GmbH | 2666 | 0.38% |
 | Hetzner Online GmbH | 2636 | 0.37% |
 | Clouvider Limited | 2440 | 0.34% |
 | China Unicom Guangzhou network | 2351 | 0.33% |
 | Triple T Broadband Public Company Limited | 2342 | 0.33% |
-| Viettel Corporation | 2232 | 0.31% |
+| Viettel Corporation | 2234 | 0.31% |
 | LEASEWEB-USA-SEA | 2062 | 0.29% |
 | Netpeu Tecnologia e Internet Ltda | 2041 | 0.29% |
 | YZO TELECOM TECNOLOGIA EIRELI - ME | 2038 | 0.29% |
@@ -48,7 +48,7 @@
 | National Telecommunication Corporation HQ | 2004 | 0.28% |
 | TIM | 1987 | 0.28% |
 | Livenet telecom | 1980 | 0.28% |
-| UNINET | 1977 | 0.28% |
+| UNINET | 1978 | 0.28% |
 | BRASTURBO TELECOMUNICACOES LTDA ME | 1907 | 0.27% |
 | NTT Communications Corporation | 1902 | 0.27% |
 | China Mobile communications corporation | 1896 | 0.27% |
@@ -70,22 +70,22 @@
 | Userlinks Netcom Pvt. Ltd. | 1242 | 0.18% |
 | ORACLE-BMC-31898 | 1226 | 0.17% |
 | Telia Company AB | 1183 | 0.17% |
-| RailTel Corporation of India Ltd | 1152 | 0.16% |
+| RailTel Corporation of India Ltd | 1153 | 0.16% |
 | NETWORK-SOLUTIONS-HOSTING | 1118 | 0.16% |
 | HKT Limited | 1107 | 0.16% |
 | SK Broadband Co Ltd | 1069 | 0.15% |
 | UUNET | 1042 | 0.15% |
 | British Telecommunications PLC | 1038 | 0.15% |
-| Deutsche Telekom AG | 1029 | 0.15% |
+| Deutsche Telekom AG | 1030 | 0.15% |
 | CAT TELECOM Public Company Ltd,CAT | 1027 | 0.14% |
 | HURRICANE | 1021 | 0.14% |
-| Netshow Telecomumicacoes | 1020 | 0.14% |
-| NETVIP MT | 1020 | 0.14% |
 | F L L de Sousa ME | 1020 | 0.14% |
-| NETPONTAL PROVEDOR DE INTERNET LTDA - ME | 1020 | 0.14% |
+| NETVIP MT | 1020 | 0.14% |
+| Netshow Telecomumicacoes | 1020 | 0.14% |
 | Louvetel Comunicacao Comercial SCM Ltda | 1020 | 0.14% |
-| DGNETSP EIRELI | 1019 | 0.14% |
+| NETPONTAL PROVEDOR DE INTERNET LTDA - ME | 1020 | 0.14% |
 | FARIA & SCHIMITH LTDA - ME | 1019 | 0.14% |
+| DGNETSP EIRELI | 1019 | 0.14% |
 | Vianet Telecomunicacoes Ltda | 1016 | 0.14% |
 | ASN-CXA-ALL-CCI-22773-RDC | 988 | 0.14% |
 | Telecom Argentina S.A. | 977 | 0.14% |
@@ -98,6 +98,6 @@
 | Claro NXT Telecomunicacoes Ltda | 912 | 0.13% |
 | Mobile Telecommunications Company | 908 | 0.13% |
 | UNIFIEDLAYER-AS-1 | 890 | 0.13% |
-| Cyber Internet Services Pvt Ltd. | 888 | 0.13% |
+| Cyber Internet Services Pvt Ltd. | 889 | 0.13% |
 | China Unicom Beijing Province Network | 883 | 0.12% |
 | AS-VULTR | 877 | 0.12% |
