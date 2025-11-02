@@ -79,10 +79,10 @@
 | CAT TELECOM Public Company Ltd,CAT | 1038 | 0.15% |
 | GOOGLE | 1030 | 0.15% |
 | i10 Telecom ISP | 1024 | 0.15% |
-| NETVIP MT | 1020 | 0.15% |
-| NETPONTAL PROVEDOR DE INTERNET LTDA - ME | 1020 | 0.15% |
-| HURRICANE | 1020 | 0.15% |
 | Louvetel Comunicacao Comercial SCM Ltda | 1020 | 0.15% |
+| NETPONTAL PROVEDOR DE INTERNET LTDA - ME | 1020 | 0.15% |
+| NETVIP MT | 1020 | 0.15% |
+| HURRICANE | 1020 | 0.15% |
 | Netshow Telecomumicacoes | 1008 | 0.15% |
 | A & G Servicos em TI | 1004 | 0.15% |
 | Telecom Argentina S.A. | 971 | 0.14% |

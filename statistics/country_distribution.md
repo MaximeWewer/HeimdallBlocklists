@@ -84,8 +84,8 @@
 | Slovakia | 440 | 0.06% |
 | Albania | 382 | 0.06% |
 | Belarus | 361 | 0.05% |
-| Costa Rica | 296 | 0.04% |
 | Croatia | 296 | 0.04% |
+| Costa Rica | 296 | 0.04% |
 | Estonia | 274 | 0.04% |
 | Nepal | 273 | 0.04% |
 | Mauritius | 270 | 0.04% |
