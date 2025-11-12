@@ -96,8 +96,8 @@
 | Joacaba Telecomunicacoes Ltda ME | 846 | 0.13% |
 | MEVSPACE sp. z o.o. | 844 | 0.13% |
 | Triple T Broadband Public Company Limited | 826 | 0.13% |
-| BHARTI Airtel Ltd. | 825 | 0.13% |
 | ROUTERHOSTING | 825 | 0.13% |
+| BHARTI Airtel Ltd. | 825 | 0.13% |
 | Taiwan Mobile Co., Ltd. | 815 | 0.13% |
 | Beijing Volcano Engine Technology Co., Ltd. | 811 | 0.13% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 803 | 0.13% |

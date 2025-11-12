@@ -88,8 +88,8 @@
 | Costa Rica | 293 | 0.05% |
 | Croatia | 289 | 0.05% |
 | New Zealand | 288 | 0.05% |
-| Panama | 272 | 0.04% |
 | Mauritius | 272 | 0.04% |
+| Panama | 272 | 0.04% |
 | Mongolia | 258 | 0.04% |
 | Paraguay | 251 | 0.04% |
 | Estonia | 250 | 0.04% |
