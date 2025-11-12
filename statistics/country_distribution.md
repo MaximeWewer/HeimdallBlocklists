@@ -48,8 +48,8 @@
 | Portugal | 1355 | 0.21% |
 | Switzerland | 1231 | 0.20% |
 | Kuwait | 1211 | 0.19% |
-| Morocco | 1198 | 0.19% |
 | Czechia | 1198 | 0.19% |
+| Morocco | 1198 | 0.19% |
 | Belgium | 1156 | 0.18% |
 | Bolivia | 1150 | 0.18% |
 | Hungary | 1113 | 0.18% |
@@ -99,5 +99,5 @@
 | Nepal | 234 | 0.04% |
 | Jordan | 233 | 0.04% |
 | Luxembourg | 223 | 0.04% |
-| Kosovo | 222 | 0.04% |
 | Qatar | 222 | 0.04% |
+| Kosovo | 222 | 0.04% |
