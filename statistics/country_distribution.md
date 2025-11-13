@@ -92,8 +92,8 @@
 | Mauritius | 280 | 0.04% |
 | Panama | 275 | 0.04% |
 | Mongolia | 258 | 0.04% |
-| Estonia | 251 | 0.04% |
 | Paraguay | 251 | 0.04% |
+| Estonia | 251 | 0.04% |
 | Uganda | 240 | 0.04% |
 | Zambia | 239 | 0.04% |
 | North Macedonia | 238 | 0.04% |
