@@ -98,6 +98,6 @@
 | North Macedonia | 238 | 0.04% |
 | Nepal | 234 | 0.04% |
 | Jordan | 233 | 0.04% |
-| Kosovo | 223 | 0.04% |
 | Luxembourg | 223 | 0.04% |
+| Kosovo | 223 | 0.04% |
 | Qatar | 222 | 0.04% |
