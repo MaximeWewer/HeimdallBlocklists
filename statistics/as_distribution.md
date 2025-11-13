@@ -6,7 +6,7 @@
 | CHINA UNICOM China169 Backbone | 41879 | 6.67% |
 | MICROSOFT-CORP-MSN-AS-BLOCK | 12788 | 2.04% |
 | TOT Public Company Limited | 12141 | 1.93% |
-| Alibaba US Technology Co., Ltd. | 11967 | 1.91% |
+| Alibaba US Technology Co., Ltd. | 11967 | 1.90% |
 | National Internet Backbone | 11963 | 1.90% |
 | GOOGLE-CLOUD-PLATFORM | 11638 | 1.85% |
 | TE Data | 9693 | 1.54% |
@@ -43,8 +43,8 @@
 | China Unicom Guangzhou network | 1957 | 0.31% |
 | National Telecommunication Corporation HQ | 1914 | 0.30% |
 | Viettel Corporation | 1865 | 0.30% |
-| M247 Europe SRL | 1860 | 0.30% |
-| AS-COLOCROSSING | 1826 | 0.29% |
+| M247 Europe SRL | 1830 | 0.29% |
+| AS-COLOCROSSING | 1821 | 0.29% |
 | China Mobile communications corporation | 1820 | 0.29% |
 | Livenet telecom | 1780 | 0.28% |
 | NTT DOCOMO BUSINESS,Inc. | 1695 | 0.27% |
@@ -53,12 +53,12 @@
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1595 | 0.25% |
 | Alpha Strike Labs GmbH | 1503 | 0.24% |
 | CABLE-NET-1 | 1400 | 0.22% |
+| British Telecommunications PLC | 1396 | 0.22% |
 | China Unicom Shanghai network | 1369 | 0.22% |
 | ATT-INTERNET4 | 1366 | 0.22% |
 | MEGASURF-WIRELESS-INTERNET | 1352 | 0.22% |
-| TELEFONICA BRASIL S.A | 1343 | 0.21% |
-| COGENT-174 | 1315 | 0.21% |
-| British Telecommunications PLC | 1300 | 0.21% |
+| TELEFONICA BRASIL S.A | 1344 | 0.21% |
+| COGENT-174 | 1316 | 0.21% |
 | China Unicom IP network China169 Guangdong province | 1298 | 0.21% |
 | CHEAPY-HOST | 1278 | 0.20% |
 | IONOS SE | 1274 | 0.20% |
@@ -91,13 +91,13 @@
 | UNIFIEDLAYER-AS-1 | 886 | 0.14% |
 | China Unicom Beijing Province Network | 863 | 0.14% |
 | Bharti Airtel Ltd., Telemedia Services | 862 | 0.14% |
-| AS-VULTR | 859 | 0.14% |
-| Cyber Internet Services Pvt Ltd. | 850 | 0.14% |
+| AS-VULTR | 857 | 0.14% |
+| Cyber Internet Services Pvt Ltd. | 851 | 0.14% |
 | Joacaba Telecomunicacoes Ltda ME | 846 | 0.13% |
 | MEVSPACE sp. z o.o. | 844 | 0.13% |
 | Triple T Broadband Public Company Limited | 826 | 0.13% |
-| ROUTERHOSTING | 825 | 0.13% |
 | BHARTI Airtel Ltd. | 825 | 0.13% |
+| ROUTERHOSTING | 825 | 0.13% |
 | Taiwan Mobile Co., Ltd. | 815 | 0.13% |
 | Beijing Volcano Engine Technology Co., Ltd. | 811 | 0.13% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 803 | 0.13% |
