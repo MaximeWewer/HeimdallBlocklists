@@ -71,8 +71,8 @@
 | Cambodia | 629 | 0.10% |
 | Austria | 606 | 0.10% |
 | Nigeria | 598 | 0.10% |
-| Norway | 573 | 0.09% |
 | Peru | 573 | 0.09% |
+| Norway | 573 | 0.09% |
 | Armenia | 572 | 0.09% |
 | Serbia | 571 | 0.09% |
 | Uzbekistan | 561 | 0.09% |
@@ -98,6 +98,6 @@
 | North Macedonia | 230 | 0.04% |
 | Jordan | 227 | 0.04% |
 | Qatar | 225 | 0.04% |
-| Bahrain | 223 | 0.04% |
 | Nepal | 223 | 0.04% |
+| Bahrain | 223 | 0.04% |
 | Croatia | 222 | 0.04% |

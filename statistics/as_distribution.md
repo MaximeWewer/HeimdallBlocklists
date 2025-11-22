@@ -67,8 +67,8 @@
 | HKT Limited | 1093 | 0.18% |
 | NETWORK-SOLUTIONS-HOSTING | 1086 | 0.18% |
 | China Unicom IP network China169 Guangdong province | 1061 | 0.17% |
-| Cyber Internet Services Pvt Ltd. | 1059 | 0.17% |
 | Userlinks Netcom Pvt. Ltd. | 1059 | 0.17% |
+| Cyber Internet Services Pvt Ltd. | 1059 | 0.17% |
 | Mobile Telecommunications Company K.S.C.P. | 1042 | 0.17% |
 | FPT Telecom Company | 1035 | 0.17% |
 | HURRICANE | 1023 | 0.17% |
@@ -100,4 +100,4 @@
 | TWC-10796-MIDWEST | 803 | 0.13% |
 | CLOUDFLARENET | 796 | 0.13% |
 | Liquid Telecommunications Ltd | 785 | 0.13% |
-| TM TECHNOLOGY SERVICES SDN. BHD. | 782 | 0.13% |
+| TWC-11427-TEXAS | 782 | 0.13% |
