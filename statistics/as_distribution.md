@@ -86,8 +86,8 @@
 | Bharti Airtel Ltd., Telemedia Services | 896 | 0.15% |
 | RailTel Corporation of India Ltd | 894 | 0.15% |
 | NAMECHEAP-NET | 886 | 0.14% |
-| GOOGLE | 872 | 0.14% |
 | Telstra Limited | 872 | 0.14% |
+| GOOGLE | 872 | 0.14% |
 | National Telecom Public Company Limited | 871 | 0.14% |
 | MEVSPACE sp. z o.o. | 863 | 0.14% |
 | UNIFIEDLAYER-AS-1 | 861 | 0.14% |

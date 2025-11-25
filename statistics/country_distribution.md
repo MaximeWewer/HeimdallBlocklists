@@ -74,8 +74,8 @@
 | Peru | 583 | 0.09% |
 | Norway | 574 | 0.09% |
 | Serbia | 562 | 0.09% |
-| Armenia | 561 | 0.09% |
 | Uzbekistan | 561 | 0.09% |
+| Armenia | 561 | 0.09% |
 | Denmark | 546 | 0.09% |
 | Georgia | 525 | 0.08% |
 | Ghana | 492 | 0.08% |
@@ -91,8 +91,8 @@
 | Costa Rica | 297 | 0.05% |
 | Zambia | 272 | 0.04% |
 | Mongolia | 268 | 0.04% |
-| Paraguay | 248 | 0.04% |
 | Estonia | 248 | 0.04% |
+| Paraguay | 248 | 0.04% |
 | Mauritius | 246 | 0.04% |
 | North Macedonia | 239 | 0.04% |
 | Uganda | 237 | 0.04% |
