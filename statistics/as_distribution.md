@@ -68,13 +68,13 @@
 | HKT Limited | 1109 | 0.18% |
 | TTCLDATA | 1050 | 0.17% |
 | LATITUDE-SH | 1039 | 0.17% |
-| TWC-20001-PACWEST | 1029 | 0.17% |
 | Telstra Limited | 1029 | 0.17% |
+| TWC-20001-PACWEST | 1029 | 0.17% |
 | HURRICANE | 1022 | 0.17% |
 | FPT Telecom Company | 1008 | 0.16% |
 | Joacaba Telecomunicacoes Ltda ME | 1002 | 0.16% |
-| Ethiopian Telecommunication Corporation | 994 | 0.16% |
 | NETWORK-SOLUTIONS-HOSTING | 994 | 0.16% |
+| Ethiopian Telecommunication Corporation | 994 | 0.16% |
 | GOOGLE | 990 | 0.16% |
 | Telecom Argentina S.A. | 966 | 0.16% |
 | Userlinks Netcom Pvt. Ltd. | 961 | 0.16% |
@@ -82,8 +82,8 @@
 | iForce Networks | 924 | 0.15% |
 | BHARTI Airtel Ltd. | 898 | 0.15% |
 | Claro NXT Telecomunicacoes Ltda | 898 | 0.15% |
-| CENSYS-ARIN-01 | 886 | 0.14% |
 | Bharti Airtel Ltd., Telemedia Services | 886 | 0.14% |
+| CENSYS-ARIN-01 | 886 | 0.14% |
 | NAMECHEAP-NET | 884 | 0.14% |
 | MEVSPACE sp. z o.o. | 882 | 0.14% |
 | SK Broadband Co Ltd | 874 | 0.14% |
