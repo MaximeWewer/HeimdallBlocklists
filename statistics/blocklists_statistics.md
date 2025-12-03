@@ -1,17 +1,17 @@
 # Blocklists Statistics
 | Blocklist Name | IP Count |
 |----|----|
-| all_blocklists_merged.txt | 611778 |
-| romainmarcoux_abuseipdb-s100-120d.txt | 300052 |
+| all_blocklists_merged.txt | 610844 |
+| romainmarcoux_abuseipdb-s100-120d.txt | 300303 |
 | romainmarcoux_malicious-ip.txt | 223678 |
 | romainmarcoux_stamparm.txt | 150583 |
 | romainmarcoux_isc.sans.edu.txt | 149171 |
-| romainmarcoux_blocklist.de-all.txt | 141059 |
+| romainmarcoux_blocklist.de-all.txt | 141307 |
 | prod_data-shield_ipv4_blocklist.txt | 99134 |
-| romainmarcoux_cinsscore.com.txt | 83708 |
-| romainmarcoux_sekio.txt | 24160 |
-| romainmarcoux_greensnow.co.txt | 23476 |
-| romainmarcoux_alienvault-ssh-bruteforce.txt | 9049 |
+| romainmarcoux_cinsscore.com.txt | 83784 |
+| romainmarcoux_sekio.txt | 24425 |
+| romainmarcoux_greensnow.co.txt | 23518 |
+| romainmarcoux_alienvault-ssh-bruteforce.txt | 9055 |
 | romainmarcoux_binarydefense.com.txt | 7072 |
 | romainmarcoux_snort.org.txt | 1577 |
 | spamhaus_drop.txt | 1454 |
