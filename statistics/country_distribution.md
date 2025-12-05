@@ -89,8 +89,8 @@
 | Slovakia | 321 | 0.05% |
 | Costa Rica | 305 | 0.05% |
 | Benin | 284 | 0.05% |
-| Slovenia | 263 | 0.04% |
 | Zambia | 263 | 0.04% |
+| Slovenia | 263 | 0.04% |
 | Mongolia | 260 | 0.04% |
 | Tanzania | 259 | 0.04% |
 | North Macedonia | 251 | 0.04% |
