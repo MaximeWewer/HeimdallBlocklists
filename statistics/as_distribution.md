@@ -74,8 +74,8 @@
 | HURRICANE | 1023 | 0.16% |
 | Telecom Argentina S.A. | 1019 | 0.16% |
 | Hostlayici | 1016 | 0.16% |
-| Sistemdc webhosting and server services | 1016 | 0.16% |
 | Datahost Internet Ve Bilisim Teknolojileri | 1016 | 0.16% |
+| Sistemdc webhosting and server services | 1016 | 0.16% |
 | Ethiopian Telecommunication Corporation | 1007 | 0.16% |
 | LATITUDE-SH | 983 | 0.16% |
 | Conhost Bilgi Teknolojileri Veri Merkezi Hizmetleri Ve Danismanlik Limited Sirketi | 976 | 0.15% |
@@ -84,8 +84,8 @@
 | Claro NXT Telecomunicacoes Ltda | 935 | 0.15% |
 | BHARTI Airtel Ltd. | 926 | 0.15% |
 | ROUTERHOSTING | 924 | 0.15% |
-| Meric Internet Teknolojileri A.S. | 888 | 0.14% |
 | iForce Networks | 888 | 0.14% |
+| Meric Internet Teknolojileri A.S. | 888 | 0.14% |
 | MEVSPACE sp. z o.o. | 883 | 0.14% |
 | AS-VULTR | 881 | 0.14% |
 | China Unicom IP network China169 Guangdong province | 878 | 0.14% |
