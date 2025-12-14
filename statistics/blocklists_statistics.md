@@ -1,21 +1,21 @@
 # Blocklists Statistics
 | Blocklist Name | IP Count |
 |----|----|
-| all_blocklists_merged.txt | 602252 |
-| romainmarcoux_abuseipdb-s100-120d.txt | 304990 |
+| all_blocklists_merged.txt | 603894 |
+| romainmarcoux_abuseipdb-s100-120d.txt | 305059 |
 | romainmarcoux_malicious-ip.txt | 224800 |
 | romainmarcoux_isc.sans.edu.txt | 159774 |
 | romainmarcoux_stamparm.txt | 158208 |
-| romainmarcoux_blocklist.de-all.txt | 110591 |
+| romainmarcoux_blocklist.de-all.txt | 110664 |
 | prod_data-shield_ipv4_blocklist.txt | 100197 |
-| romainmarcoux_cinsscore.com.txt | 82999 |
-| romainmarcoux_greensnow.co.txt | 26769 |
-| romainmarcoux_sekio.txt | 24801 |
-| romainmarcoux_alienvault-ssh-bruteforce.txt | 10163 |
+| romainmarcoux_cinsscore.com.txt | 83028 |
+| romainmarcoux_sekio.txt | 26852 |
+| romainmarcoux_greensnow.co.txt | 26775 |
+| romainmarcoux_alienvault-ssh-bruteforce.txt | 10170 |
 | romainmarcoux_binarydefense.com.txt | 7072 |
 | romainmarcoux_snort.org.txt | 1577 |
 | spamhaus_drop.txt | 1491 |
 | romainmarcoux_emergingthreats.net.txt | 735 |
-| romainmarcoux_projecthoneypot.org.txt | 691 |
+| romainmarcoux_projecthoneypot.org.txt | 702 |
 | romainmarcoux_alienvault-fakelabs.txt | 614 |
 | romainmarcoux_alienvault-georgs.txt | 100 |
