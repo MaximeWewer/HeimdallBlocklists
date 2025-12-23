@@ -1,41 +1,41 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DIGITALOCEAN-ASN | 71134 | 10.89% |
-| Chinanet | 47431 | 7.26% |
-| CHINA UNICOM China169 Backbone | 33403 | 5.11% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 14381 | 2.20% |
-| GOOGLE-CLOUD-PLATFORM | 12048 | 1.84% |
+| DIGITALOCEAN-ASN | 71222 | 10.90% |
+| Chinanet | 47437 | 7.26% |
+| CHINA UNICOM China169 Backbone | 33406 | 5.11% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 14393 | 2.20% |
+| GOOGLE-CLOUD-PLATFORM | 12053 | 1.84% |
 | TE Data | 9778 | 1.50% |
-| AMAZON-02 | 9171 | 1.40% |
+| AMAZON-02 | 9174 | 1.40% |
 | Alibaba US Technology Co., Ltd. | 9151 | 1.40% |
 | Korea Telecom | 8439 | 1.29% |
-| AMAZON-AES | 8177 | 1.25% |
+| AMAZON-AES | 8178 | 1.25% |
 | Data Communication Business Group | 7117 | 1.09% |
 | KEYUBU Internet ve Bilisim Tic. Ltd. Sti. | 6350 | 0.97% |
 | Tencent Building, Kejizhongyi Avenue | 6002 | 0.92% |
 | F.n.s. Holdings Limited | 5371 | 0.82% |
 | Akamai Connected Cloud | 5369 | 0.82% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 5054 | 0.77% |
-| National Internet Backbone | 4921 | 0.75% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 5056 | 0.77% |
+| National Internet Backbone | 4923 | 0.75% |
 | COMCAST-7922 | 4833 | 0.74% |
 | HizliNet Teknoloji A.S. | 4623 | 0.71% |
 | Atlantis Telekomunikasyon Bilisim Hizmetleri San. Tic. Ltd | 4575 | 0.70% |
 | Rostelecom | 4429 | 0.68% |
 | TOT Public Company Limited | 3848 | 0.59% |
-| OVH SAS | 3732 | 0.57% |
+| OVH SAS | 3735 | 0.57% |
 | Shenzhen Tencent Computer Systems Company Limited | 3186 | 0.49% |
-| Contabo GmbH | 3158 | 0.48% |
-| Datacamp Limited | 3051 | 0.47% |
-| Wind Tre S.p.A. | 2954 | 0.45% |
+| Contabo GmbH | 3159 | 0.48% |
+| Datacamp Limited | 3052 | 0.47% |
+| Wind Tre S.p.A. | 2960 | 0.45% |
 | China Mobile Communications Group Co., Ltd. | 2945 | 0.45% |
-| Viettel Group | 2914 | 0.45% |
+| Viettel Group | 2915 | 0.45% |
 | Hetzner Online GmbH | 2908 | 0.45% |
 | JSC ER-Telecom Holding | 2903 | 0.44% |
 | Meric Internet Teknolojileri A.S. | 2798 | 0.43% |
 | Turk Telekom | 2789 | 0.43% |
 | Ph Bilisim Teknolojileri Limited Sirketi | 2771 | 0.42% |
-| UNINET | 2734 | 0.42% |
+| UNINET | 2735 | 0.42% |
 | Bogahost Bilisim ve Telekomunikasyon Hiz San ve Tic. Ltd. Sti | 2727 | 0.42% |
 | Niobe Telekomunikasyon Bilisim Teknolojileri Yazilim Danismanlik Sanayi ve Ticaret Ltd. Sti. | 2689 | 0.41% |
 | PT Telekomunikasi Indonesia | 2616 | 0.40% |
@@ -45,7 +45,7 @@
 | Iran Telecommunication Company PJS | 2211 | 0.34% |
 | LEASEWEB-USA-SEA | 2063 | 0.32% |
 | Hostifox Internet Ve Bilisim Hizmetleri Ticaret Sanayi Limited Sirketi | 2032 | 0.31% |
-| ORACLE-BMC-31898 | 1990 | 0.30% |
+| ORACLE-BMC-31898 | 1993 | 0.31% |
 | UUNET | 1922 | 0.29% |
 | TIM | 1906 | 0.29% |
 | AS-COLOCROSSING | 1858 | 0.28% |
@@ -54,9 +54,9 @@
 | China Unicom Guangzhou network | 1773 | 0.27% |
 | China Telecom Group | 1772 | 0.27% |
 | CHARTER-20115 | 1752 | 0.27% |
-| Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti. | 1731 | 0.27% |
+| Sunucun Bilgi Iletisim Teknolojileri ve Ticaret Ltd. Sti. | 1731 | 0.26% |
+| MEGASURF-WIRELESS-INTERNET | 1717 | 0.26% |
 | China Mobile communications corporation | 1713 | 0.26% |
-| MEGASURF-WIRELESS-INTERNET | 1711 | 0.26% |
 | MTS PJSC | 1710 | 0.26% |
 | M247 Europe SRL | 1652 | 0.25% |
 | ASN-CXA-ALL-CCI-22773-RDC | 1625 | 0.25% |
@@ -72,7 +72,7 @@
 | Cyber Internet Services Pvt Ltd. | 1313 | 0.20% |
 | DH Bulut Bilisim Anonim Sirketi | 1282 | 0.20% |
 | Sibanet Telekom Limited Sirketi | 1271 | 0.19% |
-| IONOS SE | 1243 | 0.19% |
+| IONOS SE | 1244 | 0.19% |
 | GSL Networks Pty LTD | 1204 | 0.18% |
 | Byteplus Pte. Ltd. | 1143 | 0.17% |
 | TWC-20001-PACWEST | 1100 | 0.17% |
@@ -93,9 +93,9 @@
 | ONYPHE SAS | 959 | 0.15% |
 | Markahost Telekomunikasyon Ve Ticaret Limited Sirketi | 940 | 0.14% |
 | MEVSPACE sp. z o.o. | 911 | 0.14% |
-| NETWORK-SOLUTIONS-HOSTING | 899 | 0.14% |
 | Telecom Argentina S.A. | 899 | 0.14% |
-| AS-VULTR | 892 | 0.14% |
+| NETWORK-SOLUTIONS-HOSTING | 899 | 0.14% |
+| AS-VULTR | 893 | 0.14% |
 | TELEFONICA BRASIL S.A | 888 | 0.14% |
 | Onur Bilisim Ve Yazilim Hizmetleri | 887 | 0.14% |
 | Pfcloud UG (haftungsbeschrankt) | 884 | 0.14% |
