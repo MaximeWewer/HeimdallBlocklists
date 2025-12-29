@@ -99,5 +99,5 @@
 | Uganda | 238 | 0.04% |
 | Palestine | 235 | 0.04% |
 | Qatar | 228 | 0.04% |
-| Tanzania | 226 | 0.04% |
 | Estonia | 226 | 0.04% |
+| Tanzania | 226 | 0.04% |

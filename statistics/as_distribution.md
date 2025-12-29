@@ -69,8 +69,8 @@
 | Mobile Telecommunications Company K.S.C.P. | 1014 | 0.17% |
 | ROUTERHOSTING | 1013 | 0.17% |
 | China Unicom Shanghai network | 1008 | 0.17% |
-| AS-VULTR | 993 | 0.16% |
 | Pfcloud UG (haftungsbeschrankt) | 993 | 0.16% |
+| AS-VULTR | 993 | 0.16% |
 | HKT Limited | 991 | 0.16% |
 | Joacaba Telecomunicacoes Ltda ME | 983 | 0.16% |
 | Vodafone GmbH | 968 | 0.16% |
