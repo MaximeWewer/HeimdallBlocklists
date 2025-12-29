@@ -87,8 +87,8 @@
 | Ecuador | 323 | 0.05% |
 | Slovakia | 305 | 0.05% |
 | Costa Rica | 297 | 0.05% |
-| Panama | 278 | 0.05% |
 | Nepal | 278 | 0.05% |
+| Panama | 278 | 0.05% |
 | Croatia | 273 | 0.04% |
 | Mongolia | 269 | 0.04% |
 | Slovenia | 266 | 0.04% |
