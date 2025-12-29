@@ -29,8 +29,8 @@
 | Datacamp Limited | 2983 | 0.49% |
 | China Mobile Communications Group Co., Ltd. | 2978 | 0.49% |
 | Hetzner Online GmbH | 2951 | 0.48% |
-| JSC ER-Telecom Holding | 2911 | 0.48% |
 | VNPT Corp | 2911 | 0.48% |
+| JSC ER-Telecom Holding | 2911 | 0.48% |
 | Turk Telekom | 2889 | 0.47% |
 | UNINET | 2792 | 0.46% |
 | Clouvider Limited | 2581 | 0.42% |
@@ -92,8 +92,8 @@
 | TM TECHNOLOGY SERVICES SDN. BHD. | 817 | 0.13% |
 | TWC-10796-MIDWEST | 813 | 0.13% |
 | COGENT-174 | 810 | 0.13% |
-| TWC-11427-TEXAS | 802 | 0.13% |
 | Railnet LLC | 802 | 0.13% |
+| TWC-11427-TEXAS | 802 | 0.13% |
 | China Unicom Beijing Province Network | 798 | 0.13% |
 | Telia Company AB | 797 | 0.13% |
 | Hostinger International Limited | 789 | 0.13% |

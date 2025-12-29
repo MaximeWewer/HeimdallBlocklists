@@ -52,8 +52,8 @@
 | Belgium | 1196 | 0.19% |
 | Switzerland | 1192 | 0.19% |
 | Bolivia | 1171 | 0.19% |
-| Kuwait | 1113 | 0.18% |
 | Czechia | 1113 | 0.18% |
+| Kuwait | 1113 | 0.18% |
 | Morocco | 1056 | 0.17% |
 | Kenya | 1022 | 0.17% |
 | Ethiopia | 968 | 0.16% |
