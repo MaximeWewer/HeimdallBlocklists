@@ -100,4 +100,4 @@
 | Orange | 783 | 0.13% |
 | Emirates Telecommunications Group Company (etisalat Group) Pjsc | 773 | 0.13% |
 | LEASEWEB-USA-DAL | 772 | 0.13% |
-| Pakistan Telecommunication Company Limited | 769 | 0.13% |
+| Petersburg Internet Network ltd. | 769 | 0.13% |

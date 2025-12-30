@@ -75,8 +75,8 @@
 | Serbia | 545 | 0.09% |
 | New Zealand | 518 | 0.08% |
 | Armenia | 483 | 0.08% |
-| Ghana | 473 | 0.08% |
 | Denmark | 473 | 0.08% |
+| Ghana | 473 | 0.08% |
 | Kosovo | 469 | 0.08% |
 | Latvia | 459 | 0.07% |
 | Benin | 429 | 0.07% |
