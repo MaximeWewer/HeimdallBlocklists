@@ -1,38 +1,38 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DIGITALOCEAN-ASN | 84676 | 13.27% |
-| Chinanet | 43426 | 6.80% |
-| CHINA UNICOM China169 Backbone | 30812 | 4.83% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 14980 | 2.35% |
-| GOOGLE-CLOUD-PLATFORM | 14118 | 2.21% |
-| National Internet Backbone | 10979 | 1.72% |
-| AMAZON-02 | 8934 | 1.40% |
-| AS-VULTR | 8512 | 1.33% |
-| AMAZON-AES | 7843 | 1.23% |
-| Data Communication Business Group | 7506 | 1.18% |
+| DIGITALOCEAN-ASN | 84817 | 13.28% |
+| Chinanet | 43431 | 6.80% |
+| CHINA UNICOM China169 Backbone | 30824 | 4.83% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 14983 | 2.35% |
+| GOOGLE-CLOUD-PLATFORM | 14125 | 2.21% |
+| National Internet Backbone | 10981 | 1.72% |
+| AMAZON-02 | 8939 | 1.40% |
+| AS-VULTR | 8513 | 1.33% |
+| AMAZON-AES | 7849 | 1.23% |
+| Data Communication Business Group | 7507 | 1.18% |
 | Alibaba US Technology Co., Ltd. | 7224 | 1.13% |
-| F.n.s. Holdings Limited | 6372 | 1.00% |
+| F.n.s. Holdings Limited | 6376 | 1.00% |
 | LARUS Limited | 5670 | 0.89% |
-| Korea Telecom | 5620 | 0.88% |
-| Datacamp Limited | 5407 | 0.85% |
+| Korea Telecom | 5622 | 0.88% |
+| Datacamp Limited | 5409 | 0.85% |
 | AS-COLOCROSSING | 4630 | 0.73% |
-| Akamai Connected Cloud | 4552 | 0.71% |
+| Akamai Connected Cloud | 4554 | 0.71% |
 | Tencent Building, Kejizhongyi Avenue | 4122 | 0.65% |
 | 3xK Tech GmbH | 4000 | 0.63% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 3995 | 0.63% |
 | TOT Public Company Limited | 3810 | 0.60% |
 | VNPT Corp | 3692 | 0.58% |
-| Rostelecom | 3668 | 0.57% |
-| M247 Europe SRL | 3458 | 0.54% |
-| OVH SAS | 3444 | 0.54% |
-| Viettel Group | 3307 | 0.52% |
-| Wind Tre S.p.A. | 3301 | 0.52% |
+| Rostelecom | 3669 | 0.57% |
+| M247 Europe SRL | 3459 | 0.54% |
+| OVH SAS | 3446 | 0.54% |
+| Viettel Group | 3309 | 0.52% |
+| Wind Tre S.p.A. | 3305 | 0.52% |
 | Contabo GmbH | 3192 | 0.50% |
 | PT Telekomunikasi Indonesia | 3059 | 0.48% |
-| Hetzner Online GmbH | 2979 | 0.47% |
-| CANTV Servicios, Venezuela | 2904 | 0.46% |
-| China Mobile Communications Group Co., Ltd. | 2877 | 0.45% |
+| Hetzner Online GmbH | 2980 | 0.47% |
+| CANTV Servicios, Venezuela | 2904 | 0.45% |
+| China Mobile Communications Group Co., Ltd. | 2879 | 0.45% |
 | Clouvider Limited | 2826 | 0.44% |
 | COGENT-174 | 2822 | 0.44% |
 | JSC ER-Telecom Holding | 2801 | 0.44% |
@@ -42,18 +42,18 @@
 | LEASEWEB-USA-SEA | 2236 | 0.35% |
 | China Unicom Guangzhou network | 2180 | 0.34% |
 | COMCAST-7922 | 2029 | 0.32% |
-| Turk Telekom | 1961 | 0.31% |
-| Deutsche Telekom AG | 1895 | 0.30% |
+| Turk Telekom | 1962 | 0.31% |
+| Deutsche Telekom AG | 1896 | 0.30% |
 | Iran Telecommunication Company PJS | 1839 | 0.29% |
 | China Telecom Group | 1772 | 0.28% |
 | HostRoyale Technologies Pvt Ltd | 1713 | 0.27% |
 | Pakistan Telecommunication Company Limited | 1658 | 0.26% |
-| Cyber Internet Services Pvt Ltd. | 1609 | 0.25% |
-| GSL Networks Pty LTD | 1564 | 0.25% |
-| MTS PJSC | 1544 | 0.24% |
+| Cyber Internet Services Pvt Ltd. | 1610 | 0.25% |
+| GSL Networks Pty LTD | 1566 | 0.25% |
+| MTS PJSC | 1546 | 0.24% |
 | China Mobile communications corporation | 1524 | 0.24% |
 | UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1517 | 0.24% |
-| MEGASURF-WIRELESS-INTERNET | 1497 | 0.23% |
+| MEGASURF-WIRELESS-INTERNET | 1500 | 0.23% |
 | Viettel Corporation | 1477 | 0.23% |
 | Shenzhen Tencent Computer Systems Company Limited | 1469 | 0.23% |
 | MULTA-ASN1 | 1455 | 0.23% |
@@ -86,14 +86,14 @@
 | LEASEWEB-USA-DAL | 941 | 0.15% |
 | MEVSPACE sp. z o.o. | 936 | 0.15% |
 | Telstra Limited | 933 | 0.15% |
-| Telecom Argentina S.A. | 927 | 0.15% |
+| Telecom Argentina S.A. | 929 | 0.15% |
 | Liquid Telecommunications Ltd | 925 | 0.14% |
 | TELEFONICA BRASIL S.A | 914 | 0.14% |
 | Vodafone GmbH | 907 | 0.14% |
 | UNICOM AnHui province network | 890 | 0.14% |
+| HKT Limited | 884 | 0.14% |
 | Beijing Volcano Engine Technology Co., Ltd. | 883 | 0.14% |
-| HKT Limited | 883 | 0.14% |
-| British Telecommunications PLC | 878 | 0.14% |
+| British Telecommunications PLC | 879 | 0.14% |
 | IS-AS-1 | 864 | 0.14% |
 | NAMECHEAP-NET | 856 | 0.13% |
 | GTT Communications Inc. | 847 | 0.13% |
