@@ -1,49 +1,49 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DIGITALOCEAN-ASN | 85870 | 13.38% |
-| Chinanet | 43488 | 6.77% |
-| CHINA UNICOM China169 Backbone | 30823 | 4.80% |
-| MICROSOFT-CORP-MSN-AS-BLOCK | 15040 | 2.34% |
-| GOOGLE-CLOUD-PLATFORM | 14248 | 2.22% |
-| National Internet Backbone | 10957 | 1.71% |
-| AMAZON-02 | 8945 | 1.39% |
+| DIGITALOCEAN-ASN | 85917 | 13.38% |
+| Chinanet | 43494 | 6.77% |
+| CHINA UNICOM China169 Backbone | 30906 | 4.81% |
+| MICROSOFT-CORP-MSN-AS-BLOCK | 15051 | 2.34% |
+| GOOGLE-CLOUD-PLATFORM | 14247 | 2.22% |
+| National Internet Backbone | 10958 | 1.71% |
+| AMAZON-02 | 8950 | 1.39% |
 | AS-VULTR | 8515 | 1.33% |
-| AMAZON-AES | 7889 | 1.23% |
+| AMAZON-AES | 7891 | 1.23% |
 | Data Communication Business Group | 7476 | 1.16% |
-| Alibaba US Technology Co., Ltd. | 7244 | 1.13% |
-| F.n.s. Holdings Limited | 6400 | 1.00% |
+| Alibaba US Technology Co., Ltd. | 7252 | 1.13% |
+| F.n.s. Holdings Limited | 6402 | 1.00% |
 | LARUS Limited | 5668 | 0.88% |
-| Korea Telecom | 5617 | 0.88% |
-| Datacamp Limited | 5427 | 0.85% |
+| Korea Telecom | 5618 | 0.87% |
+| Datacamp Limited | 5428 | 0.85% |
 | AS-COLOCROSSING | 4632 | 0.72% |
 | Akamai Connected Cloud | 4610 | 0.72% |
 | Tencent Building, Kejizhongyi Avenue | 4140 | 0.64% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 4012 | 0.62% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 4015 | 0.63% |
 | 3xK Tech GmbH | 3999 | 0.62% |
 | TOT Public Company Limited | 3775 | 0.59% |
 | VNPT Corp | 3712 | 0.58% |
-| Rostelecom | 3698 | 0.58% |
-| M247 Europe SRL | 3463 | 0.54% |
+| Rostelecom | 3703 | 0.58% |
+| M247 Europe SRL | 3462 | 0.54% |
 | OVH SAS | 3458 | 0.54% |
-| Viettel Group | 3330 | 0.52% |
-| Wind Tre S.p.A. | 3326 | 0.52% |
-| Contabo GmbH | 3192 | 0.50% |
+| Viettel Group | 3332 | 0.52% |
+| Wind Tre S.p.A. | 3329 | 0.52% |
+| Contabo GmbH | 3197 | 0.50% |
 | PT Telekomunikasi Indonesia | 3124 | 0.49% |
-| Hetzner Online GmbH | 2995 | 0.47% |
+| Hetzner Online GmbH | 2997 | 0.47% |
 | CANTV Servicios, Venezuela | 2905 | 0.45% |
-| China Mobile Communications Group Co., Ltd. | 2880 | 0.45% |
+| China Mobile Communications Group Co., Ltd. | 2881 | 0.45% |
 | UNINET | 2837 | 0.44% |
-| Clouvider Limited | 2831 | 0.44% |
+| Clouvider Limited | 2832 | 0.44% |
 | COGENT-174 | 2828 | 0.44% |
 | JSC ER-Telecom Holding | 2805 | 0.44% |
 | Orion Network Limited | 2690 | 0.42% |
-| ORACLE-BMC-31898 | 2464 | 0.38% |
+| ORACLE-BMC-31898 | 2467 | 0.38% |
 | LEASEWEB-USA-SEA | 2236 | 0.35% |
-| China Unicom Guangzhou network | 2162 | 0.34% |
+| China Unicom Guangzhou network | 2163 | 0.34% |
 | COMCAST-7922 | 2107 | 0.33% |
-| Turk Telekom | 2000 | 0.31% |
-| Deutsche Telekom AG | 1906 | 0.30% |
+| Turk Telekom | 2001 | 0.31% |
+| Deutsche Telekom AG | 1910 | 0.30% |
 | Iran Telecommunication Company PJS | 1841 | 0.29% |
 | China Telecom Group | 1782 | 0.28% |
 | HostRoyale Technologies Pvt Ltd | 1718 | 0.27% |
@@ -61,8 +61,8 @@
 | Bharti Airtel Ltd., Telemedia Services | 1444 | 0.22% |
 | ASN-CXA-ALL-CCI-22773-RDC | 1426 | 0.22% |
 | NTT DOCOMO BUSINESS,Inc. | 1413 | 0.22% |
-| TE Data | 1408 | 0.22% |
-| National Telecommunication Corporation HQ | 1400 | 0.22% |
+| TE Data | 1409 | 0.22% |
+| National Telecommunication Corporation HQ | 1401 | 0.22% |
 | Mobile Telecommunications Company K.S.C.P. | 1385 | 0.22% |
 | PUREVOLTAGE-INC | 1356 | 0.21% |
 | Biterika Group LLC | 1336 | 0.21% |
@@ -83,14 +83,14 @@
 | Joacaba Telecomunicacoes Ltda ME | 984 | 0.15% |
 | ONYPHE SAS | 960 | 0.15% |
 | AS-SPRIO | 954 | 0.15% |
-| Telecom Argentina S.A. | 950 | 0.15% |
+| Telecom Argentina S.A. | 952 | 0.15% |
 | LEASEWEB-USA-DAL | 942 | 0.15% |
 | MEVSPACE sp. z o.o. | 937 | 0.15% |
 | Telstra Limited | 933 | 0.15% |
 | Liquid Telecommunications Ltd | 932 | 0.15% |
-| TELEFONICA BRASIL S.A | 922 | 0.14% |
+| TELEFONICA BRASIL S.A | 923 | 0.14% |
 | Vodafone GmbH | 910 | 0.14% |
-| Beijing Volcano Engine Technology Co., Ltd. | 885 | 0.14% |
+| Beijing Volcano Engine Technology Co., Ltd. | 886 | 0.14% |
 | British Telecommunications PLC | 885 | 0.14% |
 | HKT Limited | 884 | 0.14% |
 | UNICOM AnHui province network | 879 | 0.14% |
