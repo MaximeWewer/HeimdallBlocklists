@@ -58,7 +58,6 @@ Here are the URLs for the split versions:
 ```text
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/prod_data-shield_ipv4_blocklist-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/prod_data-shield_ipv4_blocklist-ab.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/prod_data-shield_ipv4_blocklist-ac.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt.txt-aa.txt
