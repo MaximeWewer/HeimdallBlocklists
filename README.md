@@ -58,8 +58,6 @@ Here are the URLs for the split versions:
 
 ```text
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/prod_data-shield_ipv4_blocklist-aa.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/prod_data-shield_ipv4_blocklist-ab.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/prod_data-shield_ipv4_blocklist-ac.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_abuseipdb-s100-120d-ab.txt.txt-aa.txt
@@ -79,7 +77,6 @@ https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_isc.sans.edu-ac.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_malicious-ip-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_malicious-ip-ab.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_malicious-ip-ac.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_nxdomain.no-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_projecthoneypot.org-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_sekio-aa.txt
