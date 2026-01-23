@@ -21,8 +21,8 @@
 | Wind Tre S.p.A. | 3390 | 0.58% |
 | Contabo GmbH | 3227 | 0.55% |
 | Viettel Group | 3143 | 0.54% |
-| OVH SAS | 3045 | 0.52% |
 | Tencent Building, Kejizhongyi Avenue | 3045 | 0.52% |
+| OVH SAS | 3045 | 0.52% |
 | Turk Telekom | 3039 | 0.52% |
 | Leaseweb USA, Inc. | 2888 | 0.50% |
 | Datacamp Limited | 2870 | 0.49% |
@@ -87,8 +87,8 @@
 | Triple T Broadband Public Company Limited | 833 | 0.14% |
 | Namecheap, Inc. | 819 | 0.14% |
 | RailTel Corporation of India Ltd | 813 | 0.14% |
-| HKT Limited | 798 | 0.14% |
 | UNICOM AnHui province network | 798 | 0.14% |
+| HKT Limited | 798 | 0.14% |
 | Driftnet Ltd | 757 | 0.13% |
 | China Unicom Beijing Province Network | 753 | 0.13% |
 | Userlinks Netcom Pvt. Ltd. | 729 | 0.13% |
