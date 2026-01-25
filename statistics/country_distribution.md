@@ -77,15 +77,15 @@
 | Armenia | 476 | 0.08% |
 | Uruguay | 475 | 0.08% |
 | Benin | 474 | 0.08% |
-| Kosovo | 470 | 0.08% |
 | Kyrgyzstan | 470 | 0.08% |
+| Kosovo | 470 | 0.08% |
 | Ecuador | 462 | 0.08% |
 | Austria | 461 | 0.08% |
 | Costa Rica | 448 | 0.08% |
 | Georgia | 426 | 0.07% |
 | Denmark | 423 | 0.07% |
-| Ghana | 419 | 0.07% |
 | Albania | 419 | 0.07% |
+| Ghana | 419 | 0.07% |
 | Guatemala | 414 | 0.07% |
 | Libya | 411 | 0.07% |
 | Paraguay | 395 | 0.07% |
@@ -95,8 +95,8 @@
 | Nepal | 314 | 0.05% |
 | Palestine | 299 | 0.05% |
 | Jordan | 272 | 0.05% |
-| Mauritius | 241 | 0.04% |
 | Mongolia | 241 | 0.04% |
+| Mauritius | 241 | 0.04% |
 | Slovenia | 235 | 0.04% |
 | Slovakia | 231 | 0.04% |
 | North Macedonia | 225 | 0.04% |
