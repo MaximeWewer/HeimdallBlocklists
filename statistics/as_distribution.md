@@ -38,8 +38,8 @@
 | Deutsche Telekom AG | 1887 | 0.32% |
 | China Telecom Group | 1861 | 0.32% |
 | Verizon Business | 1814 | 0.31% |
-| M247 Europe SRL | 1784 | 0.30% |
 | TELEFONICA BRASIL S.A | 1784 | 0.30% |
+| M247 Europe SRL | 1784 | 0.30% |
 | Charter Communications Inc | 1688 | 0.29% |
 | Uzbektelekom Joint Stock Company | 1649 | 0.28% |
 | MTS PJSC | 1583 | 0.27% |
@@ -68,8 +68,8 @@
 | Cogent Communications, LLC | 1045 | 0.18% |
 | GoDaddy.com, LLC | 1022 | 0.17% |
 | MEVSPACE sp. z o.o. | 1017 | 0.17% |
-| Hurricane Electric LLC | 1015 | 0.17% |
 | Telstra Limited | 1015 | 0.17% |
+| Hurricane Electric LLC | 1015 | 0.17% |
 | AT&T Enterprises, LLC | 1005 | 0.17% |
 | Alpha Strike Labs GmbH | 990 | 0.17% |
 | BOT INTERNET E SERVICOS DE TELECOMUNICACOES LTDA | 988 | 0.17% |
