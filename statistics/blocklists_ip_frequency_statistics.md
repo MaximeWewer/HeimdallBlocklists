@@ -1,4 +1,4 @@
 # IP presence frequency in blocklists
 | Malicious IP | Number of IPs | % |
 |----|----|----|
-| Present in 2 blocklists | 87099 | 100.00% |
+| Present in 2 blocklists | 87343 | 100.00% |
