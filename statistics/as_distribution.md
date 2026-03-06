@@ -31,8 +31,8 @@
 | Hangzhou Alibaba Advertising Co.,Ltd. | 338 | 0.39% |
 | DiGi Telecommunications Sdn. Bhd. | 316 | 0.37% |
 | Beijing Volcano Engine Technology Co., Ltd. | 312 | 0.36% |
-| IONOS SE | 312 | 0.36% |
 | Pfcloud UG (haftungsbeschrankt) | 312 | 0.36% |
+| IONOS SE | 312 | 0.36% |
 | PT Cloud Hosting Indonesia | 301 | 0.35% |
 | China Mobile Communications Group Co., Ltd. | 300 | 0.35% |
 | HUAWEI CLOUDS | 282 | 0.33% |
@@ -52,24 +52,24 @@
 | M247 Europe SRL | 193 | 0.22% |
 | FranTech Solutions | 190 | 0.22% |
 | TELEFONICA BRASIL S.A | 178 | 0.21% |
-| Arbor Networks, Inc. | 169 | 0.20% |
 | Limited Network LTD | 169 | 0.20% |
+| Arbor Networks, Inc. | 169 | 0.20% |
 | China Mobile communications corporation | 168 | 0.20% |
 | UNINET | 163 | 0.19% |
-| The Constant Company, LLC | 156 | 0.18% |
 | China Unicom Beijing Province Network | 156 | 0.18% |
+| The Constant Company, LLC | 156 | 0.18% |
 | UAB Host Baltic | 152 | 0.18% |
 | Unmanaged Ltd | 150 | 0.17% |
 | Charter Communications Inc | 148 | 0.17% |
 | Mobile Business Group | 140 | 0.16% |
 | PT Telekomunikasi Indonesia | 139 | 0.16% |
-| Verizon Business | 134 | 0.16% |
 | SK Broadband Co Ltd | 134 | 0.16% |
+| Verizon Business | 134 | 0.16% |
 | Huawei Cloud Service data center | 133 | 0.15% |
 | Bharti Airtel Ltd., Telemedia Services | 132 | 0.15% |
 | Stiftung Erneuerbare Freiheit | 127 | 0.15% |
-| VNPT Corp | 126 | 0.15% |
 | Wind Tre S.p.A. | 126 | 0.15% |
+| VNPT Corp | 126 | 0.15% |
 | Cox Communications Inc. | 126 | 0.15% |
 | CHINANET Guangdong province network | 124 | 0.14% |
 | Ghosty Networks LLC | 123 | 0.14% |
@@ -86,8 +86,8 @@
 | Netiface Limited | 100 | 0.12% |
 | HKT Limited | 100 | 0.12% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 98 | 0.11% |
-| Telstra Limited | 97 | 0.11% |
 | Scaleway S.a.s. | 97 | 0.11% |
+| Telstra Limited | 97 | 0.11% |
 | Latitude.sh | 96 | 0.11% |
 | Turk Telekom | 95 | 0.11% |
 | RCN | 93 | 0.11% |
@@ -99,5 +99,5 @@
 | Kprohost LLC | 84 | 0.10% |
 | GoDaddy.com, LLC | 83 | 0.10% |
 | Cloudflare, Inc. | 81 | 0.09% |
-| SONATEL SONATEL-AS Autonomous System | 80 | 0.09% |
 | YISU CLOUD LTD | 80 | 0.09% |
+| SONATEL SONATEL-AS Autonomous System | 80 | 0.09% |
