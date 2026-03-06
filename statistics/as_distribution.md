@@ -58,8 +58,8 @@
 | Limited Network LTD | 167 | 0.19% |
 | China Unicom Beijing Province Network | 156 | 0.18% |
 | The Constant Company, LLC | 156 | 0.18% |
-| UAB Host Baltic | 150 | 0.17% |
 | Unmanaged Ltd | 150 | 0.17% |
+| UAB Host Baltic | 150 | 0.17% |
 | Charter Communications Inc | 148 | 0.17% |
 | PT Telekomunikasi Indonesia | 144 | 0.17% |
 | Wind Tre S.p.A. | 141 | 0.16% |
@@ -94,8 +94,8 @@
 | AT&T Enterprises, LLC | 94 | 0.11% |
 | RCN | 93 | 0.11% |
 | China Telecom | 91 | 0.10% |
-| Contabo Inc. | 86 | 0.10% |
 | GoDaddy.com, LLC | 86 | 0.10% |
+| Contabo Inc. | 86 | 0.10% |
 | Cloud Computing Corporation | 85 | 0.10% |
 | Kprohost LLC | 83 | 0.10% |
 | Cloudflare, Inc. | 83 | 0.10% |
