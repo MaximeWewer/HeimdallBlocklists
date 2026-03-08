@@ -54,8 +54,8 @@
 | FranTech Solutions | 189 | 0.22% |
 | TELEFONICA BRASIL S.A | 176 | 0.20% |
 | China Mobile communications corporation | 171 | 0.20% |
-| Limited Network LTD | 169 | 0.19% |
 | Arbor Networks, Inc. | 169 | 0.19% |
+| Limited Network LTD | 169 | 0.19% |
 | UNINET | 161 | 0.19% |
 | China Unicom Beijing Province Network | 160 | 0.18% |
 | UAB Host Baltic | 154 | 0.18% |
@@ -64,8 +64,8 @@
 | Charter Communications Inc | 144 | 0.17% |
 | Huawei Cloud Service data center | 143 | 0.16% |
 | Mobile Business Group | 139 | 0.16% |
-| Bharti Airtel Ltd., Telemedia Services | 138 | 0.16% |
 | PT Telekomunikasi Indonesia | 138 | 0.16% |
+| Bharti Airtel Ltd., Telemedia Services | 138 | 0.16% |
 | Global-Data System IT Corporation | 136 | 0.16% |
 | SK Broadband Co Ltd | 134 | 0.15% |
 | CHINANET Guangdong province network | 133 | 0.15% |
@@ -74,8 +74,8 @@
 | Telia Company AB | 124 | 0.14% |
 | Ghosty Networks LLC | 122 | 0.14% |
 | LG DACOM Corporation | 121 | 0.14% |
-| VNPT Corp | 118 | 0.14% |
 | Global Connectivity Solutions Llp | 118 | 0.14% |
+| VNPT Corp | 118 | 0.14% |
 | Cogent Communications, LLC | 115 | 0.13% |
 | National WiMAXIMS environment | 115 | 0.13% |
 | Cox Communications Inc. | 114 | 0.13% |
@@ -86,14 +86,14 @@
 | PJSC MegaFon | 103 | 0.12% |
 | CT-HangZhou-IDC | 103 | 0.12% |
 | MEVSPACE sp. z o.o. | 102 | 0.12% |
-| Netiface Limited | 101 | 0.12% |
 | Telstra Limited | 101 | 0.12% |
+| Netiface Limited | 101 | 0.12% |
 | HKT Limited | 98 | 0.11% |
 | Latitude.sh | 98 | 0.11% |
 | AT&T Enterprises, LLC | 96 | 0.11% |
 | Scaleway S.a.s. | 94 | 0.11% |
-| RCN | 93 | 0.11% |
 | Cloud Computing Corporation | 93 | 0.11% |
+| RCN | 93 | 0.11% |
 | JSC ER-Telecom Holding | 92 | 0.11% |
 | Cloudflare, Inc. | 89 | 0.10% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 88 | 0.10% |
