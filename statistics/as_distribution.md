@@ -23,8 +23,8 @@
 | F.n.s. Holdings Limited | 524 | 0.61% |
 | GSL Networks Pty LTD | 460 | 0.53% |
 | Clouvider Limited | 453 | 0.52% |
-| Hetzner Online GmbH | 418 | 0.48% |
 | Oracle Corporation | 418 | 0.48% |
+| Hetzner Online GmbH | 418 | 0.48% |
 | Shenzhen Tencent Computer Systems Company Limited | 414 | 0.48% |
 | Viettel Group | 400 | 0.46% |
 | Beijing Baidu Netcom Science and Technology Co., Ltd. | 356 | 0.41% |
@@ -51,8 +51,8 @@
 | Sistemas Informaticos, S.A. | 212 | 0.25% |
 | 1337 Services GmbH | 204 | 0.24% |
 | M247 Europe SRL | 191 | 0.22% |
-| FranTech Solutions | 180 | 0.21% |
 | Arbor Networks, Inc. | 180 | 0.21% |
+| FranTech Solutions | 180 | 0.21% |
 | TELEFONICA BRASIL S.A | 176 | 0.20% |
 | China Mobile communications corporation | 170 | 0.20% |
 | Limited Network LTD | 169 | 0.20% |
@@ -77,10 +77,10 @@
 | Cogent Communications, LLC | 119 | 0.14% |
 | VNPT Corp | 118 | 0.14% |
 | Global Connectivity Solutions Llp | 117 | 0.14% |
-| Rethem Hosting LLC | 115 | 0.13% |
 | National WiMAXIMS environment | 115 | 0.13% |
-| Techoff Srv Limited | 112 | 0.13% |
+| Rethem Hosting LLC | 115 | 0.13% |
 | Censys, Inc. | 112 | 0.13% |
+| Techoff Srv Limited | 112 | 0.13% |
 | CT-HangZhou-IDC | 104 | 0.12% |
 | PJSC MegaFon | 103 | 0.12% |
 | Turk Telekom | 103 | 0.12% |
@@ -89,9 +89,9 @@
 | Telstra Limited | 98 | 0.11% |
 | Cox Communications Inc. | 96 | 0.11% |
 | MEVSPACE sp. z o.o. | 95 | 0.11% |
-| Cloud Computing Corporation | 94 | 0.11% |
-| AT&T Enterprises, LLC | 94 | 0.11% |
 | Scaleway S.a.s. | 94 | 0.11% |
+| AT&T Enterprises, LLC | 94 | 0.11% |
+| Cloud Computing Corporation | 94 | 0.11% |
 | Latitude.sh | 94 | 0.11% |
 | RCN | 91 | 0.11% |
 | JSC ER-Telecom Holding | 90 | 0.10% |
