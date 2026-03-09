@@ -45,14 +45,14 @@
 | Omegatech LTD | 234 | 0.27% |
 | Viettel Corporation | 233 | 0.27% |
 | The Constant Company, LLC | 230 | 0.27% |
-| Comcast Cable Communications, LLC | 223 | 0.26% |
 | Zenlayer Inc | 223 | 0.26% |
+| Comcast Cable Communications, LLC | 223 | 0.26% |
 | Sistemas Informaticos, S.A. | 212 | 0.25% |
 | Datacamp Limited | 210 | 0.24% |
 | 1337 Services GmbH | 202 | 0.24% |
 | M247 Europe SRL | 190 | 0.22% |
-| Arbor Networks, Inc. | 179 | 0.21% |
 | FranTech Solutions | 179 | 0.21% |
+| Arbor Networks, Inc. | 179 | 0.21% |
 | China Mobile communications corporation | 170 | 0.20% |
 | Limited Network LTD | 169 | 0.20% |
 | Wind Tre S.p.A. | 168 | 0.20% |
@@ -84,8 +84,8 @@
 | CT-HangZhou-IDC | 104 | 0.12% |
 | Turk Telekom | 103 | 0.12% |
 | PJSC MegaFon | 102 | 0.12% |
-| Netiface Limited | 98 | 0.11% |
 | HKT Limited | 98 | 0.11% |
+| Netiface Limited | 98 | 0.11% |
 | Telstra Limited | 97 | 0.11% |
 | AT&T Enterprises, LLC | 95 | 0.11% |
 | MEVSPACE sp. z o.o. | 95 | 0.11% |
@@ -100,4 +100,4 @@
 | Contabo Inc. | 86 | 0.10% |
 | Kprohost LLC | 84 | 0.10% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 83 | 0.10% |
-| IP Volume inc | 79 | 0.09% |
+| GoDaddy.com, LLC | 79 | 0.09% |
