@@ -24,8 +24,8 @@
 | Belgium | 591 | 0.68% |
 | Sweden | 521 | 0.60% |
 | Italy | 495 | 0.57% |
-| Thailand | 448 | 0.51% |
 | Portugal | 448 | 0.51% |
+| Thailand | 448 | 0.51% |
 | Iran | 446 | 0.51% |
 | Spain | 384 | 0.44% |
 | Türkiye | 355 | 0.41% |
@@ -66,11 +66,11 @@
 | Czechia | 51 | 0.06% |
 | Ethiopia | 50 | 0.06% |
 | Bolivia | 48 | 0.06% |
-| Denmark | 47 | 0.05% |
 | Saudi Arabia | 47 | 0.05% |
-| Qatar | 44 | 0.05% |
-| Kenya | 44 | 0.05% |
+| Denmark | 47 | 0.05% |
 | Luxembourg | 44 | 0.05% |
+| Kenya | 44 | 0.05% |
+| Qatar | 44 | 0.05% |
 | Afghanistan | 43 | 0.05% |
 | Cambodia | 43 | 0.05% |
 | Panama | 39 | 0.04% |
@@ -80,24 +80,24 @@
 | Costa Rica | 34 | 0.04% |
 | Tunisia | 33 | 0.04% |
 | Armenia | 32 | 0.04% |
-| Serbia | 26 | 0.03% |
 | Tanzania | 26 | 0.03% |
+| Serbia | 26 | 0.03% |
 | Algeria | 25 | 0.03% |
 | Georgia | 25 | 0.03% |
-| Mongolia | 24 | 0.03% |
 | Estonia | 24 | 0.03% |
-| Slovenia | 23 | 0.03% |
+| Mongolia | 24 | 0.03% |
 | Uganda | 23 | 0.03% |
+| Slovenia | 23 | 0.03% |
 | Paraguay | 22 | 0.03% |
 | Ghana | 21 | 0.02% |
 | Sri Lanka | 20 | 0.02% |
-| Slovakia | 18 | 0.02% |
 | Belize | 18 | 0.02% |
 | Ecuador | 18 | 0.02% |
+| Slovakia | 18 | 0.02% |
 | Mozambique | 18 | 0.02% |
 | Myanmar | 17 | 0.02% |
-| Kuwait | 16 | 0.02% |
 | Angola | 16 | 0.02% |
-| Cyprus | 15 | 0.02% |
+| Kuwait | 16 | 0.02% |
 | Albania | 15 | 0.02% |
+| Cyprus | 15 | 0.02% |
 | Jordan | 14 | 0.02% |
