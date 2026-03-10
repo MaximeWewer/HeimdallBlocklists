@@ -48,8 +48,8 @@
 | Comcast Cable Communications, LLC | 227 | 0.26% |
 | Zenlayer Inc | 223 | 0.25% |
 | Datacamp Limited | 216 | 0.25% |
-| Sistemas Informaticos, S.A. | 212 | 0.24% |
 | Wind Tre S.p.A. | 212 | 0.24% |
+| Sistemas Informaticos, S.A. | 212 | 0.24% |
 | 1337 Services GmbH | 195 | 0.22% |
 | M247 Europe SRL | 193 | 0.22% |
 | FranTech Solutions | 186 | 0.21% |
@@ -64,12 +64,12 @@
 | Charter Communications Inc | 149 | 0.17% |
 | Huawei Cloud Service data center | 146 | 0.17% |
 | PT Telekomunikasi Indonesia | 141 | 0.16% |
-| Global-Data System IT Corporation | 138 | 0.16% |
 | Bharti Airtel Ltd., Telemedia Services | 138 | 0.16% |
+| Global-Data System IT Corporation | 138 | 0.16% |
 | Mobile Business Group | 136 | 0.16% |
 | SK Broadband Co Ltd | 135 | 0.15% |
-| Verizon Business | 131 | 0.15% |
 | CHINANET Guangdong province network | 131 | 0.15% |
+| Verizon Business | 131 | 0.15% |
 | Stiftung Erneuerbare Freiheit | 128 | 0.15% |
 | Telia Company AB | 126 | 0.14% |
 | National WiMAXIMS environment | 124 | 0.14% |
@@ -84,16 +84,16 @@
 | Turk Telekom | 111 | 0.13% |
 | CT-HangZhou-IDC | 104 | 0.12% |
 | PJSC MegaFon | 102 | 0.12% |
-| MEVSPACE sp. z o.o. | 100 | 0.11% |
 | Telstra Limited | 100 | 0.11% |
+| MEVSPACE sp. z o.o. | 100 | 0.11% |
 | Netiface Limited | 98 | 0.11% |
 | HKT Limited | 98 | 0.11% |
-| AT&T Enterprises, LLC | 95 | 0.11% |
 | Cox Communications Inc. | 95 | 0.11% |
-| Cloudflare, Inc. | 92 | 0.10% |
+| AT&T Enterprises, LLC | 95 | 0.11% |
 | Cloud Computing Corporation | 92 | 0.10% |
 | Scaleway S.a.s. | 92 | 0.10% |
 | JSC ER-Telecom Holding | 92 | 0.10% |
+| Cloudflare, Inc. | 92 | 0.10% |
 | RCN | 91 | 0.10% |
 | China Telecom | 91 | 0.10% |
 | Contabo Inc. | 89 | 0.10% |
