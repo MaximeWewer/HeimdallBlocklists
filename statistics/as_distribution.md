@@ -69,10 +69,10 @@
 | Mobile Business Group | 136 | 0.15% |
 | Bharti Airtel Ltd., Telemedia Services | 134 | 0.15% |
 | CHINANET Guangdong province network | 133 | 0.15% |
-| VNPT Corp | 127 | 0.14% |
 | National WiMAXIMS environment | 127 | 0.14% |
-| Turk Telekom | 126 | 0.14% |
+| VNPT Corp | 127 | 0.14% |
 | Stiftung Erneuerbare Freiheit | 126 | 0.14% |
+| Turk Telekom | 126 | 0.14% |
 | Telia Company AB | 123 | 0.14% |
 | Verizon Business | 123 | 0.14% |
 | LG DACOM Corporation | 120 | 0.13% |
@@ -84,20 +84,20 @@
 | Global Connectivity Solutions Llp | 104 | 0.12% |
 | PJSC MegaFon | 103 | 0.12% |
 | Telstra Limited | 102 | 0.11% |
-| MEVSPACE sp. z o.o. | 101 | 0.11% |
 | CT-HangZhou-IDC | 101 | 0.11% |
+| MEVSPACE sp. z o.o. | 101 | 0.11% |
 | Cloudflare, Inc. | 100 | 0.11% |
-| JSC ER-Telecom Holding | 96 | 0.11% |
 | HKT Limited | 96 | 0.11% |
+| JSC ER-Telecom Holding | 96 | 0.11% |
 | AT&T Enterprises, LLC | 95 | 0.11% |
 | Cloud Computing Corporation | 93 | 0.10% |
-| Contabo Inc. | 92 | 0.10% |
 | Scaleway S.a.s. | 92 | 0.10% |
+| Contabo Inc. | 92 | 0.10% |
 | China Telecom | 91 | 0.10% |
-| TM TECHNOLOGY SERVICES SDN. BHD. | 88 | 0.10% |
 | RCN | 88 | 0.10% |
+| TM TECHNOLOGY SERVICES SDN. BHD. | 88 | 0.10% |
 | Netiface Limited | 87 | 0.10% |
 | Kprohost LLC | 84 | 0.09% |
 | Latitude.sh | 80 | 0.09% |
-| Cloud Host Pte Ltd | 79 | 0.09% |
 | IP Volume inc | 79 | 0.09% |
+| Cloud Host Pte Ltd | 79 | 0.09% |
