@@ -53,8 +53,8 @@
 | 1337 Services GmbH | 196 | 0.22% |
 | China Mobile communications corporation | 177 | 0.20% |
 | M247 Europe SRL | 175 | 0.20% |
-| Arbor Networks, Inc. | 173 | 0.20% |
 | FranTech Solutions | 173 | 0.20% |
+| Arbor Networks, Inc. | 173 | 0.20% |
 | UNINET | 171 | 0.20% |
 | Limited Network LTD | 169 | 0.19% |
 | UAB Host Baltic | 160 | 0.18% |
@@ -65,16 +65,16 @@
 | Charter Communications Inc | 146 | 0.17% |
 | Huawei Cloud Service data center | 138 | 0.16% |
 | SK Broadband Co Ltd | 137 | 0.16% |
-| CHINANET Guangdong province network | 134 | 0.15% |
 | Mobile Business Group | 134 | 0.15% |
+| CHINANET Guangdong province network | 134 | 0.15% |
 | Global-Data System IT Corporation | 129 | 0.15% |
 | Bharti Airtel Ltd., Telemedia Services | 129 | 0.15% |
 | Stiftung Erneuerbare Freiheit | 127 | 0.15% |
 | Turk Telekom | 125 | 0.14% |
 | Telia Company AB | 123 | 0.14% |
 | Verizon Business | 121 | 0.14% |
-| National WiMAXIMS environment | 119 | 0.14% |
 | LG DACOM Corporation | 119 | 0.14% |
+| National WiMAXIMS environment | 119 | 0.14% |
 | VNPT Corp | 118 | 0.13% |
 | Ghosty Networks LLC | 116 | 0.13% |
 | Rethem Hosting LLC | 115 | 0.13% |
@@ -90,10 +90,10 @@
 | JSC ER-Telecom Holding | 95 | 0.11% |
 | AT&T Enterprises, LLC | 94 | 0.11% |
 | Cloudflare, Inc. | 93 | 0.11% |
-| Contabo Inc. | 92 | 0.11% |
 | Cloud Computing Corporation | 92 | 0.11% |
-| China Telecom | 91 | 0.10% |
+| Contabo Inc. | 92 | 0.11% |
 | Scaleway S.a.s. | 91 | 0.10% |
+| China Telecom | 91 | 0.10% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 86 | 0.10% |
 | Netiface Limited | 85 | 0.10% |
 | Kprohost LLC | 85 | 0.10% |
