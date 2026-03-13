@@ -29,8 +29,8 @@
 | Viettel Group | 400 | 0.45% |
 | Beijing Baidu Netcom Science and Technology Co., Ltd. | 369 | 0.41% |
 | Data Communication Business Group | 352 | 0.39% |
-| PT Cloud Hosting Indonesia | 348 | 0.39% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 348 | 0.39% |
+| PT Cloud Hosting Indonesia | 348 | 0.39% |
 | Pfcloud UG (haftungsbeschrankt) | 330 | 0.37% |
 | Cyber Internet Services Pvt Ltd. | 325 | 0.36% |
 | DiGi Telecommunications Sdn. Bhd. | 316 | 0.35% |
@@ -81,9 +81,9 @@
 | Censys, Inc. | 112 | 0.13% |
 | Techoff Srv Limited | 110 | 0.12% |
 | PJSC MegaFon | 103 | 0.12% |
-| Telstra Limited | 102 | 0.11% |
-| Cogent Communications, LLC | 102 | 0.11% |
 | CT-HangZhou-IDC | 102 | 0.11% |
+| Cogent Communications, LLC | 102 | 0.11% |
+| Telstra Limited | 102 | 0.11% |
 | MEVSPACE sp. z o.o. | 101 | 0.11% |
 | Global Connectivity Solutions Llp | 101 | 0.11% |
 | AT&T Enterprises, LLC | 97 | 0.11% |
@@ -92,11 +92,11 @@
 | JSC ER-Telecom Holding | 95 | 0.11% |
 | Cloud Computing Corporation | 94 | 0.11% |
 | Contabo Inc. | 94 | 0.11% |
-| Scaleway S.a.s. | 92 | 0.10% |
 | China Telecom | 92 | 0.10% |
+| Scaleway S.a.s. | 92 | 0.10% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 89 | 0.10% |
-| Kprohost LLC | 86 | 0.10% |
 | Netiface Limited | 86 | 0.10% |
+| Kprohost LLC | 86 | 0.10% |
 | RCN | 84 | 0.09% |
 | Latitude.sh | 80 | 0.09% |
 | Cloud Host Pte Ltd | 79 | 0.09% |
