@@ -53,8 +53,8 @@
 | 1337 Services GmbH | 214 | 0.24% |
 | Limited Network LTD | 189 | 0.21% |
 | M247 Europe SRL | 182 | 0.20% |
-| China Mobile communications corporation | 179 | 0.20% |
 | Arbor Networks, Inc. | 179 | 0.20% |
+| China Mobile communications corporation | 179 | 0.20% |
 | FranTech Solutions | 174 | 0.19% |
 | UNINET | 174 | 0.19% |
 | China Unicom Beijing Province Network | 163 | 0.18% |
@@ -73,8 +73,8 @@
 | Bharti Airtel Ltd., Telemedia Services | 126 | 0.14% |
 | Verizon Business | 125 | 0.14% |
 | Global-Data System IT Corporation | 123 | 0.14% |
-| LG DACOM Corporation | 121 | 0.13% |
 | VNPT Corp | 121 | 0.13% |
+| LG DACOM Corporation | 121 | 0.13% |
 | Telia Company AB | 120 | 0.13% |
 | Ghosty Networks LLC | 116 | 0.13% |
 | Rethem Hosting LLC | 115 | 0.13% |
@@ -92,11 +92,11 @@
 | Cloud Computing Corporation | 94 | 0.10% |
 | Scaleway S.a.s. | 93 | 0.10% |
 | RCN | 91 | 0.10% |
-| China Telecom | 91 | 0.10% |
 | JSC ER-Telecom Holding | 91 | 0.10% |
-| Contabo Inc. | 88 | 0.10% |
+| China Telecom | 91 | 0.10% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 88 | 0.10% |
 | Latitude.sh | 88 | 0.10% |
+| Contabo Inc. | 88 | 0.10% |
 | Kprohost LLC | 87 | 0.10% |
 | Netiface Limited | 85 | 0.09% |
 | Cloud Host Pte Ltd | 80 | 0.09% |
