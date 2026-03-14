@@ -10,8 +10,8 @@
 | Chinanet | 1352 | 1.51% |
 | ONYPHE SAS | 1009 | 1.13% |
 | Hurricane Electric LLC | 986 | 1.10% |
-| Akamai Connected Cloud | 922 | 1.03% |
 | Korea Telecom | 922 | 1.03% |
+| Akamai Connected Cloud | 922 | 1.03% |
 | Byteplus Pte. Ltd. | 912 | 1.02% |
 | CHINA UNICOM China169 Backbone | 798 | 0.89% |
 | Driftnet Ltd | 757 | 0.85% |
@@ -55,8 +55,8 @@
 | M247 Europe SRL | 180 | 0.20% |
 | China Mobile communications corporation | 177 | 0.20% |
 | UNINET | 174 | 0.19% |
-| Arbor Networks, Inc. | 173 | 0.19% |
 | FranTech Solutions | 173 | 0.19% |
+| Arbor Networks, Inc. | 173 | 0.19% |
 | China Unicom Beijing Province Network | 161 | 0.18% |
 | UAB Host Baltic | 159 | 0.18% |
 | Unmanaged Ltd | 155 | 0.17% |
@@ -70,8 +70,8 @@
 | CHINANET Guangdong province network | 131 | 0.15% |
 | Stiftung Erneuerbare Freiheit | 129 | 0.14% |
 | National WiMAXIMS environment | 128 | 0.14% |
-| Verizon Business | 125 | 0.14% |
 | Bharti Airtel Ltd., Telemedia Services | 125 | 0.14% |
+| Verizon Business | 125 | 0.14% |
 | Global-Data System IT Corporation | 123 | 0.14% |
 | Telia Company AB | 120 | 0.13% |
 | LG DACOM Corporation | 119 | 0.13% |
@@ -82,8 +82,8 @@
 | Techoff Srv Limited | 110 | 0.12% |
 | Cogent Communications, LLC | 107 | 0.12% |
 | MEVSPACE sp. z o.o. | 104 | 0.12% |
-| Telstra Limited | 101 | 0.11% |
 | CT-HangZhou-IDC | 101 | 0.11% |
+| Telstra Limited | 101 | 0.11% |
 | PJSC MegaFon | 100 | 0.11% |
 | Cloudflare, Inc. | 100 | 0.11% |
 | Global Connectivity Solutions Llp | 98 | 0.11% |
