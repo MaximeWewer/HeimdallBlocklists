@@ -87,17 +87,17 @@
 | Algeria | 26 | 0.03% |
 | Estonia | 25 | 0.03% |
 | Uganda | 22 | 0.02% |
-| Ghana | 19 | 0.02% |
 | Sri Lanka | 19 | 0.02% |
 | Slovenia | 19 | 0.02% |
-| Angola | 18 | 0.02% |
+| Ghana | 19 | 0.02% |
 | Paraguay | 18 | 0.02% |
-| Slovakia | 17 | 0.02% |
+| Angola | 18 | 0.02% |
 | Mozambique | 17 | 0.02% |
-| Cyprus | 17 | 0.02% |
 | Kuwait | 17 | 0.02% |
+| Slovakia | 17 | 0.02% |
+| Cyprus | 17 | 0.02% |
+| Myanmar | 15 | 0.02% |
 | Belize | 15 | 0.02% |
 | Ecuador | 15 | 0.02% |
-| Myanmar | 15 | 0.02% |
 | Libya | 14 | 0.02% |
 | Jordan | 14 | 0.02% |
