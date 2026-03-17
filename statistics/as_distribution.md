@@ -29,8 +29,8 @@
 | Shenzhen Tencent Computer Systems Company Limited | 423 | 0.48% |
 | Viettel Group | 397 | 0.45% |
 | Cyber Internet Services Pvt Ltd. | 359 | 0.40% |
-| Beijing Baidu Netcom Science and Technology Co., Ltd. | 342 | 0.38% |
 | PT Cloud Hosting Indonesia | 342 | 0.38% |
+| Beijing Baidu Netcom Science and Technology Co., Ltd. | 342 | 0.38% |
 | Pfcloud UG (haftungsbeschrankt) | 336 | 0.38% |
 | Data Communication Business Group | 332 | 0.37% |
 | China Mobile Communications Group Co., Ltd. | 324 | 0.36% |
@@ -63,8 +63,8 @@
 | M247 Europe SRL | 152 | 0.17% |
 | PT Telekomunikasi Indonesia | 151 | 0.17% |
 | TELEFONICA BRASIL S.A | 143 | 0.16% |
-| Ghosty Networks LLC | 139 | 0.16% |
 | Turk Telekom | 139 | 0.16% |
+| Ghosty Networks LLC | 139 | 0.16% |
 | Charter Communications Inc | 137 | 0.15% |
 | SK Broadband Co Ltd | 130 | 0.15% |
 | Mobile Business Group | 130 | 0.15% |
@@ -75,8 +75,8 @@
 | VNPT Corp | 122 | 0.14% |
 | LG DACOM Corporation | 121 | 0.14% |
 | Techoff Srv Limited | 117 | 0.13% |
-| Verizon Business | 117 | 0.13% |
 | Bharti Airtel Ltd., Telemedia Services | 117 | 0.13% |
+| Verizon Business | 117 | 0.13% |
 | Rethem Hosting LLC | 115 | 0.13% |
 | Censys, Inc. | 112 | 0.13% |
 | Global-Data System IT Corporation | 108 | 0.12% |
@@ -86,13 +86,13 @@
 | CT-HangZhou-IDC | 98 | 0.11% |
 | Cloudflare, Inc. | 98 | 0.11% |
 | PJSC MegaFon | 96 | 0.11% |
-| Telstra Limited | 95 | 0.11% |
 | MEVSPACE sp. z o.o. | 95 | 0.11% |
+| Telstra Limited | 95 | 0.11% |
 | Cloud Computing Corporation | 92 | 0.10% |
 | AT&T Enterprises, LLC | 90 | 0.10% |
+| Latitude.sh | 87 | 0.10% |
 | Global Connectivity Solutions Llp | 87 | 0.10% |
 | JSC ER-Telecom Holding | 87 | 0.10% |
-| Latitude.sh | 87 | 0.10% |
 | Scaleway S.a.s. | 86 | 0.10% |
 | Kprohost LLC | 86 | 0.10% |
 | China Telecom | 85 | 0.10% |
