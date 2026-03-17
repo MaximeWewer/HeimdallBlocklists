@@ -65,9 +65,9 @@
 | Hungary | 50 | 0.06% |
 | Ethiopia | 48 | 0.05% |
 | Denmark | 47 | 0.05% |
-| Bolivia | 47 | 0.05% |
 | Kenya | 47 | 0.05% |
 | Latvia | 47 | 0.05% |
+| Bolivia | 47 | 0.05% |
 | Cambodia | 44 | 0.05% |
 | Afghanistan | 43 | 0.05% |
 | Senegal | 42 | 0.05% |
@@ -86,18 +86,18 @@
 | Georgia | 25 | 0.03% |
 | Estonia | 25 | 0.03% |
 | Algeria | 24 | 0.03% |
-| Uganda | 20 | 0.02% |
 | Slovakia | 20 | 0.02% |
-| Sri Lanka | 19 | 0.02% |
-| Slovenia | 19 | 0.02% |
+| Uganda | 20 | 0.02% |
 | Paraguay | 19 | 0.02% |
+| Slovenia | 19 | 0.02% |
+| Sri Lanka | 19 | 0.02% |
 | Ghana | 19 | 0.02% |
-| Kuwait | 17 | 0.02% |
 | Angola | 17 | 0.02% |
+| Kuwait | 17 | 0.02% |
 | Mozambique | 17 | 0.02% |
 | Cyprus | 16 | 0.02% |
 | Myanmar | 16 | 0.02% |
 | Ecuador | 15 | 0.02% |
 | Guatemala | 14 | 0.02% |
-| Libya | 13 | 0.01% |
 | Jordan | 13 | 0.01% |
+| Kyrgyzstan | 13 | 0.01% |
