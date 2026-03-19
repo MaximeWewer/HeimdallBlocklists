@@ -33,8 +33,8 @@
 | Pfcloud UG (haftungsbeschrankt) | 333 | 0.39% |
 | Data Communication Business Group | 331 | 0.38% |
 | Beijing Baidu Netcom Science and Technology Co., Ltd. | 328 | 0.38% |
-| China Mobile Communications Group Co., Ltd. | 325 | 0.38% |
 | National Internet Backbone | 325 | 0.38% |
+| China Mobile Communications Group Co., Ltd. | 325 | 0.38% |
 | DiGi Telecommunications Sdn. Bhd. | 313 | 0.36% |
 | Beijing Volcano Engine Technology Co., Ltd. | 286 | 0.33% |
 | HostPapa | 271 | 0.31% |
@@ -42,19 +42,19 @@
 | HUAWEI CLOUDS | 265 | 0.31% |
 | Viettel Corporation | 259 | 0.30% |
 | Rostelecom | 238 | 0.28% |
-| Alpha Strike Labs GmbH | 233 | 0.27% |
 | Datacamp Limited | 233 | 0.27% |
+| Alpha Strike Labs GmbH | 233 | 0.27% |
 | Omegatech LTD | 230 | 0.27% |
-| 1337 Services GmbH | 223 | 0.26% |
 | Sistemas Informaticos, S.A. | 223 | 0.26% |
+| 1337 Services GmbH | 223 | 0.26% |
 | Zenlayer Inc | 222 | 0.26% |
 | Wind Tre S.p.A. | 219 | 0.25% |
 | Comcast Cable Communications, LLC | 216 | 0.25% |
 | The Constant Company, LLC | 209 | 0.24% |
 | Limited Network LTD | 188 | 0.22% |
 | China Mobile communications corporation | 180 | 0.21% |
-| UNINET | 165 | 0.19% |
 | China Unicom Beijing Province Network | 165 | 0.19% |
+| UNINET | 165 | 0.19% |
 | Unmanaged Ltd | 164 | 0.19% |
 | FranTech Solutions | 159 | 0.18% |
 | Arbor Networks, Inc. | 158 | 0.18% |
@@ -64,20 +64,20 @@
 | TELEFONICA BRASIL S.A | 145 | 0.17% |
 | M247 Europe SRL | 137 | 0.16% |
 | Ghosty Networks LLC | 137 | 0.16% |
-| Turk Telekom | 135 | 0.16% |
 | Charter Communications Inc | 135 | 0.16% |
+| Turk Telekom | 135 | 0.16% |
 | VNPT Corp | 133 | 0.15% |
 | Stiftung Erneuerbare Freiheit | 132 | 0.15% |
 | Mobile Business Group | 130 | 0.15% |
 | SK Broadband Co Ltd | 126 | 0.15% |
 | Telia Company AB | 123 | 0.14% |
 | CHINANET Guangdong province network | 121 | 0.14% |
-| National WiMAXIMS environment | 120 | 0.14% |
 | LG DACOM Corporation | 120 | 0.14% |
+| National WiMAXIMS environment | 120 | 0.14% |
 | Bharti Airtel Ltd., Telemedia Services | 118 | 0.14% |
+| Techoff Srv Limited | 115 | 0.13% |
 | Rethem Hosting LLC | 115 | 0.13% |
 | Verizon Business | 115 | 0.13% |
-| Techoff Srv Limited | 115 | 0.13% |
 | Censys, Inc. | 112 | 0.13% |
 | Global-Data System IT Corporation | 106 | 0.12% |
 | Cogent Communications, LLC | 100 | 0.12% |
@@ -90,13 +90,13 @@
 | Latitude.sh | 89 | 0.10% |
 | Detai Prosperous Technologies Limited | 89 | 0.10% |
 | MEVSPACE sp. z o.o. | 88 | 0.10% |
-| JSC ER-Telecom Holding | 87 | 0.10% |
 | Cloud Computing Corporation | 87 | 0.10% |
-| China Telecom | 86 | 0.10% |
+| JSC ER-Telecom Holding | 87 | 0.10% |
 | Scaleway S.a.s. | 86 | 0.10% |
+| China Telecom | 86 | 0.10% |
 | Kprohost LLC | 84 | 0.10% |
-| Contabo Inc. | 83 | 0.10% |
 | AT&T Enterprises, LLC | 83 | 0.10% |
+| Contabo Inc. | 83 | 0.10% |
 | Global Connectivity Solutions Llp | 82 | 0.10% |
 | IP Volume inc | 77 | 0.09% |
 | Cloud Host Pte Ltd | 76 | 0.09% |
