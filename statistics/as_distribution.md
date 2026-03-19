@@ -65,8 +65,8 @@
 | M247 Europe SRL | 139 | 0.16% |
 | Ghosty Networks LLC | 137 | 0.16% |
 | VNPT Corp | 136 | 0.16% |
-| Charter Communications Inc | 135 | 0.16% |
 | Turk Telekom | 135 | 0.16% |
+| Charter Communications Inc | 135 | 0.16% |
 | Stiftung Erneuerbare Freiheit | 132 | 0.15% |
 | Mobile Business Group | 131 | 0.15% |
 | SK Broadband Co Ltd | 126 | 0.15% |
@@ -85,8 +85,8 @@
 | HKT Limited | 100 | 0.12% |
 | Latitude.sh | 100 | 0.12% |
 | Netiface Limited | 99 | 0.11% |
-| CT-HangZhou-IDC | 96 | 0.11% |
 | Cloudflare, Inc. | 96 | 0.11% |
+| CT-HangZhou-IDC | 96 | 0.11% |
 | Telstra Limited | 94 | 0.11% |
 | Detai Prosperous Technologies Limited | 90 | 0.10% |
 | Scaleway S.a.s. | 88 | 0.10% |
@@ -95,8 +95,8 @@
 | JSC ER-Telecom Holding | 87 | 0.10% |
 | China Telecom | 86 | 0.10% |
 | Kprohost LLC | 84 | 0.10% |
-| Contabo Inc. | 83 | 0.10% |
 | AT&T Enterprises, LLC | 83 | 0.10% |
+| Contabo Inc. | 83 | 0.10% |
 | Global Connectivity Solutions Llp | 82 | 0.09% |
 | IP Volume inc | 78 | 0.09% |
 | Cloud Host Pte Ltd | 76 | 0.09% |
