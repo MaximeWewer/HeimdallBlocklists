@@ -57,8 +57,8 @@
 | UNINET | 164 | 0.19% |
 | China Unicom Beijing Province Network | 163 | 0.19% |
 | Huawei Cloud Service data center | 162 | 0.19% |
-| Arbor Networks, Inc. | 161 | 0.19% |
 | FranTech Solutions | 161 | 0.19% |
+| Arbor Networks, Inc. | 161 | 0.19% |
 | UAB Host Baltic | 158 | 0.19% |
 | PT Telekomunikasi Indonesia | 153 | 0.18% |
 | VNPT Corp | 147 | 0.17% |
@@ -67,19 +67,19 @@
 | Ghosty Networks LLC | 136 | 0.16% |
 | Charter Communications Inc | 134 | 0.16% |
 | Mobile Business Group | 132 | 0.16% |
-| Stiftung Erneuerbare Freiheit | 131 | 0.15% |
 | Turk Telekom | 131 | 0.15% |
+| Stiftung Erneuerbare Freiheit | 131 | 0.15% |
 | SK Broadband Co Ltd | 125 | 0.15% |
-| Telia Company AB | 121 | 0.14% |
 | CHINANET Guangdong province network | 121 | 0.14% |
-| National WiMAXIMS environment | 119 | 0.14% |
+| Telia Company AB | 121 | 0.14% |
 | Bharti Airtel Ltd., Telemedia Services | 119 | 0.14% |
+| National WiMAXIMS environment | 119 | 0.14% |
 | LG DACOM Corporation | 118 | 0.14% |
 | Techoff Srv Limited | 116 | 0.14% |
 | Rethem Hosting LLC | 115 | 0.14% |
 | Cogent Communications, LLC | 114 | 0.13% |
-| Verizon Business | 113 | 0.13% |
 | Censys, Inc. | 113 | 0.13% |
+| Verizon Business | 113 | 0.13% |
 | Global-Data System IT Corporation | 109 | 0.13% |
 | Latitude.sh | 101 | 0.12% |
 | Netiface Limited | 99 | 0.12% |
@@ -87,8 +87,8 @@
 | HKT Limited | 98 | 0.12% |
 | CT-HangZhou-IDC | 96 | 0.11% |
 | Cloudflare, Inc. | 93 | 0.11% |
-| Detai Prosperous Technologies Limited | 90 | 0.11% |
 | Scaleway S.a.s. | 90 | 0.11% |
+| Detai Prosperous Technologies Limited | 90 | 0.11% |
 | Telstra Limited | 89 | 0.10% |
 | Cloud Computing Corporation | 88 | 0.10% |
 | MEVSPACE sp. z o.o. | 87 | 0.10% |
