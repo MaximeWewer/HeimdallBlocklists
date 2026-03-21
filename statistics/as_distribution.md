@@ -55,9 +55,9 @@
 | Limited Network LTD | 187 | 0.22% |
 | Wind Tre S.p.A. | 185 | 0.22% |
 | Arbor Networks, Inc. | 169 | 0.20% |
-| China Unicom Beijing Province Network | 165 | 0.20% |
-| UNINET | 165 | 0.20% |
 | Huawei Cloud Service data center | 165 | 0.20% |
+| UNINET | 165 | 0.20% |
+| China Unicom Beijing Province Network | 165 | 0.20% |
 | Unmanaged Ltd | 164 | 0.20% |
 | VNPT Corp | 160 | 0.19% |
 | UAB Host Baltic | 158 | 0.19% |
@@ -72,10 +72,10 @@
 | SK Broadband Co Ltd | 125 | 0.15% |
 | National WiMAXIMS environment | 122 | 0.15% |
 | CHINANET Guangdong province network | 121 | 0.14% |
-| Telia Company AB | 120 | 0.14% |
 | Bharti Airtel Ltd., Telemedia Services | 120 | 0.14% |
-| Cogent Communications, LLC | 118 | 0.14% |
+| Telia Company AB | 120 | 0.14% |
 | LG DACOM Corporation | 118 | 0.14% |
+| Cogent Communications, LLC | 118 | 0.14% |
 | Techoff Srv Limited | 116 | 0.14% |
 | Rethem Hosting LLC | 115 | 0.14% |
 | Verizon Business | 113 | 0.14% |
@@ -92,8 +92,8 @@
 | Cloud Computing Corporation | 91 | 0.11% |
 | Detai Prosperous Technologies Limited | 90 | 0.11% |
 | Telstra Limited | 87 | 0.10% |
-| JSC ER-Telecom Holding | 86 | 0.10% |
 | China Telecom | 86 | 0.10% |
+| JSC ER-Telecom Holding | 86 | 0.10% |
 | MEVSPACE sp. z o.o. | 84 | 0.10% |
 | Global Connectivity Solutions Llp | 83 | 0.10% |
 | Kprohost LLC | 82 | 0.10% |
