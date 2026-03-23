@@ -46,8 +46,8 @@
 | Sistemas Informaticos, S.A. | 224 | 0.28% |
 | Rostelecom | 223 | 0.28% |
 | Omegatech LTD | 221 | 0.27% |
-| Zenlayer Inc | 220 | 0.27% |
 | Ghosty Networks LLC | 220 | 0.27% |
+| Zenlayer Inc | 220 | 0.27% |
 | Comcast Cable Communications, LLC | 211 | 0.26% |
 | The Constant Company, LLC | 208 | 0.26% |
 | VNPT Corp | 205 | 0.25% |
@@ -66,9 +66,9 @@
 | PT Telekomunikasi Indonesia | 142 | 0.18% |
 | Latitude.sh | 133 | 0.16% |
 | M247 Europe SRL | 132 | 0.16% |
-| Charter Communications Inc | 131 | 0.16% |
 | SK Broadband Co Ltd | 131 | 0.16% |
 | Network Solutions, LLC | 131 | 0.16% |
+| Charter Communications Inc | 131 | 0.16% |
 | Stiftung Erneuerbare Freiheit | 129 | 0.16% |
 | Mobile Business Group | 128 | 0.16% |
 | National WiMAXIMS environment | 127 | 0.16% |
@@ -85,15 +85,15 @@
 | Censys, Inc. | 113 | 0.14% |
 | Contabo Inc. | 101 | 0.13% |
 | Global-Data System IT Corporation | 100 | 0.12% |
-| Netiface Limited | 98 | 0.12% |
 | Cloudflare, Inc. | 98 | 0.12% |
+| Netiface Limited | 98 | 0.12% |
 | HKT Limited | 95 | 0.12% |
-| PJSC MegaFon | 94 | 0.12% |
 | CT-HangZhou-IDC | 94 | 0.12% |
+| PJSC MegaFon | 94 | 0.12% |
 | Scaleway S.a.s. | 93 | 0.12% |
 | Detai Prosperous Technologies Limited | 90 | 0.11% |
-| Cloud Computing Corporation | 87 | 0.11% |
 | Telstra Limited | 87 | 0.11% |
+| Cloud Computing Corporation | 87 | 0.11% |
 | China Telecom | 86 | 0.11% |
 | AT&T Enterprises, LLC | 84 | 0.10% |
 | MEVSPACE sp. z o.o. | 83 | 0.10% |

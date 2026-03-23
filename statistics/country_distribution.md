@@ -63,19 +63,19 @@
 | Uzbekistan | 55 | 0.07% |
 | Tanzania | 53 | 0.06% |
 | Latvia | 53 | 0.06% |
-| Denmark | 49 | 0.06% |
-| Ethiopia | 49 | 0.06% |
 | Hungary | 49 | 0.06% |
+| Ethiopia | 49 | 0.06% |
+| Denmark | 49 | 0.06% |
 | Czechia | 47 | 0.06% |
-| Bolivia | 44 | 0.05% |
-| Kenya | 44 | 0.05% |
 | Afghanistan | 44 | 0.05% |
+| Kenya | 44 | 0.05% |
+| Bolivia | 44 | 0.05% |
 | Saudi Arabia | 42 | 0.05% |
 | Cambodia | 41 | 0.05% |
 | Vanuatu | 41 | 0.05% |
 | Costa Rica | 39 | 0.05% |
-| Azerbaijan | 35 | 0.04% |
 | Luxembourg | 35 | 0.04% |
+| Azerbaijan | 35 | 0.04% |
 | Dominican Republic | 34 | 0.04% |
 | Panama | 34 | 0.04% |
 | Armenia | 32 | 0.04% |
@@ -89,15 +89,15 @@
 | Senegal | 22 | 0.03% |
 | Slovakia | 21 | 0.03% |
 | Sri Lanka | 20 | 0.02% |
-| Mozambique | 19 | 0.02% |
 | Paraguay | 19 | 0.02% |
 | Angola | 19 | 0.02% |
+| Mozambique | 19 | 0.02% |
 | Uganda | 19 | 0.02% |
 | Kuwait | 18 | 0.02% |
 | Ghana | 18 | 0.02% |
 | Slovenia | 16 | 0.02% |
 | Ecuador | 16 | 0.02% |
-| Jordan | 15 | 0.02% |
 | Cyprus | 15 | 0.02% |
-| Guatemala | 14 | 0.02% |
+| Jordan | 15 | 0.02% |
 | Myanmar | 14 | 0.02% |
+| Guatemala | 14 | 0.02% |
