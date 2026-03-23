@@ -66,16 +66,16 @@
 | TELEFONICA BRASIL S.A | 143 | 0.18% |
 | Latitude.sh | 137 | 0.17% |
 | M247 Europe SRL | 134 | 0.17% |
-| SK Broadband Co Ltd | 132 | 0.16% |
 | Charter Communications Inc | 132 | 0.16% |
+| SK Broadband Co Ltd | 132 | 0.16% |
 | Network Solutions, LLC | 131 | 0.16% |
 | Stiftung Erneuerbare Freiheit | 130 | 0.16% |
 | Mobile Business Group | 128 | 0.16% |
 | National WiMAXIMS environment | 127 | 0.16% |
 | Telia Company AB | 123 | 0.15% |
 | CHINANET Guangdong province network | 123 | 0.15% |
-| Turk Telekom | 122 | 0.15% |
 | Bharti Airtel Ltd., Telemedia Services | 122 | 0.15% |
+| Turk Telekom | 122 | 0.15% |
 | Cogent Communications, LLC | 121 | 0.15% |
 | LG DACOM Corporation | 120 | 0.15% |
 | Unified Layer | 119 | 0.15% |
@@ -85,9 +85,9 @@
 | Censys, Inc. | 113 | 0.14% |
 | Contabo Inc. | 101 | 0.12% |
 | Global-Data System IT Corporation | 100 | 0.12% |
-| HKT Limited | 98 | 0.12% |
 | Netiface Limited | 98 | 0.12% |
 | Cloudflare, Inc. | 98 | 0.12% |
+| HKT Limited | 98 | 0.12% |
 | PJSC MegaFon | 95 | 0.12% |
 | CT-HangZhou-IDC | 94 | 0.12% |
 | Scaleway S.a.s. | 93 | 0.11% |
@@ -96,8 +96,8 @@
 | Telstra Limited | 87 | 0.11% |
 | China Telecom | 86 | 0.11% |
 | AT&T Enterprises, LLC | 85 | 0.10% |
-| MEVSPACE sp. z o.o. | 83 | 0.10% |
 | JSC ER-Telecom Holding | 83 | 0.10% |
+| MEVSPACE sp. z o.o. | 83 | 0.10% |
 | Kprohost LLC | 81 | 0.10% |
 | YISU CLOUD LTD | 80 | 0.10% |
 | Global Connectivity Solutions Llp | 79 | 0.10% |
