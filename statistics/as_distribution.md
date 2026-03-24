@@ -61,8 +61,8 @@
 | UNINET | 162 | 0.21% |
 | Unmanaged Ltd | 161 | 0.20% |
 | UAB Host Baltic | 160 | 0.20% |
-| TELEFONICA BRASIL S.A | 146 | 0.18% |
 | FranTech Solutions | 146 | 0.18% |
+| TELEFONICA BRASIL S.A | 146 | 0.18% |
 | PT Telekomunikasi Indonesia | 141 | 0.18% |
 | Latitude.sh | 141 | 0.18% |
 | Network Solutions, LLC | 136 | 0.17% |
@@ -76,28 +76,28 @@
 | Unified Layer | 126 | 0.16% |
 | Telia Company AB | 123 | 0.16% |
 | Bharti Airtel Ltd., Telemedia Services | 118 | 0.15% |
-| LG DACOM Corporation | 117 | 0.15% |
 | Turk Telekom | 117 | 0.15% |
 | Cogent Communications, LLC | 117 | 0.15% |
+| LG DACOM Corporation | 117 | 0.15% |
 | Rethem Hosting LLC | 115 | 0.15% |
-| Censys, Inc. | 114 | 0.14% |
 | Techoff Srv Limited | 114 | 0.14% |
+| Censys, Inc. | 114 | 0.14% |
 | Verizon Business | 111 | 0.14% |
 | Contabo Inc. | 102 | 0.13% |
 | Global-Data System IT Corporation | 101 | 0.13% |
-| HKT Limited | 98 | 0.12% |
 | Netiface Limited | 98 | 0.12% |
+| HKT Limited | 98 | 0.12% |
 | Cloudflare, Inc. | 97 | 0.12% |
 | PJSC MegaFon | 95 | 0.12% |
 | CT-HangZhou-IDC | 93 | 0.12% |
-| Scaleway S.a.s. | 90 | 0.11% |
 | Detai Prosperous Technologies Limited | 90 | 0.11% |
+| Scaleway S.a.s. | 90 | 0.11% |
 | Cloud Computing Corporation | 88 | 0.11% |
 | Telstra Limited | 86 | 0.11% |
 | China Telecom | 86 | 0.11% |
-| MEVSPACE sp. z o.o. | 85 | 0.11% |
 | JSC ER-Telecom Holding | 85 | 0.11% |
+| MEVSPACE sp. z o.o. | 85 | 0.11% |
 | AT&T Enterprises, LLC | 84 | 0.11% |
 | Kprohost LLC | 82 | 0.10% |
 | YISU CLOUD LTD | 79 | 0.10% |
-| Tamatiya EOOD | 78 | 0.10% |
+| Global Connectivity Solutions Llp | 78 | 0.10% |
