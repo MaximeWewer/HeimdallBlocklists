@@ -44,8 +44,8 @@
 | Datacamp Limited | 238 | 0.30% |
 | 1337 Services GmbH | 230 | 0.29% |
 | Omegatech LTD | 227 | 0.28% |
-| VNPT Corp | 224 | 0.28% |
 | Sistemas Informaticos, S.A. | 224 | 0.28% |
+| VNPT Corp | 224 | 0.28% |
 | Rostelecom | 223 | 0.28% |
 | Ghosty Networks LLC | 222 | 0.28% |
 | Zenlayer Inc | 219 | 0.27% |
@@ -58,8 +58,8 @@
 | Arbor Networks, Inc. | 170 | 0.21% |
 | Wind Tre S.p.A. | 168 | 0.21% |
 | China Unicom Beijing Province Network | 166 | 0.21% |
-| UAB Host Baltic | 163 | 0.20% |
 | UNINET | 163 | 0.20% |
+| UAB Host Baltic | 163 | 0.20% |
 | Unmanaged Ltd | 161 | 0.20% |
 | Latitude.sh | 147 | 0.18% |
 | TELEFONICA BRASIL S.A | 146 | 0.18% |
@@ -86,18 +86,18 @@
 | Contabo Inc. | 102 | 0.13% |
 | Global-Data System IT Corporation | 101 | 0.13% |
 | HKT Limited | 100 | 0.13% |
-| Netiface Limited | 98 | 0.12% |
 | Cloudflare, Inc. | 98 | 0.12% |
+| Netiface Limited | 98 | 0.12% |
 | PJSC MegaFon | 96 | 0.12% |
 | CT-HangZhou-IDC | 93 | 0.12% |
 | Cloud Computing Corporation | 90 | 0.11% |
-| Detai Prosperous Technologies Limited | 90 | 0.11% |
 | Scaleway S.a.s. | 90 | 0.11% |
+| Detai Prosperous Technologies Limited | 90 | 0.11% |
 | Telstra Limited | 88 | 0.11% |
-| AT&T Enterprises, LLC | 87 | 0.11% |
 | China Telecom | 87 | 0.11% |
+| AT&T Enterprises, LLC | 87 | 0.11% |
 | MEVSPACE sp. z o.o. | 86 | 0.11% |
 | JSC ER-Telecom Holding | 85 | 0.11% |
 | Kprohost LLC | 83 | 0.10% |
 | YISU CLOUD LTD | 79 | 0.10% |
-| Global Connectivity Solutions Llp | 78 | 0.10% |
+| Tamatiya EOOD | 78 | 0.10% |

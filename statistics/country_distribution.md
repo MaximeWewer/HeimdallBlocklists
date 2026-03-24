@@ -55,35 +55,35 @@
 | Venezuela | 71 | 0.09% |
 | Chile | 69 | 0.09% |
 | Peru | 68 | 0.08% |
-| Moldova | 67 | 0.08% |
 | Morocco | 67 | 0.08% |
+| Moldova | 67 | 0.08% |
 | New Zealand | 65 | 0.08% |
-| Nepal | 59 | 0.07% |
 | Qatar | 59 | 0.07% |
+| Nepal | 59 | 0.07% |
 | Latvia | 54 | 0.07% |
 | Uzbekistan | 53 | 0.07% |
 | Czechia | 51 | 0.06% |
 | Tanzania | 48 | 0.06% |
 | Hungary | 48 | 0.06% |
-| Denmark | 47 | 0.06% |
-| Bolivia | 47 | 0.06% |
 | Ethiopia | 47 | 0.06% |
+| Bolivia | 47 | 0.06% |
+| Denmark | 47 | 0.06% |
 | Afghanistan | 45 | 0.06% |
 | Kenya | 44 | 0.05% |
-| Cambodia | 41 | 0.05% |
 | Vanuatu | 41 | 0.05% |
+| Cambodia | 41 | 0.05% |
 | Costa Rica | 40 | 0.05% |
 | Azerbaijan | 39 | 0.05% |
 | Saudi Arabia | 38 | 0.05% |
-| Dominican Republic | 36 | 0.04% |
 | Armenia | 36 | 0.04% |
+| Dominican Republic | 36 | 0.04% |
 | Panama | 34 | 0.04% |
 | Tunisia | 31 | 0.04% |
 | Algeria | 30 | 0.04% |
 | Luxembourg | 30 | 0.04% |
 | Serbia | 29 | 0.04% |
-| Mongolia | 28 | 0.03% |
 | Greece | 28 | 0.03% |
+| Mongolia | 28 | 0.03% |
 | Estonia | 26 | 0.03% |
 | Georgia | 24 | 0.03% |
 | Slovakia | 23 | 0.03% |
@@ -93,11 +93,11 @@
 | Uganda | 20 | 0.02% |
 | Angola | 19 | 0.02% |
 | Mozambique | 19 | 0.02% |
-| Kuwait | 18 | 0.02% |
 | Ghana | 18 | 0.02% |
-| Slovenia | 16 | 0.02% |
+| Kuwait | 18 | 0.02% |
 | Ecuador | 16 | 0.02% |
+| Slovenia | 16 | 0.02% |
 | Cyprus | 15 | 0.02% |
-| Oman | 14 | 0.02% |
+| Jordan | 14 | 0.02% |
 | Albania | 14 | 0.02% |
-| Myanmar | 14 | 0.02% |
+| Oman | 14 | 0.02% |
