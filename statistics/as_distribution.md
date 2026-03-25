@@ -44,8 +44,8 @@
 | VNPT Corp | 238 | 0.29% |
 | HUAWEI CLOUDS | 237 | 0.29% |
 | 1337 Services GmbH | 233 | 0.29% |
-| Rostelecom | 227 | 0.28% |
 | Omegatech LTD | 227 | 0.28% |
+| Rostelecom | 227 | 0.28% |
 | Sistemas Informaticos, S.A. | 224 | 0.28% |
 | Ghosty Networks LLC | 223 | 0.28% |
 | Zenlayer Inc | 219 | 0.27% |
@@ -56,8 +56,8 @@
 | Huawei Cloud Service data center | 178 | 0.22% |
 | Byteplus Pte. Ltd. | 176 | 0.22% |
 | Arbor Networks, Inc. | 173 | 0.21% |
-| Wind Tre S.p.A. | 172 | 0.21% |
 | UAB Host Baltic | 172 | 0.21% |
+| Wind Tre S.p.A. | 172 | 0.21% |
 | China Unicom Beijing Province Network | 169 | 0.21% |
 | UNINET | 168 | 0.21% |
 | Unmanaged Ltd | 163 | 0.20% |
@@ -65,8 +65,8 @@
 | TELEFONICA BRASIL S.A | 149 | 0.18% |
 | FranTech Solutions | 148 | 0.18% |
 | PT Telekomunikasi Indonesia | 147 | 0.18% |
-| M247 Europe SRL | 145 | 0.18% |
 | Unified Layer | 145 | 0.18% |
+| M247 Europe SRL | 145 | 0.18% |
 | National WiMAXIMS environment | 140 | 0.17% |
 | Charter Communications Inc | 138 | 0.17% |
 | Network Solutions, LLC | 137 | 0.17% |
@@ -75,25 +75,25 @@
 | CHINANET Guangdong province network | 131 | 0.16% |
 | Mobile Business Group | 129 | 0.16% |
 | Telia Company AB | 126 | 0.16% |
-| Cogent Communications, LLC | 124 | 0.15% |
 | Bharti Airtel Ltd., Telemedia Services | 124 | 0.15% |
+| Cogent Communications, LLC | 124 | 0.15% |
 | Turk Telekom | 121 | 0.15% |
 | LG DACOM Corporation | 119 | 0.15% |
-| Techoff Srv Limited | 115 | 0.14% |
 | Rethem Hosting LLC | 115 | 0.14% |
+| Techoff Srv Limited | 115 | 0.14% |
 | Censys, Inc. | 114 | 0.14% |
 | Verizon Business | 112 | 0.14% |
 | Contabo Inc. | 106 | 0.13% |
-| HKT Limited | 103 | 0.13% |
 | Cloudflare, Inc. | 103 | 0.13% |
+| HKT Limited | 103 | 0.13% |
 | Global-Data System IT Corporation | 101 | 0.13% |
 | PJSC MegaFon | 101 | 0.13% |
 | Netiface Limited | 100 | 0.12% |
 | CT-HangZhou-IDC | 96 | 0.12% |
-| Scaleway SAS | 91 | 0.11% |
 | Telstra Limited | 91 | 0.11% |
-| Cloud Computing Corporation | 90 | 0.11% |
+| Scaleway SAS | 91 | 0.11% |
 | Detai Prosperous Technologies Limited | 90 | 0.11% |
+| Cloud Computing Corporation | 90 | 0.11% |
 | MEVSPACE sp. z o.o. | 89 | 0.11% |
 | AT&T Enterprises, LLC | 88 | 0.11% |
 | China Telecom | 86 | 0.11% |
