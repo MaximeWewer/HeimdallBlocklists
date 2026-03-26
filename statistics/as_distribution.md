@@ -28,8 +28,8 @@
 | GSL Networks Pty LTD | 415 | 0.53% |
 | Viettel Group | 406 | 0.51% |
 | Clouvider Limited | 365 | 0.46% |
-| Data Communication Business Group | 351 | 0.44% |
 | National Internet Backbone | 351 | 0.44% |
+| Data Communication Business Group | 351 | 0.44% |
 | PT Cloud Hosting Indonesia | 343 | 0.43% |
 | China Mobile Communications Group Co., Ltd. | 335 | 0.42% |
 | Beijing Baidu Netcom Science and Technology Co., Ltd. | 328 | 0.42% |
@@ -85,10 +85,10 @@
 | Verizon Business | 112 | 0.14% |
 | Contabo Inc. | 105 | 0.13% |
 | HKT Limited | 104 | 0.13% |
-| Cloudflare, Inc. | 100 | 0.13% |
 | Netiface Limited | 100 | 0.13% |
-| PJSC MegaFon | 99 | 0.13% |
+| Cloudflare, Inc. | 100 | 0.13% |
 | Global-Data System IT Corporation | 99 | 0.13% |
+| PJSC MegaFon | 99 | 0.13% |
 | CT-HangZhou-IDC | 95 | 0.12% |
 | Scaleway SAS | 92 | 0.12% |
 | Cloud Computing Corporation | 91 | 0.12% |
