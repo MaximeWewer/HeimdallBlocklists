@@ -65,14 +65,14 @@
 | FranTech Solutions | 152 | 0.19% |
 | TELEFONICA BRASIL S.A | 148 | 0.19% |
 | Unified Layer | 146 | 0.18% |
-| PT Telekomunikasi Indonesia | 144 | 0.18% |
 | M247 Europe SRL | 144 | 0.18% |
+| PT Telekomunikasi Indonesia | 144 | 0.18% |
 | Charter Communications Inc | 140 | 0.18% |
 | Network Solutions, LLC | 140 | 0.18% |
 | SK Broadband Co Ltd | 139 | 0.17% |
-| CHINANET Guangdong province network | 132 | 0.17% |
-| Stiftung Erneuerbare Freiheit | 132 | 0.17% |
 | Mobile Business Group | 132 | 0.17% |
+| Stiftung Erneuerbare Freiheit | 132 | 0.17% |
+| CHINANET Guangdong province network | 132 | 0.17% |
 | National WiMAXIMS environment | 131 | 0.16% |
 | Bharti Airtel Ltd., Telemedia Services | 129 | 0.16% |
 | Telia Company AB | 127 | 0.16% |
@@ -92,10 +92,10 @@
 | CT-HangZhou-IDC | 96 | 0.12% |
 | Scaleway SAS | 92 | 0.12% |
 | Cloud Computing Corporation | 91 | 0.11% |
-| MEVSPACE sp. z o.o. | 90 | 0.11% |
 | Detai Prosperous Technologies Limited | 90 | 0.11% |
-| China Telecom | 89 | 0.11% |
+| MEVSPACE sp. z o.o. | 90 | 0.11% |
 | AT&T Enterprises, LLC | 89 | 0.11% |
+| China Telecom | 89 | 0.11% |
 | Telstra Limited | 88 | 0.11% |
 | Global Connectivity Solutions Llp | 87 | 0.11% |
 | Kprohost LLC | 86 | 0.11% |
