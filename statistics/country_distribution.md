@@ -64,16 +64,16 @@
 | Uzbekistan | 55 | 0.07% |
 | Latvia | 51 | 0.07% |
 | Bolivia | 49 | 0.06% |
-| Hungary | 48 | 0.06% |
 | Czechia | 48 | 0.06% |
+| Hungary | 48 | 0.06% |
 | Ethiopia | 47 | 0.06% |
 | Kenya | 46 | 0.06% |
 | Denmark | 46 | 0.06% |
 | Costa Rica | 44 | 0.06% |
 | Afghanistan | 44 | 0.06% |
 | Cambodia | 43 | 0.05% |
-| Vanuatu | 41 | 0.05% |
 | Algeria | 41 | 0.05% |
+| Vanuatu | 41 | 0.05% |
 | Tanzania | 39 | 0.05% |
 | Azerbaijan | 39 | 0.05% |
 | Saudi Arabia | 38 | 0.05% |
@@ -84,8 +84,8 @@
 | Serbia | 33 | 0.04% |
 | Greece | 31 | 0.04% |
 | Georgia | 26 | 0.03% |
-| Slovakia | 25 | 0.03% |
 | Mongolia | 25 | 0.03% |
+| Slovakia | 25 | 0.03% |
 | Paraguay | 24 | 0.03% |
 | Sri Lanka | 24 | 0.03% |
 | Estonia | 24 | 0.03% |
@@ -98,6 +98,6 @@
 | Kuwait | 18 | 0.02% |
 | Guatemala | 17 | 0.02% |
 | Cyprus | 17 | 0.02% |
-| Myanmar | 16 | 0.02% |
 | Jordan | 16 | 0.02% |
+| Myanmar | 16 | 0.02% |
 | Albania | 14 | 0.02% |

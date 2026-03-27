@@ -46,8 +46,8 @@
 | Omegatech LTD | 227 | 0.29% |
 | Sistemas Informaticos, S.A. | 224 | 0.29% |
 | Ghosty Networks LLC | 221 | 0.29% |
-| Rostelecom | 220 | 0.28% |
 | Zenlayer Inc | 220 | 0.28% |
+| Rostelecom | 220 | 0.28% |
 | Comcast Cable Communications, LLC | 216 | 0.28% |
 | Huawei Cloud Service data center | 210 | 0.27% |
 | China Mobile communications corporation | 206 | 0.27% |
@@ -57,16 +57,16 @@
 | Limited Network LTD | 177 | 0.23% |
 | UAB Host Baltic | 175 | 0.23% |
 | Byteplus Pte. Ltd. | 174 | 0.22% |
-| China Unicom Beijing Province Network | 173 | 0.22% |
 | Arbor Networks, Inc. | 173 | 0.22% |
+| China Unicom Beijing Province Network | 173 | 0.22% |
 | UNINET | 165 | 0.21% |
 | Unmanaged Ltd | 158 | 0.20% |
 | Unified Layer | 149 | 0.19% |
 | FranTech Solutions | 148 | 0.19% |
 | TELEFONICA BRASIL S.A | 146 | 0.19% |
 | M247 Europe SRL | 144 | 0.19% |
-| Wind Tre S.p.A. | 141 | 0.18% |
 | PT Telekomunikasi Indonesia | 141 | 0.18% |
+| Wind Tre S.p.A. | 141 | 0.18% |
 | Network Solutions, LLC | 140 | 0.18% |
 | SK Broadband Co Ltd | 139 | 0.18% |
 | Charter Communications Inc | 137 | 0.18% |
@@ -95,8 +95,8 @@
 | Detai Prosperous Technologies Limited | 90 | 0.12% |
 | China Telecom | 88 | 0.11% |
 | Global Connectivity Solutions Llp | 87 | 0.11% |
-| Kprohost LLC | 87 | 0.11% |
 | AT&T Enterprises, LLC | 87 | 0.11% |
+| Kprohost LLC | 87 | 0.11% |
 | Telstra Limited | 86 | 0.11% |
 | MEVSPACE sp. z o.o. | 85 | 0.11% |
 | JSC ER-Telecom Holding | 84 | 0.11% |
