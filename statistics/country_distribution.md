@@ -32,8 +32,8 @@
 | Seychelles | 360 | 0.46% |
 | Poland | 349 | 0.44% |
 | Ukraine | 341 | 0.43% |
-| Iran | 339 | 0.43% |
 | Argentina | 339 | 0.43% |
+| Iran | 339 | 0.43% |
 | Finland | 306 | 0.39% |
 | Mexico | 304 | 0.39% |
 | Colombia | 281 | 0.36% |
@@ -67,16 +67,16 @@
 | Czechia | 48 | 0.06% |
 | Hungary | 48 | 0.06% |
 | Ethiopia | 47 | 0.06% |
-| Denmark | 46 | 0.06% |
 | Kenya | 46 | 0.06% |
+| Denmark | 46 | 0.06% |
 | Costa Rica | 45 | 0.06% |
-| Cambodia | 44 | 0.06% |
 | Afghanistan | 44 | 0.06% |
+| Cambodia | 44 | 0.06% |
 | Algeria | 43 | 0.05% |
 | Vanuatu | 41 | 0.05% |
 | Tanzania | 39 | 0.05% |
-| Azerbaijan | 39 | 0.05% |
 | Armenia | 39 | 0.05% |
+| Azerbaijan | 39 | 0.05% |
 | Saudi Arabia | 38 | 0.05% |
 | Dominican Republic | 37 | 0.05% |
 | Panama | 37 | 0.05% |
@@ -87,12 +87,12 @@
 | Mongolia | 26 | 0.03% |
 | Slovakia | 25 | 0.03% |
 | Estonia | 24 | 0.03% |
-| Sri Lanka | 24 | 0.03% |
 | Paraguay | 24 | 0.03% |
-| Senegal | 22 | 0.03% |
+| Sri Lanka | 24 | 0.03% |
 | Ecuador | 22 | 0.03% |
-| Uganda | 21 | 0.03% |
+| Senegal | 22 | 0.03% |
 | Angola | 21 | 0.03% |
+| Uganda | 21 | 0.03% |
 | Ghana | 20 | 0.03% |
 | Mozambique | 19 | 0.02% |
 | Kuwait | 18 | 0.02% |
@@ -100,4 +100,4 @@
 | Guatemala | 17 | 0.02% |
 | Jordan | 17 | 0.02% |
 | Myanmar | 16 | 0.02% |
-| Albania | 14 | 0.02% |
+| Oman | 14 | 0.02% |
