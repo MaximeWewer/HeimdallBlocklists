@@ -24,8 +24,8 @@
 | Cyber Internet Services Pvt Ltd. | 523 | 0.68% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 487 | 0.63% |
 | Shenzhen Tencent Computer Systems Company Limited | 439 | 0.57% |
-| GSL Networks Pty LTD | 412 | 0.54% |
 | Viettel Group | 412 | 0.54% |
+| GSL Networks Pty LTD | 412 | 0.54% |
 | F.n.s. Holdings Limited | 406 | 0.53% |
 | Data Communication Business Group | 392 | 0.51% |
 | China Mobile Communications Group Co., Ltd. | 361 | 0.47% |
@@ -53,14 +53,14 @@
 | Huawei Cloud Service data center | 210 | 0.27% |
 | The Constant Company, LLC | 197 | 0.26% |
 | Limited Network LTD | 179 | 0.23% |
-| China Unicom Beijing Province Network | 175 | 0.23% |
 | UAB Host Baltic | 175 | 0.23% |
+| China Unicom Beijing Province Network | 175 | 0.23% |
 | Arbor Networks, Inc. | 173 | 0.23% |
 | Latitude.sh | 172 | 0.22% |
 | Byteplus Pte. Ltd. | 170 | 0.22% |
 | HUAWEI CLOUDS | 166 | 0.22% |
-| Unmanaged Ltd | 162 | 0.21% |
 | UNINET | 162 | 0.21% |
+| Unmanaged Ltd | 162 | 0.21% |
 | M247 Europe SRL | 153 | 0.20% |
 | FranTech Solutions | 150 | 0.20% |
 | TELEFONICA BRASIL S.A | 147 | 0.19% |
@@ -70,8 +70,8 @@
 | Charter Communications Inc | 138 | 0.18% |
 | Mobile Business Group | 135 | 0.18% |
 | Stiftung Erneuerbare Freiheit | 134 | 0.17% |
-| CHINANET Guangdong province network | 132 | 0.17% |
 | Cogent Communications, LLC | 132 | 0.17% |
+| CHINANET Guangdong province network | 132 | 0.17% |
 | Telia Company AB | 129 | 0.17% |
 | National WiMAXIMS environment | 127 | 0.17% |
 | Wind Tre S.p.A. | 126 | 0.16% |
@@ -93,8 +93,8 @@
 | AT&T Enterprises, LLC | 91 | 0.12% |
 | Detai Prosperous Technologies Limited | 90 | 0.12% |
 | Cloud Computing Corporation | 90 | 0.12% |
-| Global Connectivity Solutions Llp | 87 | 0.11% |
 | China Telecom | 87 | 0.11% |
+| Global Connectivity Solutions Llp | 87 | 0.11% |
 | Unified Layer | 86 | 0.11% |
 | Kprohost LLC | 85 | 0.11% |
 | Telstra Limited | 83 | 0.11% |
