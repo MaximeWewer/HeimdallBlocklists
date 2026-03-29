@@ -1,6 +1,6 @@
 # Blocklists Statistics
 | Blocklist Name | IP Count |
 |----|----|
-| all_blocklists_merged.txt | 76272 |
-| prod_data-shield_ipv4_blocklist.txt | 74724 |
+| all_blocklists_merged.txt | 76088 |
+| prod_data-shield_ipv4_blocklist.txt | 74540 |
 | spamhaus_drop.txt | 1548 |
