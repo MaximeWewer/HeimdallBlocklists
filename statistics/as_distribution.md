@@ -1,103 +1,103 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DigitalOcean, LLC | 17918 | 23.34% |
-| Microsoft Corporation | 3909 | 5.09% |
-| Alibaba US Technology Co., Ltd. | 3061 | 3.99% |
-| Google LLC | 2070 | 2.70% |
-| Amazon.com, Inc. | 1739 | 2.27% |
-| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1574 | 2.05% |
-| Chinanet | 1486 | 1.94% |
-| CHINA UNICOM China169 Backbone | 1207 | 1.57% |
-| ONYPHE SAS | 1008 | 1.31% |
-| Korea Telecom | 1000 | 1.30% |
-| Hurricane Electric LLC | 985 | 1.28% |
-| Akamai Connected Cloud | 914 | 1.19% |
-| Driftnet Ltd | 757 | 0.99% |
-| Oracle Corporation | 700 | 0.91% |
-| Contabo GmbH | 688 | 0.90% |
-| BHARTI Airtel Ltd. | 663 | 0.86% |
-| China Telecom Group | 650 | 0.85% |
-| Tencent Building, Kejizhongyi Avenue | 631 | 0.82% |
-| Hetzner Online GmbH | 574 | 0.75% |
-| OVH SAS | 568 | 0.74% |
-| Cyber Internet Services Pvt Ltd. | 546 | 0.71% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 491 | 0.64% |
-| Shenzhen Tencent Computer Systems Company Limited | 441 | 0.57% |
-| Viettel Group | 419 | 0.55% |
-| F.n.s. Holdings Limited | 410 | 0.53% |
-| Data Communication Business Group | 407 | 0.53% |
-| GSL Networks Pty LTD | 404 | 0.53% |
-| China Mobile Communications Group Co., Ltd. | 383 | 0.50% |
-| National Internet Backbone | 358 | 0.47% |
-| DiGi Telecommunications Sdn. Bhd. | 341 | 0.44% |
-| PT Cloud Hosting Indonesia | 339 | 0.44% |
-| Beijing Baidu Netcom Science and Technology Co., Ltd. | 331 | 0.43% |
-| Clouvider Limited | 323 | 0.42% |
-| Pfcloud UG (haftungsbeschrankt) | 317 | 0.41% |
-| HostPapa | 302 | 0.39% |
-| Beijing Volcano Engine Technology Co., Ltd. | 286 | 0.37% |
-| Viettel Corporation | 285 | 0.37% |
-| IONOS SE | 266 | 0.35% |
-| Alpha Strike Labs GmbH | 245 | 0.32% |
-| 1337 Services GmbH | 241 | 0.31% |
-| VNPT Corp | 238 | 0.31% |
-| Datacamp Limited | 237 | 0.31% |
-| Omegatech LTD | 234 | 0.30% |
-| Sistemas Informaticos, S.A. | 226 | 0.29% |
-| Comcast Cable Communications, LLC | 226 | 0.29% |
-| Ghosty Networks LLC | 223 | 0.29% |
-| Huawei Cloud Service data center | 223 | 0.29% |
-| China Mobile communications corporation | 221 | 0.29% |
-| Rostelecom | 220 | 0.29% |
-| Zenlayer Inc | 217 | 0.28% |
-| The Constant Company, LLC | 196 | 0.26% |
-| Latitude.sh | 189 | 0.25% |
-| Arbor Networks, Inc. | 187 | 0.24% |
-| China Unicom Beijing Province Network | 182 | 0.24% |
-| Limited Network LTD | 180 | 0.23% |
+| DigitalOcean, LLC | 17096 | 22.79% |
+| Microsoft Corporation | 3877 | 5.17% |
+| Alibaba US Technology Co., Ltd. | 3052 | 4.07% |
+| Google LLC | 2006 | 2.67% |
+| Amazon.com, Inc. | 1699 | 2.26% |
+| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1568 | 2.09% |
+| Chinanet | 1450 | 1.93% |
+| CHINA UNICOM China169 Backbone | 1178 | 1.57% |
+| ONYPHE SAS | 1008 | 1.34% |
+| Korea Telecom | 985 | 1.31% |
+| Hurricane Electric LLC | 985 | 1.31% |
+| Akamai Connected Cloud | 916 | 1.22% |
+| Driftnet Ltd | 757 | 1.01% |
+| Oracle Corporation | 696 | 0.93% |
+| Contabo GmbH | 681 | 0.91% |
+| BHARTI Airtel Ltd. | 660 | 0.88% |
+| China Telecom Group | 642 | 0.86% |
+| Tencent Building, Kejizhongyi Avenue | 635 | 0.85% |
+| Hetzner Online GmbH | 557 | 0.74% |
+| OVH SAS | 552 | 0.74% |
+| Cyber Internet Services Pvt Ltd. | 498 | 0.66% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 470 | 0.63% |
+| Shenzhen Tencent Computer Systems Company Limited | 436 | 0.58% |
+| Viettel Group | 417 | 0.56% |
+| Data Communication Business Group | 404 | 0.54% |
+| F.n.s. Holdings Limited | 395 | 0.53% |
+| GSL Networks Pty LTD | 394 | 0.53% |
+| China Mobile Communications Group Co., Ltd. | 380 | 0.51% |
+| National Internet Backbone | 349 | 0.47% |
+| DiGi Telecommunications Sdn. Bhd. | 339 | 0.45% |
+| PT Cloud Hosting Indonesia | 338 | 0.45% |
+| Beijing Baidu Netcom Science and Technology Co., Ltd. | 326 | 0.43% |
+| Pfcloud UG (haftungsbeschrankt) | 307 | 0.41% |
+| Clouvider Limited | 297 | 0.40% |
+| HostPapa | 296 | 0.39% |
+| Beijing Volcano Engine Technology Co., Ltd. | 290 | 0.39% |
+| Viettel Corporation | 280 | 0.37% |
+| IONOS SE | 264 | 0.35% |
+| Alpha Strike Labs GmbH | 238 | 0.32% |
+| 1337 Services GmbH | 238 | 0.32% |
+| Datacamp Limited | 232 | 0.31% |
+| Omegatech LTD | 232 | 0.31% |
+| Sistemas Informaticos, S.A. | 226 | 0.30% |
+| VNPT Corp | 225 | 0.30% |
+| Huawei Cloud Service data center | 224 | 0.30% |
+| Comcast Cable Communications, LLC | 223 | 0.30% |
+| Ghosty Networks LLC | 220 | 0.29% |
+| China Mobile communications corporation | 220 | 0.29% |
+| Zenlayer Inc | 217 | 0.29% |
+| Rostelecom | 214 | 0.29% |
+| The Constant Company, LLC | 198 | 0.26% |
+| Latitude.sh | 194 | 0.26% |
+| Arbor Networks, Inc. | 184 | 0.25% |
+| Limited Network LTD | 180 | 0.24% |
+| China Unicom Beijing Province Network | 180 | 0.24% |
 | UAB Host Baltic | 174 | 0.23% |
-| Byteplus Pte. Ltd. | 170 | 0.22% |
-| UNINET | 168 | 0.22% |
+| Byteplus Pte. Ltd. | 170 | 0.23% |
 | Unmanaged Ltd | 168 | 0.22% |
-| HUAWEI CLOUDS | 159 | 0.21% |
-| FranTech Solutions | 152 | 0.20% |
-| M247 Europe SRL | 152 | 0.20% |
-| TELEFONICA BRASIL S.A | 147 | 0.19% |
-| SK Broadband Co Ltd | 145 | 0.19% |
-| Telia Company AB | 141 | 0.18% |
-| Network Solutions, LLC | 141 | 0.18% |
-| PT Telekomunikasi Indonesia | 140 | 0.18% |
-| Cogent Communications, LLC | 136 | 0.18% |
-| Charter Communications Inc | 134 | 0.17% |
-| Stiftung Erneuerbare Freiheit | 134 | 0.17% |
-| Mobile Business Group | 133 | 0.17% |
-| CHINANET Guangdong province network | 133 | 0.17% |
+| UNINET | 163 | 0.22% |
+| HUAWEI CLOUDS | 156 | 0.21% |
+| FranTech Solutions | 148 | 0.20% |
+| TELEFONICA BRASIL S.A | 147 | 0.20% |
+| M247 Europe SRL | 147 | 0.20% |
+| Telia Company AB | 145 | 0.19% |
+| SK Broadband Co Ltd | 143 | 0.19% |
+| PT Telekomunikasi Indonesia | 138 | 0.18% |
+| Network Solutions, LLC | 137 | 0.18% |
+| CHINANET Guangdong province network | 134 | 0.18% |
+| Cogent Communications, LLC | 134 | 0.18% |
+| Mobile Business Group | 133 | 0.18% |
+| Stiftung Erneuerbare Freiheit | 133 | 0.18% |
+| Charter Communications Inc | 132 | 0.18% |
 | Bharti Airtel Ltd., Telemedia Services | 129 | 0.17% |
-| National WiMAXIMS environment | 127 | 0.17% |
-| Turk Telekom | 119 | 0.16% |
-| Verizon Business | 118 | 0.15% |
-| Wind Tre S.p.A. | 116 | 0.15% |
-| HKT Limited | 116 | 0.15% |
-| Techoff Srv Limited | 115 | 0.15% |
+| HKT Limited | 115 | 0.15% |
 | Rethem Hosting LLC | 115 | 0.15% |
-| LG DACOM Corporation | 115 | 0.15% |
+| Verizon Business | 115 | 0.15% |
+| Techoff Srv Limited | 115 | 0.15% |
 | Censys, Inc. | 114 | 0.15% |
-| Contabo Inc. | 105 | 0.14% |
-| Cloudflare, Inc. | 105 | 0.14% |
+| LG DACOM Corporation | 114 | 0.15% |
+| Turk Telekom | 114 | 0.15% |
+| National WiMAXIMS environment | 110 | 0.15% |
+| Wind Tre S.p.A. | 105 | 0.14% |
+| Contabo Inc. | 102 | 0.14% |
 | Netiface Limited | 100 | 0.13% |
-| Global-Data System IT Corporation | 98 | 0.13% |
-| PJSC MegaFon | 97 | 0.13% |
-| AT&T Enterprises, LLC | 94 | 0.12% |
-| Scaleway SAS | 94 | 0.12% |
+| Cloudflare, Inc. | 100 | 0.13% |
+| Global-Data System IT Corporation | 96 | 0.13% |
+| PJSC MegaFon | 95 | 0.13% |
+| AT&T Enterprises, LLC | 92 | 0.12% |
 | CT-HangZhou-IDC | 92 | 0.12% |
 | Cloud Computing Corporation | 91 | 0.12% |
+| Scaleway SAS | 91 | 0.12% |
 | Detai Prosperous Technologies Limited | 90 | 0.12% |
-| Unified Layer | 87 | 0.11% |
-| Global Connectivity Solutions Llp | 87 | 0.11% |
 | China Telecom | 86 | 0.11% |
-| Kprohost LLC | 85 | 0.11% |
+| Unified Layer | 86 | 0.11% |
+| Global Connectivity Solutions Llp | 85 | 0.11% |
 | JSC ER-Telecom Holding | 83 | 0.11% |
-| Telstra Limited | 83 | 0.11% |
-| MEVSPACE sp. z o.o. | 82 | 0.11% |
-| YISU CLOUD LTD | 80 | 0.10% |
+| Kprohost LLC | 82 | 0.11% |
+| Telstra Limited | 82 | 0.11% |
+| MEVSPACE sp. z o.o. | 81 | 0.11% |
+| Cloud Host Pte Ltd | 79 | 0.11% |
