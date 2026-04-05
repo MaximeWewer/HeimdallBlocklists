@@ -1,61 +1,61 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DigitalOcean, LLC | 14685 | 17.87% |
-| Alibaba US Technology Co., Ltd. | 4345 | 5.29% |
-| Microsoft Corporation | 4174 | 5.08% |
-| Google LLC | 2338 | 2.85% |
-| Amazon.com, Inc. | 1908 | 2.32% |
-| Chinanet | 1861 | 2.27% |
-| CHINA UNICOM China169 Backbone | 1755 | 2.14% |
-| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1582 | 1.93% |
-| Cyber Internet Services Pvt Ltd. | 1124 | 1.37% |
-| Korea Telecom | 1118 | 1.36% |
+| DigitalOcean, LLC | 14690 | 17.86% |
+| Alibaba US Technology Co., Ltd. | 4360 | 5.30% |
+| Microsoft Corporation | 4179 | 5.08% |
+| Google LLC | 2338 | 2.84% |
+| Amazon.com, Inc. | 1909 | 2.32% |
+| Chinanet | 1863 | 2.27% |
+| CHINA UNICOM China169 Backbone | 1760 | 2.14% |
+| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 1582 | 1.92% |
+| Cyber Internet Services Pvt Ltd. | 1128 | 1.37% |
+| Korea Telecom | 1120 | 1.36% |
 | ONYPHE SAS | 1010 | 1.23% |
 | Akamai Connected Cloud | 994 | 1.21% |
 | Hurricane Electric LLC | 987 | 1.20% |
-| Oracle Corporation | 815 | 0.99% |
-| Contabo GmbH | 767 | 0.93% |
+| Oracle Corporation | 817 | 0.99% |
+| Contabo GmbH | 769 | 0.94% |
 | Driftnet Ltd | 757 | 0.92% |
 | BHARTI Airtel Ltd. | 672 | 0.82% |
-| Tencent Building, Kejizhongyi Avenue | 670 | 0.82% |
+| Tencent Building, Kejizhongyi Avenue | 670 | 0.81% |
 | China Telecom Group | 661 | 0.80% |
 | Hangzhou Alibaba Advertising Co.,Ltd. | 655 | 0.80% |
-| OVH SAS | 651 | 0.79% |
-| Hetzner Online GmbH | 621 | 0.76% |
+| OVH SAS | 652 | 0.79% |
+| Hetzner Online GmbH | 622 | 0.76% |
 | GSL Networks Pty LTD | 510 | 0.62% |
 | Data Communication Business Group | 505 | 0.61% |
 | Clouvider Limited | 500 | 0.61% |
 | Shenzhen Tencent Computer Systems Company Limited | 486 | 0.59% |
 | Viettel Group | 470 | 0.57% |
 | China Mobile Communications Group Co., Ltd. | 451 | 0.55% |
-| F.n.s. Holdings Limited | 395 | 0.48% |
-| National Internet Backbone | 371 | 0.45% |
+| F.n.s. Holdings Limited | 397 | 0.48% |
+| National Internet Backbone | 372 | 0.45% |
 | Beijing Baidu Netcom Science and Technology Co., Ltd. | 360 | 0.44% |
-| Latitude.sh | 354 | 0.43% |
+| Latitude.sh | 355 | 0.43% |
 | DiGi Telecommunications Sdn. Bhd. | 340 | 0.41% |
 | PT Cloud Hosting Indonesia | 336 | 0.41% |
 | Pfcloud UG (haftungsbeschrankt) | 329 | 0.40% |
 | Beijing Volcano Engine Technology Co., Ltd. | 327 | 0.40% |
-| HostPapa | 325 | 0.40% |
-| Viettel Corporation | 311 | 0.38% |
-| Huawei Cloud Service data center | 295 | 0.36% |
-| IONOS SE | 283 | 0.34% |
-| Datacamp Limited | 275 | 0.33% |
+| HostPapa | 326 | 0.40% |
+| Viettel Corporation | 313 | 0.38% |
+| Huawei Cloud Service data center | 296 | 0.36% |
+| IONOS SE | 285 | 0.35% |
+| Datacamp Limited | 276 | 0.34% |
 | 1337 Services GmbH | 269 | 0.33% |
-| China Mobile communications corporation | 259 | 0.32% |
-| Comcast Cable Communications, LLC | 257 | 0.31% |
+| China Mobile communications corporation | 259 | 0.31% |
+| Comcast Cable Communications, LLC | 258 | 0.31% |
 | Alpha Strike Labs GmbH | 253 | 0.31% |
 | Omegatech LTD | 252 | 0.31% |
-| Rostelecom | 247 | 0.30% |
+| Rostelecom | 248 | 0.30% |
 | Ghosty Networks LLC | 236 | 0.29% |
-| VNPT Corp | 226 | 0.28% |
-| Sistemas Informaticos, S.A. | 226 | 0.28% |
+| VNPT Corp | 226 | 0.27% |
+| Sistemas Informaticos, S.A. | 226 | 0.27% |
 | Zenlayer Inc | 225 | 0.27% |
 | Arbor Networks, Inc. | 218 | 0.27% |
 | The Constant Company, LLC | 210 | 0.26% |
 | China Unicom Beijing Province Network | 209 | 0.25% |
-| UAB Host Baltic | 206 | 0.25% |
+| UAB Host Baltic | 207 | 0.25% |
 | M247 Europe SRL | 200 | 0.24% |
 | Unmanaged Ltd | 190 | 0.23% |
 | Limited Network LTD | 187 | 0.23% |
@@ -66,7 +66,7 @@
 | National WiMAXIMS environment | 161 | 0.20% |
 | Cogent Communications, LLC | 159 | 0.19% |
 | SK Broadband Co Ltd | 159 | 0.19% |
-| TELEFONICA BRASIL S.A | 152 | 0.19% |
+| TELEFONICA BRASIL S.A | 152 | 0.18% |
 | Charter Communications Inc | 149 | 0.18% |
 | HUAWEI CLOUDS | 141 | 0.17% |
 | Bharti Airtel Ltd., Telemedia Services | 141 | 0.17% |
