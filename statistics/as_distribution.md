@@ -44,9 +44,9 @@
 | Datacamp Limited | 282 | 0.35% |
 | 1337 Services GmbH | 269 | 0.34% |
 | Comcast Cable Communications, LLC | 256 | 0.32% |
+| Alpha Strike Labs GmbH | 254 | 0.32% |
 | Omegatech LTD | 254 | 0.32% |
 | China Mobile communications corporation | 254 | 0.32% |
-| Alpha Strike Labs GmbH | 254 | 0.32% |
 | Rostelecom | 243 | 0.30% |
 | Ghosty Networks LLC | 235 | 0.29% |
 | Sistemas Informaticos, S.A. | 226 | 0.28% |
@@ -73,8 +73,8 @@
 | Mobile Business Group | 131 | 0.16% |
 | Verizon Business | 131 | 0.16% |
 | National WiMAXIMS environment | 130 | 0.16% |
-| Techoff Srv Limited | 129 | 0.16% |
 | HUAWEI CLOUDS | 129 | 0.16% |
+| Techoff Srv Limited | 129 | 0.16% |
 | HKT Limited | 128 | 0.16% |
 | Cloudflare, Inc. | 122 | 0.15% |
 | Turk Telekom | 120 | 0.15% |
@@ -88,12 +88,12 @@
 | VIETNAM POSTS AND TELECOMMUNICATIONS GROUP | 101 | 0.13% |
 | Global Connectivity Solutions Llp | 100 | 0.13% |
 | China Telecom | 99 | 0.12% |
-| Scaleway SAS | 98 | 0.12% |
 | China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch | 98 | 0.12% |
+| Scaleway SAS | 98 | 0.12% |
 | Telia Company AB | 97 | 0.12% |
-| LG HelloVision Corp. | 96 | 0.12% |
 | Netiface Limited | 96 | 0.12% |
 | Global-Data System IT Corporation | 96 | 0.12% |
+| LG HelloVision Corp. | 96 | 0.12% |
 | Kprohost LLC | 92 | 0.12% |
 | Telstra Limited | 92 | 0.12% |
 | Detai Prosperous Technologies Limited | 90 | 0.11% |
