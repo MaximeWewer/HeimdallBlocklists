@@ -10,5 +10,13 @@
     {
         "github_url": "https://github.com/romainmarcoux/malicious-ip/tree/main/sources",
         "merge_prefix": "romainmarcoux"
+    },
+    {
+        "url": "https://rules.emergingthreats.net/blockrules/compromised-ips.txt",
+        "filename": "emergingthreats_compromised-ips.txt"
+    },
+    {
+        "url": "https://check.torproject.org/torbulkexitlist",
+        "filename": "tor_exit-nodes.txt"
     }
 ]
