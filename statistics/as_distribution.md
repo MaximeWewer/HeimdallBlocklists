@@ -1,35 +1,35 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| DigitalOcean, LLC | 136355 | 22.93% |
-| Chinanet | 25659 | 4.31% |
-| Google LLC | 21874 | 3.68% |
-| CHINA UNICOM China169 Backbone | 17170 | 2.89% |
-| Microsoft Corporation | 12197 | 2.05% |
-| Alibaba US Technology Co., Ltd. | 10667 | 1.79% |
+| DigitalOcean, LLC | 136367 | 22.92% |
+| Chinanet | 25668 | 4.31% |
+| Google LLC | 21886 | 3.68% |
+| CHINA UNICOM China169 Backbone | 17175 | 2.89% |
+| Microsoft Corporation | 12329 | 2.07% |
+| Alibaba US Technology Co., Ltd. | 10677 | 1.79% |
 | F.n.s. Holdings Limited | 9382 | 1.58% |
-| Amazon.com, Inc. | 8447 | 1.42% |
-| MEGASURF-WIRELESS-INTERNET | 6053 | 1.02% |
+| Amazon.com, Inc. | 8453 | 1.42% |
+| MEGASURF-WIRELESS-INTERNET | 6054 | 1.02% |
 | Akamai Connected Cloud | 5288 | 0.89% |
-| Cyber Internet Services Pvt Ltd. | 5001 | 0.84% |
+| Cyber Internet Services Pvt Ltd. | 5000 | 0.84% |
 | Byteplus Pte. Ltd. | 3941 | 0.66% |
-| Contabo GmbH | 3935 | 0.66% |
-| Tencent Building, Kejizhongyi Avenue | 3872 | 0.65% |
-| UNINET | 3774 | 0.63% |
-| Korea Telecom | 3761 | 0.63% |
-| Datacamp Limited | 3659 | 0.62% |
+| Contabo GmbH | 3938 | 0.66% |
+| Tencent Building, Kejizhongyi Avenue | 3873 | 0.65% |
+| UNINET | 3777 | 0.63% |
+| Korea Telecom | 3762 | 0.63% |
+| Datacamp Limited | 3659 | 0.61% |
 | China Mobile Communications Group Co., Ltd. | 3364 | 0.57% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 3350 | 0.56% |
-| Hetzner Online GmbH | 3261 | 0.55% |
-| Clouvider Limited | 3194 | 0.54% |
-| Oracle Corporation | 3064 | 0.52% |
-| OVH SAS | 3041 | 0.51% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 3352 | 0.56% |
+| Hetzner Online GmbH | 3262 | 0.55% |
+| Clouvider Limited | 3197 | 0.54% |
+| Oracle Corporation | 3065 | 0.52% |
+| OVH SAS | 3042 | 0.51% |
 | Wind Tre S.p.A. | 3021 | 0.51% |
 | Leaseweb USA, Inc. | 2922 | 0.49% |
 | GSL Networks Pty LTD | 2910 | 0.49% |
-| Data Communication Business Group | 2754 | 0.46% |
-| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 2588 | 0.44% |
-| JSC ER-Telecom Holding | 2528 | 0.43% |
+| Data Communication Business Group | 2755 | 0.46% |
+| UCLOUD INFORMATION TECHNOLOGY HK LIMITED | 2588 | 0.43% |
+| JSC ER-Telecom Holding | 2529 | 0.43% |
 | Viettel Group | 2503 | 0.42% |
 | TELEFONICA BRASIL S.A | 2364 | 0.40% |
 | Deutsche Telekom AG | 2349 | 0.39% |
@@ -37,7 +37,7 @@
 | Claro NXT Telecomunicacoes Ltda | 2230 | 0.37% |
 | VNPT Corp | 2071 | 0.35% |
 | China Mobile communications corporation | 2002 | 0.34% |
-| Space Exploration Technologies Corporation | 1946 | 0.33% |
+| Space Exploration Technologies Corporation | 1947 | 0.33% |
 | Uzbektelekom Joint Stock Company | 1932 | 0.32% |
 | Comcast Cable Communications, LLC | 1894 | 0.32% |
 | China Telecom Group | 1824 | 0.31% |
@@ -48,11 +48,11 @@
 | Vodafone GmbH | 1598 | 0.27% |
 | HostPapa | 1596 | 0.27% |
 | Hydra Communications Ltd | 1450 | 0.24% |
-| National Internet Backbone | 1443 | 0.24% |
+| National Internet Backbone | 1444 | 0.24% |
 | Censys, Inc. | 1418 | 0.24% |
 | Charter Communications Inc | 1412 | 0.24% |
-| Verizon Business | 1403 | 0.24% |
-| Telecom Argentina S.A. | 1388 | 0.23% |
+| Verizon Business | 1404 | 0.24% |
+| Telecom Argentina S.A. | 1389 | 0.23% |
 | Cloudflare, Inc. | 1381 | 0.23% |
 | IONOS SE | 1327 | 0.22% |
 | TOT Public Company Limited | 1303 | 0.22% |
@@ -68,7 +68,7 @@
 | ONYPHE SAS | 1072 | 0.18% |
 | High Speed For Internet Services L.L.C | 1058 | 0.18% |
 | Turk Telekom | 1033 | 0.17% |
-| The Constant Company, LLC | 1020 | 0.17% |
+| The Constant Company, LLC | 1021 | 0.17% |
 | Hurricane Electric LLC | 1015 | 0.17% |
 | Driftnet Ltd | 1011 | 0.17% |
 | Alpha Strike Labs GmbH | 1006 | 0.17% |
@@ -81,7 +81,7 @@
 | Zenlayer Inc | 936 | 0.16% |
 | Huawei Cloud Service data center | 897 | 0.15% |
 | TM TECHNOLOGY SERVICES SDN. BHD. | 896 | 0.15% |
-| Orange | 892 | 0.15% |
+| Orange | 893 | 0.15% |
 | AT&T Enterprises, LLC | 887 | 0.15% |
 | V tal | 861 | 0.14% |
 | GoDaddy.com, LLC | 847 | 0.14% |
@@ -90,14 +90,14 @@
 | 1337 Services GmbH | 832 | 0.14% |
 | Cox Communications Inc. | 822 | 0.14% |
 | Radio Service Ltd. | 814 | 0.14% |
-| China Unicom Guangzhou network | 795 | 0.13% |
+| China Unicom Guangzhou network | 796 | 0.13% |
 | Internet Measurement Research | 789 | 0.13% |
 | Hathway IP Over Cable Internet | 750 | 0.13% |
 | Telecentro S.A. | 749 | 0.13% |
 | TIM | 748 | 0.13% |
 | British Telecommunications PLC | 713 | 0.12% |
 | Ghosty Networks LLC | 712 | 0.12% |
-| RouterHosting LLC | 701 | 0.12% |
-| COOPERATIVA DE ELECTRICIDAD DE PEDRO LURO | 667 | 0.11% |
+| RouterHosting LLC | 702 | 0.12% |
+| COOPERATIVA DE ELECTRICIDAD DE PEDRO LURO | 668 | 0.11% |
 | NTT DOCOMO BUSINESS,Inc. | 662 | 0.11% |
-| MT-MPLS | 656 | 0.11% |
+| TE Data | 656 | 0.11% |
