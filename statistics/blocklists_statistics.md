@@ -1,21 +1,21 @@
 # Blocklists Statistics
 | Blocklist Name | IP Count |
 |----|----|
-| all_blocklists_merged.txt | 668151 |
-| romainmarcoux_abuseipdb-s100-120d.txt | 280151 |
-| romainmarcoux_malicious-ip.txt | 210364 |
-| romainmarcoux_sekio.txt | 186988 |
+| all_blocklists_merged.txt | 668806 |
+| romainmarcoux_abuseipdb-s100-120d.txt | 280679 |
+| romainmarcoux_malicious-ip.txt | 210691 |
+| romainmarcoux_sekio.txt | 187252 |
 | romainmarcoux_isc.sans.edu.txt | 174895 |
-| romainmarcoux_cinsscore.com.txt | 137191 |
-| romainmarcoux_blocklist.de-all.txt | 111063 |
+| romainmarcoux_cinsscore.com.txt | 137439 |
+| romainmarcoux_blocklist.de-all.txt | 111272 |
 | romainmarcoux_stamparm.txt | 106745 |
-| prod_data-shield_ipv4_blocklist.txt | 80223 |
-| romainmarcoux_greensnow.co.txt | 17161 |
-| romainmarcoux_nxdomain.no.txt | 12950 |
+| prod_data-shield_ipv4_blocklist.txt | 80567 |
+| romainmarcoux_greensnow.co.txt | 17217 |
+| romainmarcoux_nxdomain.no.txt | 12952 |
 | romainmarcoux_binarydefense.com.txt | 7072 |
-| romainmarcoux_alienvault-ssh-bruteforce.txt | 5964 |
+| romainmarcoux_alienvault-ssh-bruteforce.txt | 5944 |
 | spamhaus_drop.txt | 1689 |
-| tor_exit-nodes.txt | 1548 |
+| tor_exit-nodes.txt | 1546 |
 | romainmarcoux_snort.org.txt | 1528 |
 | romainmarcoux_emergingthreats.net.txt | 1210 |
 | romainmarcoux_projecthoneypot.org.txt | 1098 |
