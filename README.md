@@ -50,7 +50,6 @@ https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/romainmarcoux_snort.org.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/romainmarcoux_stamparm.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/spamhaus_drop.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists/tor_exit-nodes.txt
 ```
 
 Here are the URLs for the split versions:
@@ -81,7 +80,6 @@ https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_snort.org-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/romainmarcoux_stamparm-aa.txt
 https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/spamhaus_drop-aa.txt
-https://raw.githubusercontent.com/MaximeWewer/HeimdallBlocklists/main/blocklists_split/tor_exit-nodes-aa.txt
 ```
 
 ## Contributions
