@@ -1,103 +1,103 @@
 # Top 100 AS Distribution
 | AS | Count | Percentage |
 |----|----|----|
-| Google LLC | 75035 | 9.43% |
-| DigitalOcean, LLC | 55113 | 6.93% |
-| Chinanet | 33044 | 4.15% |
-| CHINA UNICOM China169 Backbone | 25836 | 3.25% |
-| Microsoft Corporation | 18654 | 2.34% |
-| Amazon.com, Inc. | 13966 | 1.76% |
-| Alibaba (US) Technology Co., Ltd. | 9965 | 1.25% |
-| F.n.s. Holdings Limited | 7466 | 0.94% |
-| Cyber Internet Services (Pvt) Ltd. | 6452 | 0.81% |
-| TELEFONICA BRASIL S.A | 6021 | 0.76% |
-| Datacamp Limited | 5588 | 0.70% |
-| Korea Telecom | 5433 | 0.68% |
-| China Mobile Communications Group Co., Ltd. | 5361 | 0.67% |
-| Tencent Building, Kejizhongyi Avenue | 5279 | 0.66% |
-| UNINET | 5184 | 0.65% |
-| Megasurf Wireless Internet CC | 4996 | 0.63% |
-| Akamai Connected Cloud | 4974 | 0.63% |
-| Space Exploration Technologies Corporation | 4734 | 0.60% |
-| Claro NXT Telecomunicacoes Ltda | 4668 | 0.59% |
-| Contabo GmbH | 4334 | 0.54% |
-| Clouvider Limited | 4298 | 0.54% |
-| Rostelecom | 4282 | 0.54% |
-| OVH SAS | 4266 | 0.54% |
-| Hangzhou Alibaba Advertising Co.,Ltd. | 3850 | 0.48% |
-| 3xK Tech GmbH | 3707 | 0.47% |
-| Comcast Cable Communications, LLC | 3584 | 0.45% |
-| Leaseweb USA, Inc. | 3510 | 0.44% |
-| Data Communication Business Group | 3440 | 0.43% |
-| Telecentro S.A. | 3360 | 0.42% |
-| Hetzner Online GmbH | 3282 | 0.41% |
-| Viettel Group | 3227 | 0.41% |
-| Turk Telekom | 3193 | 0.40% |
-| Telecom Argentina S.A. | 3108 | 0.39% |
-| Oracle Corporation | 3044 | 0.38% |
-| M247 Europe SRL | 2999 | 0.38% |
-| Telefonica de Argentina | 2950 | 0.37% |
-| Shenzhen Tencent Computer Systems Company Limited | 2937 | 0.37% |
-| Bharti Airtel Ltd., Telemedia Services | 2933 | 0.37% |
-| JSC ER-Telecom Holding | 2914 | 0.37% |
-| UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2903 | 0.36% |
-| Uzbektelekom Joint Stock Company | 2896 | 0.36% |
-| China Mobile communications corporation | 2826 | 0.36% |
-| VNPT Corp | 2819 | 0.35% |
-| PT Telekomunikasi Indonesia | 2747 | 0.35% |
-| IDDQD-AS | 2722 | 0.34% |
-| GSL Networks Pty LTD | 2676 | 0.34% |
-| Hydra Communications Ltd | 2414 | 0.30% |
-| Charter Communications Inc | 2371 | 0.30% |
-| Pakistan Telecommunication Company Limited | 2353 | 0.30% |
-| Orange | 2233 | 0.28% |
-| National Internet Backbone | 2218 | 0.28% |
-| Reliance Jio Infocomm Limited | 2195 | 0.28% |
-| Latitude.sh | 2188 | 0.28% |
-| HostRoyale Technologies Pvt Ltd | 2176 | 0.27% |
-| Unesty Company | 2041 | 0.26% |
-| PureVoltage Hosting Inc. | 2016 | 0.25% |
-| Verizon Business | 2007 | 0.25% |
-| HostPapa | 1974 | 0.25% |
-| Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM | 1894 | 0.24% |
-| Cloudflare, Inc. | 1870 | 0.24% |
-| TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V. | 1846 | 0.23% |
-| V tal | 1771 | 0.22% |
-| China Telecom (Group) | 1739 | 0.22% |
-| Cox Communications Inc. | 1718 | 0.22% |
-| AT&T Enterprises, LLC | 1657 | 0.21% |
-| Societe Francaise Du Radiotelephone - SFR SA | 1627 | 0.20% |
-| Censys, Inc. | 1604 | 0.20% |
-| IONOS SE | 1502 | 0.19% |
-| Fast Servers (Pty) Ltd | 1486 | 0.19% |
-| TELEFONICA CHILE S.A. | 1415 | 0.18% |
-| UFINET PANAMA S.A. | 1412 | 0.18% |
-| Philippine Long Distance Telephone Company | 1403 | 0.18% |
-| Zenlayer Inc | 1400 | 0.18% |
-| The Constant Company, LLC | 1359 | 0.17% |
-| Superonline Iletisim Hizmetleri A.S. | 1349 | 0.17% |
-| China Unicom Beijing Province Network | 1345 | 0.17% |
-| Viettel Corporation | 1334 | 0.17% |
-| Limestone Networks, Inc. | 1313 | 0.17% |
-| VERO S.A | 1295 | 0.16% |
+| Google LLC | 75612 | 9.29% |
+| DigitalOcean, LLC | 55915 | 6.87% |
+| Chinanet | 33487 | 4.11% |
+| CHINA UNICOM China169 Backbone | 26366 | 3.24% |
+| Microsoft Corporation | 18753 | 2.30% |
+| Amazon.com, Inc. | 14298 | 1.76% |
+| Alibaba (US) Technology Co., Ltd. | 10090 | 1.24% |
+| F.n.s. Holdings Limited | 7573 | 0.93% |
+| Cyber Internet Services (Pvt) Ltd. | 6504 | 0.80% |
+| TELEFONICA BRASIL S.A | 6065 | 0.74% |
+| Datacamp Limited | 5889 | 0.72% |
+| China Mobile Communications Group Co., Ltd. | 5638 | 0.69% |
+| Korea Telecom | 5522 | 0.68% |
+| Tencent Building, Kejizhongyi Avenue | 5376 | 0.66% |
+| UNINET | 5250 | 0.64% |
+| Megasurf Wireless Internet CC | 5002 | 0.61% |
+| Akamai Connected Cloud | 5000 | 0.61% |
+| Space Exploration Technologies Corporation | 4890 | 0.60% |
+| Claro NXT Telecomunicacoes Ltda | 4715 | 0.58% |
+| Contabo GmbH | 4451 | 0.55% |
+| Rostelecom | 4419 | 0.54% |
+| OVH SAS | 4342 | 0.53% |
+| Clouvider Limited | 4340 | 0.53% |
+| Comcast Cable Communications, LLC | 4088 | 0.50% |
+| 3xK Tech GmbH | 3884 | 0.48% |
+| Hangzhou Alibaba Advertising Co.,Ltd. | 3880 | 0.48% |
+| Leaseweb USA, Inc. | 3619 | 0.44% |
+| Data Communication Business Group | 3476 | 0.43% |
+| Telecentro S.A. | 3385 | 0.42% |
+| Hetzner Online GmbH | 3348 | 0.41% |
+| Turk Telekom | 3321 | 0.41% |
+| Viettel Group | 3316 | 0.41% |
+| Telecom Argentina S.A. | 3169 | 0.39% |
+| M247 Europe SRL | 3128 | 0.38% |
+| Bharti Airtel Ltd., Telemedia Services | 3086 | 0.38% |
+| Oracle Corporation | 3077 | 0.38% |
+| Telefonica de Argentina | 3065 | 0.38% |
+| VNPT Corp | 3010 | 0.37% |
+| China Mobile communications corporation | 2981 | 0.37% |
+| JSC ER-Telecom Holding | 2976 | 0.37% |
+| Shenzhen Tencent Computer Systems Company Limited | 2963 | 0.36% |
+| Uzbektelekom Joint Stock Company | 2918 | 0.36% |
+| UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED | 2913 | 0.36% |
+| PT Telekomunikasi Indonesia | 2838 | 0.35% |
+| IDDQD-AS | 2793 | 0.34% |
+| GSL Networks Pty LTD | 2756 | 0.34% |
+| Charter Communications Inc | 2663 | 0.33% |
+| Pakistan Telecommunication Company Limited | 2487 | 0.31% |
+| HostRoyale Technologies Pvt Ltd | 2422 | 0.30% |
+| Hydra Communications Ltd | 2421 | 0.30% |
+| National Internet Backbone | 2306 | 0.28% |
+| Reliance Jio Infocomm Limited | 2292 | 0.28% |
+| Orange | 2274 | 0.28% |
+| Verizon Business | 2251 | 0.28% |
+| Latitude.sh | 2208 | 0.27% |
+| Unesty Company | 2041 | 0.25% |
+| PureVoltage Hosting Inc. | 2036 | 0.25% |
+| HostPapa | 2033 | 0.25% |
+| Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM | 1948 | 0.24% |
+| Cloudflare, Inc. | 1901 | 0.23% |
+| TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V. | 1866 | 0.23% |
+| Cox Communications Inc. | 1821 | 0.22% |
+| V tal | 1804 | 0.22% |
+| China Telecom (Group) | 1792 | 0.22% |
+| AT&T Enterprises, LLC | 1783 | 0.22% |
+| Societe Francaise Du Radiotelephone - SFR SA | 1643 | 0.20% |
+| Censys, Inc. | 1606 | 0.20% |
+| IONOS SE | 1515 | 0.19% |
+| Fast Servers (Pty) Ltd | 1508 | 0.19% |
+| Philippine Long Distance Telephone Company | 1484 | 0.18% |
+| TELEFONICA CHILE S.A. | 1447 | 0.18% |
+| UFINET PANAMA S.A. | 1440 | 0.18% |
+| Zenlayer Inc | 1421 | 0.17% |
+| The Constant Company, LLC | 1414 | 0.17% |
+| Superonline Iletisim Hizmetleri A.S. | 1384 | 0.17% |
+| China Unicom Beijing Province Network | 1359 | 0.17% |
+| Viettel Corporation | 1336 | 0.16% |
+| Limestone Networks, Inc. | 1330 | 0.16% |
+| Telecom Algeria | 1326 | 0.16% |
+| HUAWEI CLOUDS | 1316 | 0.16% |
+| VERO S.A | 1316 | 0.16% |
 | Alpha Strike Labs GmbH | 1292 | 0.16% |
-| Telecom Algeria | 1281 | 0.16% |
-| Free SAS | 1249 | 0.16% |
-| TechTies Inc. | 1237 | 0.16% |
-| HUAWEI CLOUDS | 1235 | 0.16% |
-| Deutsche Telekom AG | 1227 | 0.15% |
-| CHINATELECOM Hubei province Wuhan 5G network | 1199 | 0.15% |
-| TOT Public Company Limited | 1181 | 0.15% |
-| TIM | 1176 | 0.15% |
-| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 1151 | 0.14% |
-| MTS PJSC | 1125 | 0.14% |
-| Digi Spain Telecom S.A | 1121 | 0.14% |
-| Hostinger International Limited | 1115 | 0.14% |
-| Shandong Mobile Communication Company Limited | 1115 | 0.14% |
-| Mega Cable, S.A. de C.V. | 1111 | 0.14% |
-| Techtel LMDS Comunicaciones Interactivas S.A. | 1094 | 0.14% |
-| Scaleway SAS | 1093 | 0.14% |
-| ONYPHE SAS | 1088 | 0.14% |
-| Telmex Colombia S.A. | 1058 | 0.13% |
-| BHARTI Airtel Ltd. | 1051 | 0.13% |
-| Saudi Telecom Company JSC | 1046 | 0.13% |
+| Free SAS | 1280 | 0.16% |
+| Deutsche Telekom AG | 1259 | 0.15% |
+| TechTies Inc. | 1237 | 0.15% |
+| TOT Public Company Limited | 1231 | 0.15% |
+| CHINATELECOM Hubei province Wuhan 5G network | 1223 | 0.15% |
+| TIM | 1220 | 0.15% |
+| Emirates Telecommunications Group Company (etisalat Group) Pjsc | 1183 | 0.15% |
+| Shandong Mobile Communication Company Limited | 1160 | 0.14% |
+| MTS PJSC | 1153 | 0.14% |
+| Digi Spain Telecom S.A | 1141 | 0.14% |
+| Techtel LMDS Comunicaciones Interactivas S.A. | 1137 | 0.14% |
+| Mega Cable, S.A. de C.V. | 1127 | 0.14% |
+| Hostinger International Limited | 1120 | 0.14% |
+| Scaleway SAS | 1107 | 0.14% |
+| Saudi Telecom Company JSC | 1090 | 0.13% |
+| ONYPHE SAS | 1088 | 0.13% |
+| Telmex Colombia S.A. | 1082 | 0.13% |
+| BHARTI Airtel Ltd. | 1061 | 0.13% |
