@@ -1,40 +1,40 @@
 # Top 100 Country Distribution
 | Country | Count | Percentage |
 |----|----|----|
-| United States | 213571 | 21.34% |
-| China | 97026 | 9.69% |
-| Brazil | 60822 | 6.08% |
-| India | 32183 | 3.22% |
-| Germany | 32028 | 3.20% |
-| Singapore | 27118 | 2.71% |
-| Russia | 27024 | 2.70% |
-| Argentina | 26577 | 2.66% |
-| United Kingdom | 21884 | 2.19% |
+| United States | 213613 | 21.34% |
+| China | 97035 | 9.69% |
+| Brazil | 60828 | 6.08% |
+| India | 32188 | 3.22% |
+| Germany | 32041 | 3.20% |
+| Singapore | 27126 | 2.71% |
+| Russia | 27026 | 2.70% |
+| Argentina | 26577 | 2.65% |
+| United Kingdom | 21889 | 2.19% |
 | Ukraine | 20840 | 2.08% |
-| France | 20704 | 2.07% |
+| France | 20707 | 2.07% |
 | Pakistan | 20505 | 2.05% |
-| Belgium | 20295 | 2.03% |
-| The Netherlands | 19743 | 1.97% |
+| Belgium | 20298 | 2.03% |
+| The Netherlands | 19753 | 1.97% |
 | Poland | 17757 | 1.77% |
 | Bangladesh | 17616 | 1.76% |
 | Indonesia | 17049 | 1.70% |
 | Mexico | 15783 | 1.58% |
 | Türkiye | 14832 | 1.48% |
-| Vietnam | 14313 | 1.43% |
-| Canada | 13857 | 1.38% |
-| South Korea | 11664 | 1.17% |
-| South Africa | 11143 | 1.11% |
-| Hong Kong | 10292 | 1.03% |
-| Japan | 10255 | 1.02% |
-| Colombia | 9322 | 0.93% |
+| Vietnam | 14314 | 1.43% |
+| Canada | 13868 | 1.39% |
+| South Korea | 11668 | 1.17% |
+| South Africa | 11144 | 1.11% |
+| Hong Kong | 10293 | 1.03% |
+| Japan | 10258 | 1.02% |
+| Colombia | 9323 | 0.93% |
 | Spain | 9242 | 0.92% |
-| Taiwan | 8566 | 0.86% |
+| Taiwan | 8575 | 0.86% |
 | Italy | 8308 | 0.83% |
 | Chile | 7979 | 0.80% |
-| Australia | 6454 | 0.64% |
+| Australia | 6456 | 0.64% |
 | Venezuela | 6393 | 0.64% |
 | Philippines | 5579 | 0.56% |
-| Thailand | 5386 | 0.54% |
+| Thailand | 5387 | 0.54% |
 | Uzbekistan | 5240 | 0.52% |
 | Malaysia | 5184 | 0.52% |
 | Iraq | 4687 | 0.47% |
@@ -47,18 +47,18 @@
 | Finland | 3657 | 0.37% |
 | Kenya | 3277 | 0.33% |
 | Azerbaijan | 3050 | 0.30% |
-| Egypt | 2953 | 0.30% |
+| Egypt | 2953 | 0.29% |
 | Saudi Arabia | 2801 | 0.28% |
 | Israel | 2797 | 0.28% |
 | Switzerland | 2767 | 0.28% |
 | Ireland | 2738 | 0.27% |
-| Bulgaria | 2614 | 0.26% |
+| Bulgaria | 2615 | 0.26% |
 | Portugal | 2421 | 0.24% |
 | Tunisia | 2397 | 0.24% |
 | Nepal | 2338 | 0.23% |
 | Romania | 2214 | 0.22% |
-| Seychelles | 2198 | 0.22% |
-| Algeria | 2114 | 0.21% |
+| Seychelles | 2199 | 0.22% |
+| Algeria | 2115 | 0.21% |
 | Peru | 2050 | 0.20% |
 | Nigeria | 1969 | 0.20% |
 | Dominican Republic | 1899 | 0.19% |
@@ -69,7 +69,7 @@
 | Lithuania | 1390 | 0.14% |
 | Jordan | 1367 | 0.14% |
 | Albania | 1318 | 0.13% |
-| Serbia | 1169 | 0.12% |
+| Serbia | 1170 | 0.12% |
 | Oman | 1165 | 0.12% |
 | Hungary | 1122 | 0.11% |
 | Ethiopia | 1079 | 0.11% |
@@ -79,7 +79,7 @@
 | Qatar | 1012 | 0.10% |
 | Armenia | 1006 | 0.10% |
 | Senegal | 1001 | 0.10% |
-| Costa Rica | 940 | 0.09% |
+| Costa Rica | 941 | 0.09% |
 | Panama | 933 | 0.09% |
 | Latvia | 902 | 0.09% |
 | Palestine | 898 | 0.09% |
