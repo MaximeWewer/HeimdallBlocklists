@@ -1,12 +1,12 @@
 # IP presence frequency in blocklists
 | Malicious IP | Number of IPs | % |
 |----|----|----|
-| Present in 2 blocklists | 638160 | 66.83% |
-| Present in 3 blocklists | 149214 | 15.63% |
-| Present in 4 blocklists | 53449 | 5.60% |
-| Present in 5 blocklists | 28386 | 2.97% |
-| Present in 6 blocklists | 24420 | 2.56% |
-| Present in 7 blocklists | 26274 | 2.75% |
-| Present in 8 blocklists | 25331 | 2.65% |
-| Present in 9 blocklists | 7083 | 0.74% |
-| Present in 10 blocklists | 2544 | 0.27% |
+| Present in 2 blocklists | 641300 | 66.92% |
+| Present in 3 blocklists | 148986 | 15.55% |
+| Present in 4 blocklists | 53517 | 5.58% |
+| Present in 5 blocklists | 29323 | 3.06% |
+| Present in 6 blocklists | 24508 | 2.56% |
+| Present in 7 blocklists | 25566 | 2.67% |
+| Present in 8 blocklists | 25395 | 2.65% |
+| Present in 9 blocklists | 7126 | 0.74% |
+| Present in 10 blocklists | 2542 | 0.27% |
